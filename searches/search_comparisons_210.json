@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Such comparisons with a gold standard and subsequently with other automated approaches operating on the same data sets adhere to recommended approaches of comparison of automated medical decision support systems [14].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "It is also well suited to problems requiring comparison of very long sequences, and we are currently extending this system to accommodate syntenic pairwise comparisons of genomic sequences of the type tackled by MUMmer [29].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Individual group comparisons were accomplished by using either the Tukey-Kramer Multiple Comparisons Test or t-tests [78] using the Bonferroni compensation for multiple comparisons.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The comparisons of translational power in Table 1 are based on the fastest growth rate for which data are available for each of the comparison organisms, because at submaximal growth rates, there may be a reduction in the average translation rate [4,57], in the active fraction of ribosomes [35,36], or both.",
+      "b_link": [
+        "B_4",
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "where the critical value Qα[kv] is the studentized range [37], k = number of groups in the comparison (for example, if comparisons are among tissues then k = 3), v = degrees of freedom of MStissue-by-individual within population, and SE is the standard error among tissue-by-individual samples within populations.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Among bacteria, comparisons of coexisting species or strains have also provided evidence for power-efficiency tradeoffs [25-28], as have comparisons of engineered mutant strains [29,30].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 14,
+      "title": "Neural networks as decision support systems: formal evaluation of inherent performance"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 29,
+      "title": "Alignment of whole genomes"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 78,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 57,
+      "title": "Metabolic growth rate control in Escherichia coli may be a consequence of subsaturation of the macromolecular biosynthetic apparatus with substrates and catalytic components"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 36,
+      "title": "Ribosome modulation factor – stationary growth phase-specific inhibitor of ribosome functions from Escherichia coli"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 4,
+      "title": "Costs of accuracy determined by a maximal growth rate constraint"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 35,
+      "title": "In vivo assay of protein synthesizing capacity of Escherichia coli from slowly growing chemostat cultures"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 37,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 30,
+      "title": "Speed versus efficiency in microbial growth and the role of parallel pathways"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 29,
+      "title": "Why does Escherichia coli have two primary pathways for synthesis of glutamate?"
+    }
+  ]
+}

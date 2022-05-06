@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Orthologous proteins – orthologs were found using blastp [22] with a P-value threshold of 10-7, and alignment length threshold of 0.3.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Orthologous mouse loci were identified by similarly retrieving mouse genomic mappings for mouse cDNAs defined as orthologs to the human cDNAs in GeneLynx [31].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In addition to the PDK1 orthologue, which was identified previously [26], there is at least one more putative group X member, orthologous to a recently identified human and mouse PKD1 homologue PKD1L2 [47].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The expected correlations are greater than zero for all five species; so putative PPIs are actually given positive scores for the existence of an orthologous pair, corresponding to the notion that PPIs are more likely to have pairs of orthologs [21].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Orthologues of all four of these proteins (Pol3, Cdc1, Cdc27 and Cdm1) make up mammalian Pol δ [14,15].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Orthologous sequences were isolated using the FlyCatcher program [12].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 22,
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 31,
+      "title": "Human-mouse alignments with BLASTZ"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 47,
+      "title": "Identification of two novel polycystic kidney disease-1-like genes in human and mouse genomes"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 26,
+      "title": "Comparative analysis of the polycystic kidney disease 1 (PKD1) gene reveals an integral membrane glycoprotein with multiple evolutionary conserved domains"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "Conservation of protein-protein interactions - lessons from ascomycota"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 15,
+      "title": "Distinct roles of DNA polymerases δ and ε at the replication fork in Xenopus egg extracts"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 14,
+      "title": "Reconstitution of human DNA polymerase δ using recombinant baculoviruses: the p12 subunit potentiates DNA polymerizing activity of the four-subunit enzyme"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 12,
+      "title": "FlyCatcher"
+    }
+  ]
+}

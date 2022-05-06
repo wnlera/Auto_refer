@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Even repeated administration of single [11,12] or different [13] rSV40 vectors in normal, immunocompetent hosts does not generate antibodies against the vector capsid proteins sufficiently to impair the ability of these vectors to deliver their genes efficiently in vivo.",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "However, while, tRNALys3 is annealed efficiently in protease-negative HIV-1 (about 80% that found in wild-type virions), optimal placement on the viral genome to achieve efficient initiation of reverse transcription requires exposure of the viral genome to mature nucleocapsid protein [15].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Residences in Wuhan, however, were not energy-efficiently built [16].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "However, the terms 'ribosome efficiency' and 'translational efficiency' blur this distinction, because they refer to a rate – the quantitative measure of ribosome efficiency [1] is expressed in units of (time-1).",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The dog derived D17 cell line can be infected with BLV albeit not very efficiently [14].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "L-histidine heptamers have been shown to enter cells, although much less efficiently than arginine homopolymers [37,38].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Ben-Dor et al [8] use simulated annealing to efficiently search the space of all binary sample partitions.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 11,
+      "title": "Use of SV40 to immunize against hepatitis B surface antigen: Implications for the use of SV40 for gene transduction and its use as an immunizing agent"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 13,
+      "title": "A replication-deficient rSV40 mediates liver-directed gene transfer and a long-term amelioration of jaundice in gunn rats"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 12,
+      "title": "Immune responses against SIV envelope glycoprotein using recombinant SV40 as a vaccine delivery vehicle"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "The role of Pr55gag and NCp7 in tRNALys3 genomic placement and the initiation step of reverse transcription in HIV-1"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 16,
+      "title": "Children's respiratory morbidity prevalence in relation to air pollution in four Chinese cities"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "The distribution of soluble and ribosomal RNA as a function of growth rate"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 14,
+      "title": "In vivo study of genetically simplified bovine leukemia virus derivatives that lack tax and rex"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 38,
+      "title": "The design, synthesis, and evaluation of molecules that enable or enhance cellular uptake: peptoid molecular transporters"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 37,
+      "title": "Polyarginine enters cells more efficiently than other polycationic homopolymers"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "Class discovery in gene expression data"
+    }
+  ]
+}

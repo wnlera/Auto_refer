@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "The high levels of serum S100A8/A9 in chronic inflammatory pathologies such as rheumatoid arthritis and inflammatory bowel disease, as well as during bronchitis and tuberculosis [20], suggest that they might play a role in inflammatory reactions.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Tissue infiltration by leukocytes is a common hallmark in several chronic inflammatory states which include the inflammatory bowel diseases, ulcerative colitis (UC), and Crohn's disease (CD), but also several other chronic inflammatory states such as arthritis, lupus, diabetes [17,47,58].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Atherosclerosis is a chronic inflammatory disease [27,28].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Another inflammatory mediator, nitric oxide (NO), has been linked to a number of physiologic processes, including leukocyte-dependent inflammatory processes and oxidant-mediated tissue injury [8,9].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Emerging evidence suggests that pro-inflammatory genotypes are related to unsuccessful ageing, and, reciprocally, controlling inflammatory status may allow a better chance of successful ageing [4,5,8,12].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 20,
+      "title": "Myeloid-related proteins 8 and 14 are specifically secreted during interaction of phagocytes and activated endothelium and are useful markers for monitoring disease activity in pauciarticular-onset juvenile rheumatoid arthritis"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 17,
+      "title": "Mucosal addressin is required for the development of diabetes in nonobese diabetic mice"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 58,
+      "title": "Involvement of beta 7 integrin and mucosal addressin cell adhesion molecule-1 (MAdCAM-1) in the development of diabetes in obese diabetic mice"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 47,
+      "title": "Expression of endothelial cell adhesion molecules in joints and heart during Borrelia burgdorferi infection of mice"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 28,
+      "title": "Diabetes and vascular disease: pathophysiology, clinical consequences, and medical therapy: Part II"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 27,
+      "title": "Atherosclerosis--an inflammatory disease"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 8,
+      "title": "Nitric oxide affects microvascular permeability in the intact and inflamed vasculature"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 9,
+      "title": "Genistein prevents nuclear factor-kappa B activation and acute lung injury induced by lipopolysaccharide"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 12,
+      "title": "Inflammation, genetics, and longevity: further studies on the protective effects in men of IL-10 -1082 promoter SNP and its interaction with TNF-alpha -308 promoter SNP"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "Centenarians as a model for healthy aging"
+    }
+  ]
+}

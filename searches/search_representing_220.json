@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Janlert [18] identifies the frame problem with \"the problem of representing change.\"",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Studies of cLys regulation were greatly facilitated by cell lines representing these differentiation stages [27,28].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "We defined our own outcome of clinical success, representing approximately a 50% reduction in pain [1].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Systems biology markup language (SBML) is a standard for representing dynamical systems of biological interest [1,2].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Selection of an appropriate gene or region for analysis is critical for accurately representing phylogenetic relationships [11,12].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Ten sampling plots representing mature and successional vegetation stages of known ages were established [17] (Table 1).",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "NACCHO, which is the peak body representing the Aboriginal community controlled health sector, was concerned with [7]:",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 18,
+      "title": "Modeling Change - The Frame Problem"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 27,
+      "title": "The chicken lysozyme chromatin domain"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 28,
+      "title": "Chromatin fine structure profiles for a developmentally regulated gene: reorganization of the lysozyme locus before trans-activator binding and gene expression"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 1,
+      "title": "Quantitative systematic review of topically applied non-steroidal anti-inflammatory drugs"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 2,
+      "title": "Systems biology markup language: Level 2 and beyond"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "The systems biology markup language (SBML): a medium for representation and exchange of biochemical network models"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 12,
+      "title": "Principles and applications of methods for DNA-based typing of microbial organisms"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 11,
+      "title": "Efficiencies of different genes and different tree-building methods in recovering a known vertebrate phylogeny"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 17,
+      "title": "Effect of habitat alteration on herpetofaunal assemblages of evergreen forest in Mizoram, North-East India"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 7,
+      "title": "Peak Aboriginal health body pulls out of government advisory group in protest [press release]"
+    }
+  ]
+}

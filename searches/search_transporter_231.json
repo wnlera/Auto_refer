@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Such inserts correspond most often to genes coding for transporters or for non-transporter membrane proteins [35].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In Salmonella typhimurium, an ABC transporter with high homology to ribose transporters, which is however not homologous to LuxP, has been identified whose expression requires the presence of AI-2 and whose function is to transport it back into the cell [20,39].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Gabapentin can be transported into cells via the L α-amino acid transporter and may achieve intracellular concentrations 10–20 times the levels in the extracellular environment [25].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "These genes now turn out to be both abundant and enriched; among the ABC transporters are scarlet and white, and among the monocarboxylic acid transporters is CG12286, which we have recently argued to correspond to karmoisin, a probable kynurenine tranporter [37].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Many components of the serotonin and dopamine synthesis and transport pathways in C. elegans have now been identified by these traditional and reverse genetic approaches, including tyrosine hydroxylase (cat-2; [25]), tryptophan hydroxylase (tph-1; [19]), serotonin reuptake transporter (mod-5; [26]), dopamine reuptake transporter (dat-1; [27]) and vesicular monoamine transporter (cat-1; [28]).",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 35,
+      "title": "Phylogenetic classification of transporters and other membrane proteins from Saccharomyces cerevisiae."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 20,
+      "title": "The LuxS-dependent autoinducer AI-2 controls the expression of an ABC transporter that functions in AI-2 uptake in Salmonella typhimurium"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 39,
+      "title": "Lsr-mediated transport and processing of AI-2 in Salmonella typhimurium"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 25,
+      "title": "Effects of anticonvulsant drug gabapentin on the enzymes in metabolic pathways of glutamate and GABA"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 37,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 26,
+      "title": "Mutations in the Caenorhabditis elegans serotonin reuptake transporter MOD-5 reveal serotonin-dependent and -independent activities of fluoxetine"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 19,
+      "title": "Feeding and metabolic signaling defects in a Caenorhabditis elegans serotonin-synthesis mutant"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 27,
+      "title": "Neurotoxin-induced degeneration of dopamine neurons in Caenorhabditis elegans"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 25,
+      "title": "Patterning of dopaminergic neurotransmitter identity among Caenorhabditis elegans ray sensory neurons by a TGFb family signaling pathway and a Hox gene"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 28,
+      "title": "The cat-1 gene of Caenorhabditis elegans encodes a vesicular monoamine transporter required for specific monoamine-dependent behaviors"
+    }
+  ]
+}

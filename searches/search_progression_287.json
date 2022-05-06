@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "1), suggesting that this may be a useful approach to distinguishing the progressive stages of CRC adenomas as previously observed in tumour progression in the thyroid [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "However we stress concerning long-term steroid therapy and progression of MS, that there are positive outcomes of trials with intravenous methylprednisolone administration in various application rates and dosages on long term disease progression and/or on brain atrophy in secondary-progressive -, respectively relapsing-remitting MS patients [16,21].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "There is evidence suggesting that niacin reduces the risk of a coronary artery or cerebrovascular disease in the setting of secondary prevention, and when combined with a bile acid-sequestrant, promotes regression and decreases progression of atherosclerotic cardiovascular disease [2,3].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Apoptosis is thought to be critical for the development and the progression of cancer and it appears to be involved in numerous steps in tumor progression [27].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "[18] was used to determine the progression of dementia.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The underlying risk progression may be likely explained elsewhere [37].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Tax also activates cyclin D2 [143], cyclin D3 [144] and cdk6 [145], which are involved in the cell cycle progression, and inactivates p16INKA4 [146] which acts to restrain excessive cycle progression.",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "Somatic mitochondrial DNA (mtDNA) mutations in papillary thyroid carcinomas and differential mtDNA sequence variants in cases with thyroid tumours"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 21,
+      "title": "Effects of IV methylprednisolone on brain atrophy in relapsing- remitting MS"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 16,
+      "title": "A phase II study of i.v. methylprednisolone in secondary-progressive multiple sclerosis"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 2,
+      "title": "Beneficial effects of colestipol-niacin on coronary atherosclerosis. A 4-year follow-up"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 3,
+      "title": "Clofibrate and niacin in coronary heart disease"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 27,
+      "title": "The hallmarks of cancer"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 18,
+      "title": "A new clinical scale for the staging of dementia"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 37,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 143,
+      "title": "Transcriptional up-regulation of the cyclin D2 gene and acquisition of new cyclin-dependent kinase partners in human T-cell leukemia virus type 1-infected cells"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 144,
+      "title": "Human T-cell leukemia virus type 1 Tax and cell cycle progression: role of cyclinD-cdk and p110Rb"
+    }
+  ]
+}

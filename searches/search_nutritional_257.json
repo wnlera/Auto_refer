@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "This issue has been controversial; some authors suggest that the relationship between prolonged breast-feeding and malnutrition may indicate a maternal decision to continue breast-feeding to a nutritionally disadvantaged child [37-39], rather than being the direct effect of prolonging breast-feeding on the child's nutritional status [40].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "M. sexta larvae fed low protein and nutritionally unbalanced diets compensated not only for the decreased protein intake [51] but also for unbalanced nutrition by selecting diets high in the missing nutrients which increased larval growth rates [52,53].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The methodology of the nutritional intervention has been described previously [8].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "[11] to be needed to directly alter the nutritional quality of the leaves.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "THA1 has been shown to play a role in seed nutritional quality [25].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The second aim was to introduce nursing procedures focusing on the nutritional care based on the Danish nutritional recommendations for inpatients [15] to investigate the effect of this intervention on the patients' intake of protein and energy.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Susceptibility may also be dependent on haematological and nutritional factors as well as HIV status [25].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The common understanding and recognition of the integration of nutritional care as part of the overall care among all occupational groups is a key prerequisite in an effort to see nutritional care as part of the care for the individual patient [23,30,31].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 40,
+      "title": "Mothers prolong breastfeeding of undernourished children in rural Senegal"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 53,
+      "title": "Altered dietary nutrient intake maintains metabolic homeostasis in parasitized larvae of the insect Manduca sexta L."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 52,
+      "title": "A comparison of dietary selection behavior in larval Locusta migratoria and Spodoptera littoralis."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 51,
+      "title": "Patterns and mechanism of growth of fifth-instar Manduca sexta caterpillars following exposure to low- or high-protein food during early instars."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "Effect of a nutritional intervention promoting the Mediterranean food pattern on plasma lipids, lipoproteins and body weight in healthy French-Canadian women."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "Vicilin with carboxy-terminal KDEL is retained in the endoplasmic reticulum and accumulates to high levels in the leaves of transgenic plants"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "Application of a high-throughput HPLC-MS/MS assay to Arabidopsis mutant screening; evidence that threonine aldolase plays a role in seed nutritional quality"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 15,
+      "title": "[Recommandations for the food at Danish Institutions]. Copenhagen: School of Catering Officers in Copenhagen, Ministry of Food, Agriculture and Fisheries, The Directorate of Veterinary and Food"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 25,
+      "title": "Effect of HIV-1 and increasing immunosuppression on malaria parasitaemia and clinical episodes in adults in rural Uganda: a cohort study"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 23,
+      "title": "EGGOG"
+    }
+  ]
+}

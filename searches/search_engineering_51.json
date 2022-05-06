@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "AIC has been widely employed to determine the complexity of system modeling science and engineering [42].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Engineering clonal or semi-clonal populations of T cells will create T cells reactive with two known antigens [5].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "We have recently described the rational design and engineering of several recombinant PAP mutants with superior anti-HIV activity [11,17].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "As such, quantitative knowledge of in vivo molecular fluxes is highly relevant to functional genomics, metabolic engineering and systems biology [2,3].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Oligomeric enzyme stability was also reported to be improved through engineering to increase the hydrophobic interaction at the oligomer interface [25].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In the experience of engineering field, the systematic architecture and dynamic model could investigate the characteristics of signaling regulatory pathways [8].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "[23] showed that such knowledge can be used to enhance EPS production in S. thermophilus by metabolic engineering of central carbon metabolism.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "All benchmark experiments were performed on a Linux cluster in the Department of Engineering at the University of Alabama at Birmingham [19].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 42,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "Reprogramming of virus-specific T cells into Leukemia-reactive T cells using T cell receptor gene transfer"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "Modeling and alanine scanning mutagenesis studies of recombinant pokeweed antiviral protein"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 17,
+      "title": "Pokeweed antiviral protein isoforms PAP-I, PAP-II, and PAP-III depurinate RNA of human immunodeficiency virus (HIV)-1"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 3,
+      "title": "Metabolic pathways in the post-genome era."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 2,
+      "title": "Lessons from metabolic engineering for functional genomics and drug discovery."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "Residue frequencies and pairing preferences at protein-protein interfaces"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 8,
+      "title": "Inferring dynamic architecture of cellular networks using time series of gene expression, protein and metabolite data"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 23,
+      "title": "Enhanced polysaccharide production by metabolic engineering of Streptococcus thermophilus"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 19,
+      "title": "Enabling Technology Laboratory"
+    }
+  ]
+}

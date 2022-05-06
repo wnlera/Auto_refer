@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "The algorithm is essentially the same used by [19], with the major difference being the fact that it considers only two states (transmembrane vs. non-transmembrane).",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In order to have objective and reproducible results, we used the annotations for the transmembrane segments deposited in the Protein Data Bank of Transmembrane Proteins (PDB_TM) [53].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The alignment of transmembrane regions using standard substitution matrices might be inaccurate because of the different roles played by amino acids in globular proteins and in transmembrane media [25].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "This is somewhat expected, and has a simple interpretation considering the grammatical structure of the short amphipathic transmembrane β-strands as opposed to the longer and highly hydrophobic transmembrane α-helices [1].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "These residues are part of the third transmembrane helix of the SDHD protein [54].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "It consists of two ATP-binding domains (PF00005) [24,25] and two transmembrane domains (PF00664).",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "As measures of the per residue accuracy, we report here both the total fraction of the correctly predicted residues (Qβ) in a two-state model (transmembrane versus non-transmembrane), and the well known Matthews Correlation Coefficient (Cβ) [25].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "[16] included information about predicted transmembrane segments into the standard Smith-Waterman and profile-search algorithms for membrane proteins by adding an extra delta (score) when two residues that are both predicted to belong to transmembrane segments are aligned.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The first computational methods that were deployed for the prediction of the transmembrane strands were based on hydrophobicity analyses, using sliding windows along the sequence, in order to capture the alternating patterns of hydrophobic-hydrophilic residues of the transmembrane strands [10,11].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "A Hidden Markov Model method, capable of predicting and discriminating beta-barrel outer membrane proteins"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 53,
+      "title": "Transmembrane proteins in protein data bank: identification and classification"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 25,
+      "title": "A mutation data matrix for transmembrane proteins"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 1,
+      "title": "Recent advances in the understanding of membrane protein assembly and function"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 54,
+      "title": "Architecture of succinate dehydrogenase and reactive oxygen species generation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 24,
+      "title": "A family of related ATP-binding subunits coupled to many distinct biological processes in bacteria."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "Binding protein-dependent transport systems."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 25,
+      "title": "Assessing the accuracy of prediction algorithms for classification: an overview"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 16,
+      "title": "Improved detection of homologous membrane proteins by inclusion of information from topology predictions"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 10,
+      "title": "Prediction of membrane-spanning beta-strands and its application to maltoporin"
+    }
+  ]
+}

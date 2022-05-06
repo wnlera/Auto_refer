@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Household locations can be captured by using GPS (global positioning system) receivers [6,7].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "These findings are consistent with previously described roles for Rap1 in opening chromatin and altering nucleosome positioning [27,28].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "This triad is present in a majority of ePKs and is involved in positioning the ATP molecule in the catalytic cleft [63].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "A cytoskeletal anchor protein, α-catenin is required for positioning of the oocyte relative to the posterior follicle cells during germ cell rearrangement in Drosophila [81].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "YY1 is a zinc finger-containing protein with a variety of gene-specific functions, including transcriptional activation and repression, positioning of RNA polymerase II, and chromatin modification [47,48].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Short tracts not only are incorporated into nucleosomes, but they actually represent more stable than average nucleosome positioning sequences when they occur in-phase with the helical turn at roughly every 10 bp [50].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In longitudinal studies on nurses and nursing aides, frequent lifting or repositioning of patients did not predict future sick leave [11,16].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "GIS/GPS to document increased access to comminity-based treatment for tuberculosis in Africa"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 6,
+      "title": "Implementation of a Medical Geographic Information System: Concepts and Uses"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 28,
+      "title": "In vivo topography of Rap1p-DNA complex at Saccharomyces cerevisiae TEF2 UAS(RPG) during transcriptional regulation."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 27,
+      "title": "Chromatin opening and transactivator potentiation by RAP1 in Saccharomyces cerevisiae."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 63,
+      "title": "A member of the Plasmodium falciparum Pf60 multigene family codes for a nuclear protein expressed by readthrough of an internal stop codon"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 81,
+      "title": "The Drosophila AP axis is polarised by the cadherin-mediated positioning of the oocyte"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 47,
+      "title": "Everything you have ever wanted to know about Yin Yang 1"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 48,
+      "title": "Targeted recruitment of a histone H4-specific methyltransferases by the transcription factor YY1"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 50,
+      "title": "Identification and Characterization of Genomic Nucleosome-positioning Sequences"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 16,
+      "title": "Work factors as predictors of sickness absence: a three month prospective study of nurses' aides"
+    }
+  ]
+}

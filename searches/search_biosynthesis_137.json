@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "The B. subtilis enzymes in this group are fatty acid biosynthesis enzymes, agreeing with the known fact that this organism synthesizes a greater variety of fatty acids and has dedicated more of its proteome towards diversifying its fatty acid biosynthetic capabilities [33,34].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Consistent with a previous study [21], we observed coordinate regulation of genes within distinct biochemical pathways; Figure 5 includes the examples 'polyamine biosynthesis' and 'serine biosynthesis'.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Studies in diabetic rats have shown reduced activity of the key enzyme in the biosynthesis of heparan sulfate, N-deacetylase, which results in impaired heparan sulfate biosynthesis in experimental diabetes [30,31].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This suggests that in neonatal rat cardiac myocytes cholesterol biosynthesis is stimulated after MS. Neonatal rat heart myocytes that undergo hypertrophy in culture show an increased biosynthesis and intracellular accumulation of cholesterol [27].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The azole antifungal effect resides in inhibition of CYP51 mediated ergosterol biosynthesis [2].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In an attempt to reduce CyPA biosynthesis, two different anti-sense strategies were used [37].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "This is likely to be a result of increased phospholipid biosynthesis and reduced phospholipid breakdown [45].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "More recently, a similar pathway for polyamine biosynthesis has been identified by homology in higher plants [18].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 33,
+      "title": "Location and properties of glucose dehydrogenase in sporulating cells and spores of Bacillus subtilis"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 34,
+      "title": "Sporulation Genes and Intercompartmental Regulation"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 21,
+      "title": "Delineating developmental and metabolic pathways in vivo by expression profiling using the RIKEN set of 18,816 full-length enriched mouse cDNA arrays"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 30,
+      "title": "Reduced sulfatation of liver heparan sulfate in experimentally diabetic rats"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 31,
+      "title": "Inhibition of glomerular glucosaminyl N- deacetylase in diabetic rats"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 27,
+      "title": "Cholesterol homeostasis in cultures of rat heart myocytes: relationship to cellular hypertrophy"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "P450 inhibitors of use in medical treatment: focus on mechanisms of action"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 37,
+      "title": "Inhibition of HIV-1 multiplication by anti-sense U7 snRNAs and siRNAs targeting cyclophilin A"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 45,
+      "title": "Eicosapentaenoic acid in treatment-resistant depression associated with symptom remission, structural brain changes and reduced neuronal phospholipid turnover"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 18,
+      "title": "Identification and characterization of plant agmatine iminohydrolase, the last missing link in polyamine biosynthesis of plants"
+    }
+  ]
+}

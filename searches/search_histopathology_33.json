@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Brains were collected and processed for histopathology as previously described [15].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Inflammation and PMNs distribution in the brain of moribund mice closely mimicked the histopathology of meningitis in humans [54].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Since p27 expression is readily assessed by ICH, this protein is a prognostic marker quite popular in histopathology [4].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Sections were stained with H&E [52], and processed for histopathologic evaluations.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "However, several investigators fail to correlate any histopathologic parameter with lymph node metastases [8,10,11].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The histopathologic diagnosis and classification of DCIS was made according to the Holland grading system [4].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Histopathologic evidence of salivary gland inflammation and the presence of serum autoantibodies SSA or SSB are important diagnostic features of the disease [27].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Therefore even though the CP in advanced AD shows extensive histopathology (Table 2) and has reduced enzymatic activities and fluid formation [4,6,26], it evidently retains the ability to react to biochemical perturbations by expressing housekeeping proteins.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 15,
+      "title": "Transient neuronal but persistent astroglial activation of ERK/MAP kinase after focal brain injury in mice"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 54,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Cancer prognostics: past, present and p27Kip1"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 52,
+      "title": "Antioxidants block prostate cancer in lady transgenic mice"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "Importance of lymphatic mapping in ductal carcinoma in situ (DCIS): why map DCIS?"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 10,
+      "title": "Axillary lymph node metastases in patients with a final diagnosis of ductal carcinoma in situ"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 11,
+      "title": "Axillary sentinel lymph node biopsy in patients with pure ductal carcinoma in situ of the breast"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Ductal carcinoma in situ: proposal for a new classification"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 27,
+      "title": "Update in Sjögren syndrome"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 26,
+      "title": "Ageing choroid plexus-cerebrospinal fluid system"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The tumors are highly vascular, and between the many capillaries are clusters of cells called Zellballen [41].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In the fetal capillaries, blood flows from the periphery towards the center, allowing for countercurrent exchange [5,6].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Because capillaries within the LC are located in the connective tissue plates [43], elevated IOP would likely compromise the blood flow to the LC.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "In addition to formation of capillaries themselves, intricate anastomoses between micro-vessels further 'fine tune' the metabolic support of developing glia and neurons [81]",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Other oddities to be incorporated in a comprehensive explanation of schizophrenia include highly visible nail fold capillaries [43,44] and the rarity of rheumatoid arthritis among schizophrenic persons [45].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "This natural resistance between the aorta and the capillaries (of ~45 mmHg) is provided by the arterioles[34] which present up to 60% of the total coronary vascular resistance.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "For example, the human endometrium contains CA II only in the capillaries, whereas this high activity isozyme is abundantly expressed in the epithelial cells of the mouse endometrium [4,24].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 41,
+      "title": "Carotid body tumors"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "The definitive architecture of the placenta of nutria, Myocastor coypus (Molina)"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "Vascular organization of the hystricomorph placenta: a comparative study in the agouti, capybara, guinea pig, paca and rock cavy"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 43,
+      "title": "Blood supply of the optic nerve head"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 81,
+      "title": "Histomorphology of angiogenesis in human perinatal orbitofrontal cortex: a Golgi and electron microscopic study of anastomosis formation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 45,
+      "title": "Negative association between schizophrenia and rheumatoid arthritis"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 44,
+      "title": "Relationships between nailfold plexus visibility and clinical, neuropsychological, and brain structural measures in schizophrenia"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 43,
+      "title": "Capillary pattern in familial schizophrenics: a study of nailfold capillaries"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 34,
+      "title": "Microvascular distribution of coronary vascular resistance in beating left ventricle"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 24,
+      "title": "Immunocytochemistry of ion transport mediators in the genital tract of female rodents"
+    }
+  ]
+}

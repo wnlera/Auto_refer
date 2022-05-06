@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "It also means developing career prospects and providing perspectives for training [119,120].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The nursing staff perspective on residents with dementia is unique [23], and the M-NCAS exploits this perspective by capturing the aspects of residents beyond overt behaviors.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "However, if the human perspective is removed from an event then, \"From the perspective of the whole even such conditions are not unnatural, because all natural events contribute to the universal well-being\" [11].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Diabetes has been extensively studied and thoroughly analyzed also from a systems perspective [8].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "QOL represents a subjective concept, with a multidimensional perspective encompassing physical, emotional, and social functioning [27].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "This is consistent with the finding of Whittemore and Halpern [9], although the conclusions are reached from two different perspectives (see Discussion).",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "noted that the skills for understanding patient's perspectives, which our intervention made a difference, are actually 'content' skills, not 'process' skills [16].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "There are various forms of distortion including geometrical, curvilinear, anamorphic and perspective distortion recognised in photometrics [15].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In a 23-year perspective study, the physical work load decreased among men but not among women [42].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 120,
+      "title": "Human development challenges in health care reform"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 119,
+      "title": "From cooperation to competition in national health systems – and back?: impact on professional ethics and quality of care"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 23,
+      "title": "The uniqueness of the nursing perspective in managing behavioral problems"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 11,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "Decision support systems in diabetes: a systems perspective"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 27,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "Problems in the definition, interpretation, and evaluation of genetic heterogeneity"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 16,
+      "title": "Marrying content and process in clinical method teaching: enhancing the Calgary-Cambridge guides"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 15,
+      "title": "In: Applied Photographic Optics"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 42,
+      "title": "Physical work load between 1970 and 1993 – did it change?"
+    }
+  ]
+}

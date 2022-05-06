@@ -1,0 +1,116 @@
+{
+  "main_text": [
+    {
+      "sentence": "[21] proposed that differences in immune status may explain the 3.3% difference in gene expression among genetically identical mice.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Following [13] a multivariate equivalent of FA1 (i.e., the \"unsigned\" left-right differences) was defined by changing the signs of all coordinate differences (from left-right to right-left) whenever the inner product (also referred to as the dot product) of a left-right difference vector with the vector of mean left-right difference was negative.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Casaburi found, like Creutzberg[36], differences in hemoglobin changes between groups (mean difference in hemoglobin change between the testosterone and placebo group 1.4 g/dL, p < 0.05).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The third method (conservation difference or CD) is based on the conservation differences between a native alignment and an alignment derived from the Z-score sequence design [21].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "As noted by Ewens [38], the Moran model closely resembles the Wright-Fisher model; the critical difference between the two models arises from differences in the distribution of offspring number.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This difference in test performance across studies may be due to differences in study design, patient population, case difficulty, type of equipment, abilities of raters, and dependence of OR on threshold chosen [4].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The difference between our results in El Salvador and those obtained in the study of Caucasian women in the US [11] may, at least in part, reflect differences in standard of living between these two countries.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The observed difference could be caused by differences in the extent of gene flow from the west to different social layers of the Indian society [19], and/or a more pronounced genetic drift among the tribal groups.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "These differences correspond to small to moderate effect size differences [13].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "These were considered to be more computationally efficient as they do not require the intense multiplicative processes associated with CC, but may be based on for example weighted correlation of differences methods [8] and average magnitude cross difference methods [9].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 21,
+      "title": "Project normal: defining normal variance in mouse gene expression."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 13,
+      "title": "Geometric morphometrics of developmental instability: analyzing patterns of fluctuating asymmetry with Procrustes methods"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 36,
+      "title": "A role for anabolic steroids in the rehabilitation of patients with COPD? A double-blind, placebo-controlled, randomized trial"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 21,
+      "title": "Using protein design for homology detection and active site searches"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 38,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 4,
+      "title": "Regression methods for meta-analysis of diagnostic test data"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 11,
+      "title": "Osteoporosis knowledge, calcium intake, and weight-bearing physical activity in three age groups of women"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 19,
+      "title": "Genetic evidence on the origins of Indian caste populations"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 13,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "An improved method for on-line averaging and detecting of ecg waveforms"
+    }
+  ]
+}

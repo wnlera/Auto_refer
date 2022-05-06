@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "In the fly interaction map, each interaction has an associated confidence score, and interactions with a score greater than 0.5 are considered core interactions (the interaction score mainly depends upon the number of times each interaction was detected, the total number of interactions made by each protein and the local network clustering [5]).",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In the fly interaction map each interaction has an associated confidence score, and interactions with a score greater than 0.5 are considered core interactions (the interaction score mainly depends upon the number of times each interaction was detected, the total number of interactions made by each protein and the local network clustering; see [5]).",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Description, this field contains the original annotation for the model organism protein interaction; for worm interactions this indicates whether the interaction is in the core dataset of interactions found more than once (CORE_1), or interactions that reconfirmed when retested (CORE_2), or non-core interactions that did not reconfirm (NON_CORE) [6].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Although weak, these interactions are important in the context of leukocytes interacting with other cells as illustrated by all the functional data on the interaction of CD8 with MHC Class II (KD = 200 μM) [17].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The former consists of the complete yeast-interaction network of 20,985 interactions, in which 5,453 proteins are connected into circuits of protein-protein or protein-DNA interactions [29,30].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In the worm interaction map, these are defined as interactions that reconfirmed when retested in the Y2H assay [6].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "However, many physical interactions are conserved between species, so it should be possible to infer information about human protein interactions and protein function using data from model organism protein-interaction datasets [7,8].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Core interactions were defined as those predicted by worm interactions identified more than once or that reconfirmed when retested in the two-hybrid assay [6], by fly interactions with an interaction score greater than 0.5 [5], or by yeast interactions detected two or more times by a single assay [1-3,11].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "A protein interaction map of Drosophila melanogaster."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "A protein interaction map of Drosophila melanogaster."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "A map of the interactome network of the metazoan C. elegans."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 17,
+      "title": "T cell receptor and coreceptor CD8 alphaalpha bind peptide-MHC independently and with distinct kinetics"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 29,
+      "title": "DIP, the Database of Interacting Proteins: a research tool for studying cellular networks of protein interactions."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 30,
+      "title": "Transcriptional regulatory networks in Saccharomyces cerevisiae."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "A map of the interactome network of the metazoan C. elegans."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 7,
+      "title": "Identification of potential interaction networks using sequence-based searches for conserved protein-protein interactions or \"interologs\"."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 8,
+      "title": "Prediction, assessment and validation of protein interaction maps in bacteria."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 5,
+      "title": "A protein interaction map of Drosophila melanogaster."
+    }
+  ]
+}

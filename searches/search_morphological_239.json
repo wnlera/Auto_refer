@@ -1,0 +1,86 @@
+{
+  "main_text": [
+    {
+      "sentence": "These parasites remain surrounded by morphologically normal midgut epithelial cells, which do not exhibit the morphological abnormalities associated with parasites invading intracellularly [45].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Previously evaluated approaches such as fluorodeoxyglucose-positron emission tomography [19,20], morphological evaluation of frozen sections [21-24], intraoperative morphological evaluation of imprint cytology [25,26], and immunostaining of frozen sections [27] are not sufficiently sensitive.",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "RV induces apoptosis in RK13 cells with characteristic morphological and biochemical features [6,8,9].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In contrast, morphological evidence provided the basis for Chu's [26] study of gull phylogeny.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 45,
+      "title": "Overexpression and altered nucleocytoplasmic distribution of Anopheles ovalbumin-like SRPN10 serpins in Plasmodium-infected midgut cells"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 25,
+      "title": "Intraoperative evaluation of sentinel lymph nodes for metastatic melanoma by imprint cytology"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 27,
+      "title": "Rapid immunohistochemistry of sentinel lymph nodes for metastatic melanoma"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 19,
+      "title": "Fluorodeoxyglucose-positron emission tomography and sentinel lymph node biopsy in staging primary cutaneous melanoma"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 20,
+      "title": "Sentinel lymph node excision (SLNE) and positron emission tomography in the staging of stage I-II melanoma patients"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 26,
+      "title": "Role of imprint cytology in the intraoperative evaluation of sentinel lymph nodes for malignant melanoma"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "Time-course induction of apoptosis by wild-type and attenuated strains of rubella virus"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 8,
+      "title": "Rubella virus capsid protein induces apoptosis in transfected RK13 cells"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 9,
+      "title": "Rubella virus-induced apoptosis varies among cell lines and is modulated by Bcl-XL and caspase inhibitors"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 26,
+      "title": "A phylogeny of the gulls (Aves: Larinae) inferred from osteological and integumentary characters"
+    }
+  ]
+}

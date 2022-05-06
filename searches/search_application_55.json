@@ -1,0 +1,81 @@
+{
+  "main_text": [
+    {
+      "sentence": "PATTERNFINDER will also have direct application in the further characterization of DNA replication origins, which are comprised of origin recognition elements, less-specific sequences including a DNA unwinding element, and additional elements such as transcription factor binding sites [1,6,7,11,25,26].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Finally, PATTERNFINDER is likely to have applications in studying processes in addition to replication and transcription, such as nuclear matrix attachment and DNA repeat instability, which also involve specific DNA sequences and a region of low helical stability [13,14].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "However the successful application of PRO studies is dependant on the selection of the appropriate questionnaires for a given application [7,8].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "Functional equivalency and diversity of cis-acting elements among yeast replication origins"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 25,
+      "title": "The origin recognition complex: from simple origins to complex functions"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "The DNA unwinding element: a novel, cis-acting component that facilitates opening of the Escherichia coli replication origin"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 11,
+      "title": "Mechanism of origin unwinding: sequential binding of DnaA to double- and single-stranded DNA"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 26,
+      "title": "The Human β-Globin Replication Initiation Region Consists of Two Modular Independent Replicators"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Origins of DNA Replication"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 13,
+      "title": "Identification of a candidate regulatory region in the human CD8 gene complex by colocalization of DNase I hypersensitive sites and matrix attachment regions which bind SATB1 and GATA-3"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Unpaired Structures in SCA10 (ATTCT)(n).(AGAAT)(n) Repeats"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 8,
+      "title": "Recommendations for evaluating the validity of quality of life claims for labeling and promotion"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 7,
+      "title": "Patient Reported Outcomes and Regulatory Issues: the Example of Health-related Quality of Life – A European Guidance Document for the Improved Integration of HRQL Assessment in the Drug Regulatory Process"
+    }
+  ]
+}

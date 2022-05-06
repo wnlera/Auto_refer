@@ -1,0 +1,106 @@
+
+  "main_text": [
+    {
+      "sentence": "[53] found the same result when controlling for mental health status.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Other standard methods used include controlling the Family-Wise Error Rate (FWER) using a numerical correction of the p-value (discussed in [9]) or controlling the False Positive Rate (FDR, discussed in [10]).",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Recently, of greater importance is controlling obesity through generalized caloric restriction and increased exercise to combat the overnutrition and underexercise of our modern-day society, as well as, controlling the consumption of alcohol [64].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Benzodiazepines are helpful in controlling spasticity and seizures during ITB withdrawal syndrome [1,10].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Interrupting transmission and controlling morbidity are the twin pillars of the global filariasis elimination programme [3].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "RNPs are involved in controlling RNA export, RNA stability, RNA subcellular localization and mRNA translation [2].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Despite this, governments still resort to prohibition as the main means of controlling dual practice [116].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "[38], may be that NMD could function in quantitatively controlling the expression of low amounts of protein.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 53,
+      "title": "Benzodiazepine use among the elderly in the community"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 9,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 10,
+      "title": "Controlling the False Discovery Rate: a Practical and Powerful Approach to Multiple Testing"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 64,
+      "title": "A case-control study of the association of diet and obesity with gout in Taiwan"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "Abrupt withdrawal from intrathecal baclofen: recognition and management of a potentially life-threatening syndrome"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 10,
+      "title": "Baclofen withdrawal presenting as multiorgan system failure"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 3,
+      "title": "Controlling morbidity and interrupting transmission twin pillars of lymphatic filariasis elimination"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 2,
+      "title": "Messenger-RNA-binding proteins and the messages they carry"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 116,
+      "title": "World Market Research Centre: Kenya – policy and regulation"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 38,
+      "title": "Nonsense-mediated mRNA decay: from vacuum cleaner to Swiss army knife"
+    }
+  ]
+}{

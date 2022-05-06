@@ -1,0 +1,81 @@
+{
+  "main_text": [
+    {
+      "sentence": "Sexual contact remains the main mode of transmission of the disease worldwide followed by intravenous drug use and perinatal transmission [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Less frequent routes are sexual transmission [2], perinatal transmission [3], acquisition from mucous membrane exposure [4,5], body fluids [6] and colonoscopy [7].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Although transmission success does broadly increase with gametocyte density [25,26], which largely reflects asexual parasite density, many factors can affect transmission success [27].",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 6,
+      "title": "Hepatitis C virus in a pediatric oncology ward: analysis an outbreak and review of the literature"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 5,
+      "title": "Transmission of hepatitis C via blood splash into conjunctiva"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 2,
+      "title": "Importance of heterosexual activity in the transmission of hepatitis B and non-A non-B hepatitis"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 3,
+      "title": "Hepatitis C virus infection in children"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 7,
+      "title": "Patient to patient transmission of hepatitis C virus during colonoscopy"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 4,
+      "title": "Acquisition of hepatitis C by a conjunctival splash"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 26,
+      "title": "Transmission success of the malaria parasite Plasmodium mexicanum into its vector: role of gametocyte density and sex ratio"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 25,
+      "title": "Infectivity to mosquitoes of Plasmodium falciparum as related to gametocyte density and duration of infection"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 27,
+      "title": "Regulation of infectivity of Plasmodium to the mosquito vector"
+    }
+  ]
+}

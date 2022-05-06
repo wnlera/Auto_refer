@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Good sensitivity and specificity for detecting depression in geriatric psychiatric and medical outpatients has been demonstrated (84–100% sensitivity; 73–96% specificity) [60,61].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Monoclonal anti-amyloid beta peptide antibodies are known to differ in their fine specificity: isotype, affinity, as well as epitope, aggregate, and Fc specificity [41].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "First, since (kcat/Km) is formally a measure of catalytic specificity [7,10], we may recast Equation 5 succinctly in terms of the Transport Specificity Ratio (TSR) parameter.",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "These sites are likely to contribute to functional specificity [26,45,46].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Specificity of antibodies has been described in previous publications [18,20].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 61,
+      "title": "The Geriatric Depression Scale and the Beck Depression Inventory as screening instruments in an older adult outpatient population"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 60,
+      "title": "Depression in Alzheimer's disease patients: caregivers as surrogate reporters"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 41,
+      "title": "Epitope and isotype specificities of antibodies to beta -amyloid peptide for protection against Alzheimer's disease-like neuropathology"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "4-Aminobutyrate (GABA) transporters from the amine-polyamine-choline superfamily: substrate specificity and ligand recognition profile of the 4-aminobutyrate permease from Bacillus subtilis"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 7,
+      "title": "Enzyme-substrate complementarity and the use of binding energy in catalysis"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 26,
+      "title": "An evolutionary trace method defines binding surfaces common to protein families"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 46,
+      "title": "Using orthologous and paralogous proteins to identify specificity-determining residues in bacterial transcription factors"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 45,
+      "title": "Analysis and prediction of functional sub-types from protein sequence alignments"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "TRPV3 is a temperature-sensitive vanilloid receptor-like protein"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 20,
+      "title": "Sensory fibres expressing capsaicin receptor TRPV1 in patients with rectal hypersensitivity and faecal urgency"
+    }
+  ]
+}

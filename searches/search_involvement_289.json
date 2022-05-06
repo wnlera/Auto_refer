@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The second is the proven involvement of Sin1 in the yeast SAPK (Sty1/Spc1) pathway and its involvement in controlling transcription of stress-activated genes [2].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[28] included patients with celiac node involvement (M1 disease).",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "It is possible that more people could be inspired to participate by changing the design of public involvement measures, from a consultation type of involvement to a partnership model [35].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Several mechanisms have been proposed to mediate the transformation of Rat-1 cells: 1) Involvement of NF-κB [199], 2) involvement of CREB/ATF [68], 3) involvement of phosphoinositide-3 kinase-PKB/Akt [202] and 4) Stimulation of p21WAF-1 which prevents apoptosis and enhances the replication of the transformed cells [204].",
+      "b_link": [
+        "B_4",
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Subjects that took the lycopene for 3 weeks had smaller tumors, less involvement of the surgical margins, and less diffuse involvement of the prostate by pre-cancerous high-grade prostatic intraepithelial neoplasia [150].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Doherty and Baird have described five levels of physician involvement with families [5].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Nevertheless cases of underestimation of cardiac involvement also been reported with TEE [9].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 2,
+      "title": "Sin1: an evolutionarily conserved component of the eukaryotic SAPK pathway"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 28,
+      "title": "Postoperative radiation therapy does not increase survival after curative resection for squamous cell carcinoma of the middle and lower esophagus as shown by a multicenter controlled trial. French University Association for Surgical Research"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 35,
+      "title": "Lay participation in health care decision making: A conceptual framework"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 199,
+      "title": "Constitutive activation of NF-κB is essential for transformation of rat fibroblasts by the human T-cell leukemia virus type I Tax protein"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 68,
+      "title": "Type I human T cell leukemia virus Tax protein transforms rat fibroblasts through the cyclic adenosine monophosphate response element binding protein/activating transcription factor pathway"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 204,
+      "title": "p21Waf1/Cip1/Sdi1 prevents apoptosis as well as stimulates growth in cells transformed or immortalized by human T-cell leukemia virus type 1-encoded Tax"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 202,
+      "title": "Phosphoinositide-3 kinase-PKB/Akt pathway activation is involved in fibroblast Rat-1 transformation by human T-cell leukemia virus type I tax"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 150,
+      "title": "Phase II randomized clinical trial of lycopene supplementation before radical prostatectomy"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 5,
+      "title": "Developmental levels in family-centered medical care"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 9,
+      "title": "Aortic ring abscess with Aorto-atrial fistula complicating Fulminant Prosthetic Valve Endocarditis due to Proteus mirabilis"
+    }
+  ]
+}

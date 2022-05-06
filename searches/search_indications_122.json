@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Linear regressions were calculated for each subject and a high r2, indicating that the first peak of dF/dt could predict the peak torque, was taken as an indication of a preprogrammed or open-loop mode of control[16].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "One of the most common indications is prolonged pregnancy [1].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The point to make is that high D-dimer levels in blood from patients with atherosclerosis should be primarily viewed as an indication of systemic hypercoagulability, a conclusion based on the above arguments and the experimental evidence indicating the intimate relationship between inflammation and coagulation [52].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "To define tests as screening indication or diagnostic indication, we used the following algorithm, similar to our previous study [16].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "[1] model (an NK activity factor causing the NK indicators' values, and an rIFNγ activity factor causing the IFN indicators' values), plus two progressively interfering factors (one spanning the NK indicators, the other spanning the IFN indicators).",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "In addition, there are indications that it might be also associated with certain other clinical disorders [2,3].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In addition, there are some indications that Rex may also inhibit splicing and degradation of the viral RNAs [30].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 16,
+      "title": "Trajectory control in targeted force impulses. II. Pulse height control"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 1,
+      "title": "Temporal changes in rates and reasons for medical induction of term labor, 1980–1996"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 52,
+      "title": "Inflammation and thrombosis"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 16,
+      "title": "Effect of Medicare coverage on use of invasive colorectal cancer screening tests"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "When fit indices and residuals are incompatible"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 3,
+      "title": "Human T cell leukemia virus type I-induced disease: pathways to cancer and neurodegeneration"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Life, death and Tax: role of HTLV-I oncoprotein in genetic instability and cellular transformation"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "allele frequency estimation from pooled DNA [20] for investigating rare breeds.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "These results extend prior reports investigating gene polymorphisms and the pathogenesis of PTB and chorioamnionitis [11].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Several other studies have been carried out investigating elastic moduli of canine trabecular bone specimens[14,16,19].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "However other investigations suggest this is not uniformly so [16,42,43].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Preliminary results of this investigation have previously been presented [29].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Meiotic inhibitors have been used as a potential means of investigating regulation of oocyte transcription and mRNA processing in vitro [33].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 20,
+      "title": "High-throughput SNP allele-frequency determination in pooled DNA samples by kinetic PCR"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 11,
+      "title": "In-vitro secretion of proinflammatory cytokines by human amniochorion carrying hyper-responsive gene polymorphisms of tumour necrosis factor-alpha and interleukin-1beta"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 14,
+      "title": "Effects of intermittent administration of pamidronate on the mechanical properties of canine cortical and trabecular bone"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 19,
+      "title": "The limitations of canine trabecular bone as a model for human: a biomechanical study"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 16,
+      "title": "Effect of pamidronate on the mechanical properties of canine bone"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 42,
+      "title": "Age as a factor in breast cancer knowledge, attitudes and screening behaviour"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 43,
+      "title": "Development of an instrument to measure cancer screening knowledge, attitudes and behaviours"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 16,
+      "title": "Accuracy of self-report of mammography and Pap smear in a low-income urban population"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 29,
+      "title": "Dexamethasone antagonizes temozolomide-induced apoptosis in human glioblastoma cell line U87MG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 33,
+      "title": "High developmental competence of cattle oocytes maintained at the germinal vesicle stage for 24 h in culture by specific inhibitors of MPF kinase activity"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "By 14 January, approximately 440,000 people were still sheltered in approximately 460 emergency camps [2].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "We applied this technology, mRNA tagging [19], to the ciliated sensory neurons of C. elegans; these comprise approximately 50 cells whose cell bodies are typically 2 μm in diameter compared to the approximate animal body length of 1 mm.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Hypertension affects approximately 58 million Americans [1].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The mortality rate was approximately 0.7% [1].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Chronic disease affects approximately 18% of children [1].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Of the approximately 4.5 Million SNPs in dbSNP [7], an estimated 10,000 nsSNP exist and approximately 10–15% of those are projected to be damaging [6].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "With an effective population size of approximately 3 × 105 [25], we get a product of population size and per-gene-non-synonymous mutation rate of approximately 1.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Aquifoliaceae comprise one genus, Ilex [1] and approximately 400 species.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Approximately 300 cases of penile metastases are reported worldwide [1].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 2,
+      "title": "WHO Situation Report 14 January 2005"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 19,
+      "title": "Chromosomal clustering of muscle-expressed genes in Caenorhabditis elegans."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 1,
+      "title": "Trends in prevalence, awareness, treatment and control of hypertension in the United States, 1988–2000"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 1,
+      "title": "Global burden of Shigella infections: implications for vaccine development and implementation of control strategies"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "An epidemiologic profile of children with special health care needs"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 7,
+      "title": "dbSNP: the NCBI database of genetic variation"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "Prediction of deleterious human alleles"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 25,
+      "title": "Paleo-demography of the Drosophila melanogaster subgroup: application of the maximum likelihood method"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 1,
+      "title": "The montain holly (Nemopanthus mucronatus : Aquifoliaceae) revisited with molecular data"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 1,
+      "title": "Extensive cutaneous metastasis of transitional cell carcinoma of the bladder"
+    }
+  ]
+}

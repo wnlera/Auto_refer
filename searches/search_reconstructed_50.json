@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "KA/KS values were reconstructed for individual branches of the evolutionary tree derived from the Darwin bioinformatics workbench (see Methods) using a distance matrix and ancestral states constructed by the method of Messier and Stewart [39].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Many databases constructed on the GenoList data schema were subsequently constructed (, [11]).",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "A genome-scale S. cerevisiae metabolic network has been reconstructed [19].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "For the latter guideline [33], data could not be reliably reconstructed and is not discussed further.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Heterokaryons were constructed as described in [20].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Genome scale TRNs have been reconstructed for well studied organisms such as Escherichia coli and Saccharomyces cerevisiae [4,5,7,8].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "MLV and LVs were constructed as described previously [19,20].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 39,
+      "title": "Episodic adaptive evolution of primate lysozymes"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 11,
+      "title": "SubtiList: the reference database for the Bacillus subtilis genome"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 19,
+      "title": "Genome-Scale Reconstruction of the Saccharomyces cerevisiae Metabolic Network"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 33,
+      "title": "Neoadjuvant chemotherapy in locally advanced squamous cell carcinoma of the head and neck (excluding nasopharynx)"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 20,
+      "title": "Heterokaryosis in Nectria haematococca: complementation between mutants affecting the expression of two differentiated states"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 4,
+      "title": "Transcriptional regulatory networks in Saccharomyces cerevisiae"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 5,
+      "title": "RegulonDB (version 4.0): transcriptional regulation, operon organization and growth conditions in Escherichia coli K-12"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 7,
+      "title": "Network motifs in the transcriptional regulation network of Escherichia coli"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 8,
+      "title": "Topological and causal structure of the yeast transcriptional regulatory network"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 20,
+      "title": "Methods for the preparation and use of lentivirus vectors"
+    }
+  ]
+}

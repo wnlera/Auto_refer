@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "For the modelling of effectiveness the recommendations of the Panel on Cost-Effectiveness in Health and Medicine were followed [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Keren et al [16] presented a cost-effectiveness analysis based on a decision tree model which reported short-term effectiveness of UNHS compared to risk factor screening.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Pharmaceuticals are included in the Pharmaceutical Benefits Scheme (PBS) after a detailed review of their effectiveness and cost effectiveness (see Salkeld et al 1998 for a description [4]).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Its effectiveness depends on the prevalence of HIV infection [22].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Despite this, its clinical effectiveness remains a matter of controversy [38,39].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The EQ-5D is used extensively in cost effectiveness analysis [22].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "CPSW Data: Costs & effectiveness of community postnatal support workers (CPSW): RCT [15]",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "While the U.S. Panel on Cost-effectiveness in Health and Medicine suggests that community preferences be used where possible[12], there is ongoing debate over whose preferences should be included in cost-effectiveness analyses.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The cost effectiveness of UNHS has already been modelled along secondary data [16,23,24].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "Recommendations of the panel on cost-effectiveness in health and medicine"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 16,
+      "title": "Projected Cost-Effectiveness of Statewide Universal Newborn Hearing Screening"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Pharmaceuticals"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 22,
+      "title": "Efficacy of sulfadoxine-pyrimethamine for prevention of placental malaria in an area of Kenya with a high prevalence of malaria and human immunodeficiency"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 38,
+      "title": "Acupuncture and chronic pain: A criteria-based meta-analysis"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 39,
+      "title": "Teasing apart quality and validity in systematic reviews: an example from acupuncture trials in chronic neck and back pain"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 22,
+      "title": "EuroQol: the current state of play"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 15,
+      "title": "Costs and effectiveness of community postnatal support workers: randomised controlled trial"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 12,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 23,
+      "title": "Cost and cost-effectiveness of universal screening for hearing loss in newborns"
+    }
+  ]
+}

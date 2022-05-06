@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "This model is richer than that supported by the well established SWISS-2DPAGE database [7] in that it not only contains information on protein separation and identification, but also includes detailed descriptions of experimental samples, the mass spectrometric analyses conducted, and the software used to perform protein identifications.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Probabilities computed by PeptideProphet have been shown to be accurate in the entire probability range and, therefore, can be used to compute the false-positive identification error rate (fraction of all identifications passing the filter that are incorrect) resulting from filtering each dataset using any minimum computed peptide probability threshold [18].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "With the ever-expanding sequence information available in public databases, identification of gene transcripts with SAGE tags has greatly facilitated transcriptome comparisons and gene identification [3].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "In yeast, immunopurification has, for example, been used to enrich RNP complexes leading to the identification of 22 mRNAs localized to the bud tip [8], to the identification of Lhp1p associated mRNAs [9] and to the identification of mRNA export factor associated transcripts [10].",
+      "b_link": [
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Some systems use physiological signals to improve context identification [31].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[35] recently proposed a method of network identification by multiple regression.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "However the identification of these latter fossils has been debated [51].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "gambiae sensu lato were analysed by PCR for sibling species identification [13].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "The 1999 SWISS-2DPAGE database Update,"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "Empirical statistical model to estimate the accuracy of peptide identifications made by MS/MS and database search."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 3,
+      "title": "The new role of SAGE in gene discovery"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 8,
+      "title": "Widespread cytoplasmic mRNA transport in yeast: identification of 22 bud-localized transcripts using DNA microarray analysis"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 9,
+      "title": "Identification of Lhp1p-associated RNAs by microarray analysis in Saccharomyces cerevisiae reveals association with coding and noncoding RNAs"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 10,
+      "title": "Genome-wide analysis of RNA-protein interactions illustrates specificity of the mRNA export machinery"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 31,
+      "title": "Unsupervised, Dynamic Identification of Physiological and Activity Context in Wearable Computing"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 35,
+      "title": "Inferring Genetic Networks and Identifying Compound Mode of Action via Expression Profiling"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 51,
+      "title": "Microfossils in 2000 Ma old cherty stromatolites of the Franceville Group, Gabon"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 13,
+      "title": "Identification of single specimens of the Anopheles gambiae complex by the polymerase chain reaction"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "All formulations were converted to beclomethasone equivalent based on the recommendations from the Canadian Asthma Consensus Report [14].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "BDP is activated in human lung tissue to yield its active metabolite beclomethasone-17-monopropionate (17-BMP) [13].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The higher lung deposition of smaller drug particles correlates with a shorter the time to maximum plasma concentration (tmax) of 17-BMP or beclomethasone esters, respectively, after inhalation of HFA-BDP compared to CFC-BDP [25,26].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Hoever, in one study, Balbi and colleagues [35] observed significant reductions in the total number of cells, neutrophil counts, IL-8, and myeloperoxidase levels in the BAL fluid of COPD patients after 6 weeks of inhaled beclomethasone therapy.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "However, a considerable proportion of patients treated with ICS remain symptomatic, despite the use of low to moderate doses (doses defined according to the ATS classification for adults [1,2]: beclomethasone dipropionate (BDP) 200 – 1000 μg/d, budesonide 200 – 800 μg/d or fluticasone propionate (FP) 100 – 500 μg/d) of ICS.",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 14,
+      "title": "Canadian Asthma Consensus Report, 1999. Canadian Asthma Consensus Group"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 13,
+      "title": "Activation of beclomethasone dipropionate by hydrolysis to beclomethasone-17-monopropionate"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 26,
+      "title": "Pharmacokinetic differences between chlorofluorocarbon and chlorofluorocarbon-free metered dose inhalers of beclomethasone dipropionate in adult asthmatics"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 25,
+      "title": "Pharmacokinetics of chlorofluorocarbon and hydrofluoroalkane metered-dose inhaler formulations of beclomethasone dipropionate"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 35,
+      "title": "Inhaled corticosteroids in stable COPD patients: do they have effects on cells and molecular mediators of airway inflammation?"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Guidelines for the diagnosis and management of asthma"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "Global strategy for astma management and prevention"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "For example, the Cardiovascular Health Study, found it to be the risk factor most strongly associated with incident cardiovascular events [19].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Increased cardiovascular and mortality risks are associated with the Metabolic Syndrome [10].",
+      "b_link": [
+        "B_2",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "This removed the contribution of inter-animal variability in baseline cardiovascular variables (which was nevertheless minor [8,9]) to variability in the cardiovascular effects of magnesium.",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Cardiovascular diseases are the primary causes of morbidity and mortality among patients with diabetes, yet data on cardiovascular disease among patients with diabetes are limited [1].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Stahl [60] described the scaling of cardiovascular and haematological data.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "We did not study early cardiovascular adaptation or record measures of early illness severity, as did Harding et al[32] In that study the DD genotype was associated with a worse cardiovascular adaptation.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "However, the prevalence of cardiovascular disease varies substantially among smoking individuals [12].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Smoking is one of the strongest cardiovascular risk factors for atherosclerotic diseases [9].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "Carotid-artery intima and media thickness as a risk factor for myocardial infarction and stroke in older adults. Cardiovascular Health Study"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 8,
+      "title": "The effect of magnesium sulfate on cerebral blood flow velocity, cardiovascular variables, and arterial carbon dioxide tension in awake sheep"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 9,
+      "title": "Acute cardiovascular effects of magnesium and their relationship to systemic and myocardial magnesium concentrations after short infusion in awake sheep"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "The evolving diabetes burden in the United States"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 60,
+      "title": "Scaling of respiratory variables in mammals"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 32,
+      "title": "Angiotensin-converting enzyme DD genotype is associated with worse perinatal cardiorespiratory adaptation in preterm infants"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 12,
+      "title": "Distribution of risk factors and prophylactic drug usage in Turkish patients with angiographically established coronary artery disease"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 10,
+      "title": "Cardiovascular morbidity and mortality associated with the metabolic syndrome"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 9,
+      "title": "Classical risk factors and emerging elements inthe risk profile for coronary artery disease"
+    }
+  ]
+}

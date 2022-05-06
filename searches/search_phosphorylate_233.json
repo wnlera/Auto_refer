@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "This may imply that Tat can still transactivate in the absence of PKR phosphorylation, although at much reduced efficiency, and/or that the protein may be phosphorylated by other kinases at other sites, for example, PKC which phosphorylates Tat at S46 [38].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Interestingly, phosphorylated HIV-1 Rev protein has been shown to bind RNA seven times more strongly than non-phosphorylated protein, and the non-phosphorylated Rev-RNA complex dissociates 1.6 times more rapidly than the phosphorylated complex [32].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Although RHII/Gu was found to associate with phosphorylated c-Jun in a non-phosphorylated state, this association was observed to increase after anisomycin treatment, implying a stronger interaction when c-Jun is phosphorylated [4].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Moreover, MKK7, like MKK4, phosphorylates JNK [40].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "In the Drosophila NMJ, active CamKII phosphorylates DLG [19].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "CKII was also reported to phosphorylate the C2 component (α6 subunit) in rice [26].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "It was also known that CaMKII phosphorylates synapsin I [28,29].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In the yeast 20S proteasome, the α2- and α4-subunits are phosphorylated at either a serine or threonine residue, and the α7-subunit is phosphorylated at tyrosine residue(s) [20].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "PKA can phosphorylate CBP directly or other components of the transcriptional machinery downstream from CREB [32,33].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 38,
+      "title": "In vitro phosphorylation of human immunodeficiency virus type 1 Tat protein by protein kinase C: evidence for the phosphorylation of amino acid residue serine-46"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 32,
+      "title": "Site-specific phosphorylation of the human immunodeficiency virus type-1 Rev protein accelerates formation of an efficient RNA-binding conformation"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "The DEXD/H-box RNA helicase RHII/Gu is a co-factor for c-Jun-activated transcription"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 40,
+      "title": "The MKK7 gene encodes a group of c-Jun NH2-terminal kinase kinases"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 19,
+      "title": "Regulation of DLG localization at synapses by CaMKII-dependent phosphorylation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 26,
+      "title": "Phosphorylation of the C2 subunit of the proteasome in rice (Oryza sativa L.)"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 28,
+      "title": "Intraterminal injection of synapsin I or calcium/calmodulin-dependent protein kinase II alters neurotransmitter release at the squid giant synapse"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 29,
+      "title": "Characterization of synapsin I binding to small synaptic vesicles"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 20,
+      "title": "Electrophoretic analysis of phosphorylation of the yeast 20S proteasome"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 33,
+      "title": "A novel mechanism for cyclic adenosine 3',5'-monophosphate regulation of gene expression by CREB-binding protein"
+    }
+  ]
+}

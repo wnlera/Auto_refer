@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Here we use two principal methods for this purpose, one based on phylogeny to identify sequence conservation and one based on Conservatism of Conservatism [21] to identify structure conservation.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "To explore the connection between sequence conservation and functional-structural importance, we proposed a new measure that can decompose the conservation into these three components [47].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The third method (conservation difference or CD) is based on the conservation differences between a native alignment and an alignment derived from the Z-score sequence design [21].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "For comparison, we also implemented a simple conservation (SC) method [25], the evolutionary trace (ET) method [26] and the conservation difference (CD) method [21] on the 10 protein families.",
+      "b_link": [
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Both angiosperm and vertebrate CENP-Cs [16] have regions of conservation at the amino and carboxyl termini, with little or no conservation in the middle region of the protein.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "More important, studies of the evolution of various Drosophila enhancers suggest that the positions of binding sites within an enhancer are somewhat plastic, and the functional conservation of a binding site does not necessarily require positional conservation [25,26].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "By incorporating sequence conservation data [21], more than 30 other enriched motifs could be identified.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 21,
+      "title": "Universally conserved positions in protein folds:  Reading evolutionary signals about stability, folding kinetics and function"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 47,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 21,
+      "title": "Using protein design for homology detection and active site searches"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 21,
+      "title": "Using protein design for homology detection and active site searches"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 26,
+      "title": "An evolutionary trace method defines binding surfaces common to protein families"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 25,
+      "title": "AL2CO: calculation of positional conservation in a protein sequence alignment"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "Efficient conditional mutation of the vertebrate CENP-C gene"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 26,
+      "title": "Evidence for stabilizing selection in a eukaryotic enhancer element."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 25,
+      "title": "Functional analysis of eve stripe 2 enhancer evolution in Drosophila: rules governing conservation and change."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 21,
+      "title": "Sequencing and comparison of yeast species to identify genes and regulatory elements."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "The apoptosis index has been found to be of significant prognostic significance in patients with high-grade astrocytomas [33].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In some cases PDI did not show significant effects on the refolding yield but significantly increased the refolding rate [141].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Three trials [28,29,47] demonstrated no significant difference in survival while another [27] found significantly shorter survival with postoperative radiotherapy and surgery compared with surgery alone.",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Significance Analysis of Microarrays [30,31], used for identifying genes whose expression differed significantly between groups, was performed on data from 38,999 cDNA clones.",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Secondly, microarray data were analyzed using 'Significance of Analysis of Microarrays' (SAM, Stanford) to identify significant changes in gene expression among diet groups [67], using a false discovery rate (FDR) cutoff of 0.5%.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "For instance, Sundberg et al [12] reported that lumbar spine BMD (measured by DXA) in rural adolescents was significantly higher than that in urban adolescents, but there was no significant difference in femoral neck BMD.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 33,
+      "title": "Pronostic significance of an apoptotic index and apoptosis/proliferation ratio for patients with high grade astrocytomas"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 141,
+      "title": "Reductive unfolding and oxidative refolding of a Bowman-Birk inhibitor from horsegram seeds (Dolichos biflorus): Evidence for 'hyperreactive' disulfide bonds and rate-limiting nature of disulfide isomerization in folding"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 47,
+      "title": "Value of radiotherapy after radical surgery for esophageal carcinoma: a report of 495 patients"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 27,
+      "title": "Postoperative radiotherapy for carcinoma of the esophagus: a prospective, randomized controlled study"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 29,
+      "title": "Adjuvant postoperative radiation therapy after curative resection of squamous cell carcinoma of the thoracic esophagus: a prospective randomized study"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 28,
+      "title": "Postoperative radiation therapy does not increase survival after curative resection for squamous cell carcinoma of the middle and lower esophagus as shown by a multicenter controlled trial. French University Association for Surgical Research"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 31,
+      "title": "Significance Analysis of Microarrays"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 30,
+      "title": "Significance analysis of microarrays applied to the ionizing radiation response"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 67,
+      "title": "Significance analysis of microarrays applied to the ionizing radiation response"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 12,
+      "title": "Bone mineral density in adolescents. Higher values in a rural area – a population-based study of 246 subjects in southern Sweden"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  'main_text': [
+    {
+      'sentence': 'This activity strikingly correlates with the interaction of Vpr with the nuclear form of uracil DNA glycosylase (UNG2) [54], an enzyme involved in the base excision repair pathway that specifically removes the RNA base uracil from DNA.',
+      'b_link': [
+        'B_1'
+      ]
+    },
+    {
+      'sentence': 'Indeed, cDNA microarray analysis of HTLV-1 Tax expressing cells exposed to DNA damage stress signal revealed elevated expression of pro- as well as of anti-apoptosis genes [191].',
+      'b_link': [
+        'B_2',
+        'B_3'
+      ]
+    },
+    {
+      'sentence': 'An additional data file (Additional data 1) containing three figures with detailed description of DNA- and RNA-type regulatory sites is available with the online version of this paper and on our website [74].',
+      'b_link': [
+        'B_4'
+      ]
+    },
+    {
+      'sentence': 'Northern blot analysis of black pearl RNA from various developmental stages showed two transcripts with greatest expression in Drosophila embryos 0–6 hours old [95], the stages in which DNA replication recurs most rapidly.',
+      'b_link': [
+        'B_5',
+        'B_6'
+      ]
+    },
+    {
+      'sentence': 'It alters DNA topology by transiently breaking one strand of the DNA, passing the other strand through the break and finally resealing the break [179].',
+      'b_link': [
+        'B_7'
+      ]
+    },
+    {
+      'sentence': 'IN, MA, Vpr) and also in the viral DNA [97], Vpr primarily serves to dock the PIC at the NE, while IN and MA act in cooperation with the central DNA flap to target the viral DNA to the nucleus (for review, see [98]).',
+      'b_link': [
+        'B_8',
+        'B_9'
+      ]
+    },
+    {
+      'sentence': "One can easily say that all eubacteria lack SRP helix 19 and N-linked glycoproteins ('what they are not'), but apart from DNA gyrase (also laterally transferred into some archaebacteria and symbiogenetically into eukaryotes) the universal positive characters of eubacteria ('what they are') are primarily just a few rRNA signatures [182] and RNA polymerase and DNA replication enzymatic details [1] that are probably not of great organismal significance.",
+      'b_link': [
+        'B_10'
+      ]
+    }
+  ],
+  'source_text': [
+    {
+      'b_link': 'B_1',
+      'old_link': 54,
+      'title': 'The interaction of Vpr with uracil DNA glycosylase modulates the human immunodeficienty virus type 1 in vivo mutation rates'
+    },
+    {
+      'b_link': 'B_2',
+      'old_link': 191,
+      'title': 'Paradoxical effects of a stress signal on pro- and anti-apoptotic machinery in HTLV-1 Tax expressing cells'
+    },
+    {
+      'b_link': 'B_3',
+      'old_link': 191,
+      'title': 'Paradoxical effects of a stress signal on pro- and anti-apoptotic machinery in HTLV-1 Tax expressing cells'
+    },
+    {
+      'b_link': 'B_4',
+      'old_link': 74,
+      'title': 'Supplementary materials for this paper'
+    },
+    {
+      'b_link': 'B_5',
+      'old_link': 95,
+      'title': 'The black-pearl gene of Drosophila defines a novel conserved protein family and is required for larval growth and survival'
+    },
+    {
+      'b_link': 'B_6',
+      'old_link': 95,
+      'title': 'The black-pearl gene of Drosophila defines a novel conserved protein family and is required for larval growth and survival'
+    },
+    {
+      'b_link': 'B_7',
+      'old_link': 179,
+      'title': 'DNA topoisomerases'
+    },
+    {
+      'b_link': 'B_8',
+      'old_link': 97,
+      'title': 'HIV-1 genome nuclear import is mediated by a central DNA flap'
+    },
+    {
+      'b_link': 'B_9',
+      'old_link': 98,
+      'title': 'Slipping through the door: HIV entry into the nucleus'
+    },
+    {
+      'b_link': 'B_10',
+      'old_link': 1,
+      'title': 'The neomuran origin of archaebacteria, the negibacterial root of the universal tree and bacterial megaclassification'
+    }
+  ]
+}

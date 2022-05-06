@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "We applied this technology, mRNA tagging [19], to the ciliated sensory neurons of C. elegans; these comprise approximately 50 cells whose cell bodies are typically 2 μm in diameter compared to the approximate animal body length of 1 mm.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "By 14 January, approximately 440,000 people were still sheltered in approximately 460 emergency camps [2].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Scheme (2) approximates the classic Michaelis scheme [1].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "We use the cubic B-splines [21,22] to approximate the normalization curves φi.",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This is because the models make three basic predictions that can only be tested with multiple stimuli and conditions: the responses should have mixed dependencies on stimulus and context, the mixing should be nonlinear, and the neurons should behave approximately as a basis-function set, in the sense that a weighted sum of their responses should approximate an arbitrary function of stimulus and context extremely well [31,47].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Morris [32] proposed an approximate variance estimate for the empirical Bayes estimate in the Gaussian/Gaussian setting.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "This turnover of binding sites has been argued to follow an approximate molecular clock in Drosophila [23].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "and the approximate standard error (SE) of the intra-cluster correlation was calculated using the formula[1,6]:",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "Chromosomal clustering of muscle-expressed genes in Caenorhabditis elegans."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 2,
+      "title": "WHO Situation Report 14 January 2005"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 1,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 21,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 22,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 31,
+      "title": "Fast remapping of sensory stimuli onto motor actions on the basis of contextual modulation"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 47,
+      "title": "MSTd neuronal basis functions for the population encoding of heading direction"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 32,
+      "title": "Parametric empirical Bayes inference: theory and applications"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 23,
+      "title": "Turnover of binding sites for transcription factors involved in early Drosophila development"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 1,
+      "title": "Design of cross-sectional surveys using cluster sampling: an overview with Australian case studies"
+    }
+  ]
+}

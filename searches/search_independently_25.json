@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Right and left sides were scored independently [39].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[68] who found that income inequality was independently associated with HIV seroprevalence.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Two reviewers (EM, NLS) independently abstracted data from all studies meeting the eligibility criteria, excluding one abstract where EM independently abstracted pertinent information [15], using pre-printed data collection forms presented in Appendix 3 (see Additional File 3).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "A recent human study found that depressive symptoms are independently correlated with lipid peroxidation [66].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The Reb1/RRPE interaction was also discovered independently as a good predictor of expression [11].",
+      "b_link": [
+        "B_5",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Cortactin was independently isolated from mouse NIH3T3 cells [3] and human tumor cell lines [4].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Although both pathways operate independently under normal conditions, interaction between them has been repeatedly reported [16,17].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 39,
+      "title": "Strain-specific variation in the pattern of caudal papillae in Caenorhabditis briggsae (Nematoda: Rhabditidae); implications for species identification"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 68,
+      "title": "Correlates Of National HIV Seroprevalence: An Ecologic Analysis of 122 Developing Countries"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 15,
+      "title": "The effects of alcohol hand sanitizer on elementary school absences"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 66,
+      "title": "Depressive symptoms are independently correlated with lipid peroxidation in a female population: comparison with vitamins and carotenoids"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 11,
+      "title": "Predicting gene expression from sequence."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 3,
+      "title": "Murine cortactin is phosphorylated in response to fibroblast growth factor-1 on tyrosine residues late in the G1 phase of the BALB/c 3T3 cell cycle"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 4,
+      "title": "Identification and cloning of two overexpressed genes, U21B31/PRAD1 and EMS1, within the amplified chromosome 11q13 region in human carcinomas"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 17,
+      "title": "Distinct light-mediated pathways regulate the biosynthesis and exchange of isoprenoid precursors during Arabidopsis seedling development."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 16,
+      "title": "Crosstalk between cytosolic and plastidial pathways of isoprenoid biosynthesis in Arabidopsis thaliana."
+    }
+  ]
+}

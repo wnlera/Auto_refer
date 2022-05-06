@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Corticosteroids recruit hitone deacetylase 2 protein to the transcriptional complex to suppress proinflammatory gene transcription [105].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "To solve these problems, we prefered to measure \"transcriptional activation\" instead of \"transcription factor/DNA-binding\" because although DNA-binding is required for a subsequent transcriptional activation by CREB, an enhanced binding activity of a transcription factor to DNA, monitored by an in vitro binding assay, does not necessarily prove an enhanced transcriptional activation potential of this protein [29].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The transcriptional cofactor, CA150, whose gene is now designated transcription elongation regulator 1 (TCERG1) is capable of repressing transcription from many viral and cellular promoters whose initiation is dependent upon the presence of a TATA box [49].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "ZNF278 encodes a zinc finger-containing transcription factor that acts as a transcriptional repressor and also implicated in small round cell tumours [22].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Finally, Vpr seems also able to interact directly with the ubiquitous cellular transcription factor Sp1 [168], the glucocorticoid receptor [174,175], the p300 coactivator [163,176], and with the transcription factor TFIIB, a component of the basal transcriptional machinery [177].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 105,
+      "title": "Glucocorticoid receptor recruitment of histone deacetylase 2 inhibits interleukin-1beta-induced histone H4 acetylation on lysines 8 and 12"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 29,
+      "title": "Differential regulation of chromogranin B and synapsin I gene promoter activity by cyclic AMP and cyclic AMP-dependent protein kinase"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 49,
+      "title": "Transcriptional cofactor CA150 regulates RNA polymerase II elongation in a TATA-box-dependent manner"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 22,
+      "title": "A novel zinc finger gene is fused to EWS in small round cell tumor"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 175,
+      "title": "The glucocorticoid receptor type II complex is a target of the HIV-1 vpr gene product"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 176,
+      "title": "Viral replication and the coactivators p300 and CBP"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 163,
+      "title": "HIV transcriptional activation by the accessory protein, VPR, is mediated by the p300 co-activator"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 174,
+      "title": "The HIV-1 virion-associated protein vpr is a coactivator of the human glucocorticoid receptor"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 177,
+      "title": "The human immunodeficiency virus type 1 Vpr transactivator: cooperation with promoter-bound activator domains and binding to TFIIB"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 168,
+      "title": "Interaction of virion protein Vpr of human immunodeficiency virus type 1 with cellular transcription factor Sp1 and trans-activation of viral long terminal repeat"
+    }
+  ]
+}

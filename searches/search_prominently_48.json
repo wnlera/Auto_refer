@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Mab21l1 and Mab21l2 are prominently expressed in the embryonic midbrain, both dorsally and ventrally, and in prosomere 1 [5,6].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "[41] demonstrated that ET-1 stimulation of mesangial cell (MC) proliferation involves several pathways, among which MAPK figures prominently.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Human HIG2 is located on 7q32.2, a commonly deleted region in several tumour types, most prominently leukaemias and lymphomas [57].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "An example of what happens when these mineral considerations are not heeded can be found in a study prominently published in 1980 [18].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Physical inactivity, western diet and smoking are prominent causes[23].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Chronic obstructive pulmonary disease (COPD) is characterized by prominent airway inflammation [1,2].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Industry collaboration has figured prominently in many translational research successes including recombinant growth hormone, angioplasty, stenting for coronary artery disease, and many new medications and diagnostic devices [1].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Furthermore, this effect was more prominent on the side of ischemic insult [7].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 6,
+      "title": "Two murine and human homologs of mab-21, a cell fate determination gene involved in C. elegansneural development"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "Mab21, the mouse homolog of a C. elegans homeotic regulator, participates in cerebellar, midbrain and eye development"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 41,
+      "title": "MAPK signaling and the kidney"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 57,
+      "title": "Mitelman Database of Chromosome Aberrations in Cancer"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 18,
+      "title": "Nitrogen and sodium balance and sympathetic nervous system activity in obese subjects treated with a low-calorie or mixed diet"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 23,
+      "title": "Noncommunicable diseases: tomorrow's pandemics"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "Chronic obstructive pulmonary disease: molecular and cellular mechanisms"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 1,
+      "title": "Chronic obstructive pulmonary disease"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 1,
+      "title": "In whose best interest?  Breaching the academic-industrial wall"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 7,
+      "title": "Neurogenesis in dentate subgranular zone and rostral subventricular zone after focal cerebral ischemia in the rat"
+    }
+  ]
+}

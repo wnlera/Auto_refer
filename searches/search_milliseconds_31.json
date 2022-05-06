@@ -1,0 +1,78 @@
+{
+  "main_text": [
+    {
+      "sentence": "These two factors also determine whether Ca2+ or Mg2+ enters and the time (probably milliseconds) that elapses between channel opening and termination of Ca2+ or Mg2+ transport [3].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Experiments in which the somatosensory areas of the cerebral cortex were stimulated directly indicate that low intensity stimuli must be sustained for up to 500 milliseconds to produce a conscious sensation [56].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "For example, in a model including nine functionally segregated visual areas, the time it takes for functionally specialized neurons located in several different areas to interact constructively and produce a specific, correlated firing pattern is at least 80 milliseconds [38].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Studies of how a percept is progressively specified and stabilized – a process called microgenesis – indicate that it takes up to 100–200 milliseconds to develop a fully formed sensory experience, and that the surfacing of a conscious thought may take even longer [6].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Havlicek and colleagues [1] reported significantly longer reaction times for completion of a computerised version of a psychomotor test amongst 60 Toxoplasma-positive individuals compared to 56 Toxoplasma-negative individuals, although the difference in reaction time was only up to 17 miliseconds.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Specifically, patients are eligible for the study if EDS demonstrates any one of the following: (1) wrist median motor nerve conduction latency greater than or equal to > = 4.4 milliseconds (ms), (2) a 10 cm (thumb to wrist) median to radial sensory nerve ratio difference of > 0.5 ms, (3) an 8 cm mid-palm median to ulnar sensory nerve difference > 0.3 ms, (4) a 14 cm (digit four to wrist) median to ulnar difference of > 0.4 ms, or (5) a combined sensory index [47,48] ≥ 1.0 ms.",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 3,
+      "title": "Neuronal excitability: voltage-dependent currents and synaptic transmission"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 56,
+      "title": "Brain stimulation in the study of neuronal functions for conscious sensory experiences"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 38,
+      "title": "Reentry and the problem of integrating multiple cortical areas: simulation of dynamic integration in the visual system"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 6,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "Decrease of psychomotor performance in subjects with latent \"asymptomatic\" toxoplasmosis"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 48,
+      "title": "A self-administered hand symptom diagram for the diagnosis and epidemiologic study of carpal tunnel syndrome"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 47,
+      "title": "A self-administered hand diagram for the diagnosis of carpal tunnel syndrome"
+    }
+  ]
+}

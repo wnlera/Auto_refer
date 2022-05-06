@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "These changes were attributed to the interactions between nociceptives afferents and motor neuron pool excitability[17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In addition, two primary characteristics of neuronal excitability were measured in response to a depolarizing current [36].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The inward rectifier potassium channel IRK1/Kir2.1 helps controls cell excitability through setting the resting membrane potential [1].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "It is these changes that gradually adjust neurotransmitter pools and membrane excitability to restore the physiological balance of excitation and inhibition [29].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Mast cells can not only release mediators that increase excitability of neurons but in turn, neurotransmitters such as substance P can trigger mast cell degranulation [10].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Activation of D2 autoreceptors inhibits excitability and firing rate of VTA dopaminergic neurones [13,14] and decreases the release of dopamine from their axon terminals in the forebrain [15,16].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "They differ from rats and mice in many aspects (see [41] for review); noteworthy are differences in depth perception [42], distance perception [43], exploration [44] and excitability [45].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "The influence of low back pain on muscle activity and coordination during gait: a clinical and experimental study"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 36,
+      "title": "A-, T-, and H-type currents shape intrinsic firing of developing rat abducens motoneurons"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 1,
+      "title": "Constitutively active and G-protein coupled inward rectifier K+ channels: Kir2.0 and Kir3.0"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 29,
+      "title": "Perspectives on the metabolic management of epilepsy through dietary reduction of glucose and elevation of ketone bodies"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 10,
+      "title": "Direct neurite-mast cell communication in vitro occurs via the neuropeptide substance P"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 15,
+      "title": "The pharmacology of mesocortical dopamine neurons: a dual-probe microdialysis study in the ventral tegmental area and prefrontal cortex of the rat brain"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 14,
+      "title": "Neurotransmitter Receptors and ionic conductances regulating the activity of neurones in substantia nigra pars compacta and ventral tegmental area"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 13,
+      "title": "Pharmacological characterization of dopamine autoreceptors in the rat ventral tegmental area: microiontophoretic studies"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 16,
+      "title": "The pharmacology of mesolimbic dopamine neurons: a dual-probe microdialysis study in the ventral tegmental area and nucleus accumbens of the rat"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 42,
+      "title": "Depth perception in Mongolian gerbils (Meriones unguiculatus) and spiny mice (Acomys russatus and A. cahirinus)"
+    }
+  ]
+}

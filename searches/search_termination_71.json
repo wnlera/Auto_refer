@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "DNA sequencing was carried out using the dideoxy-mediated chain termination method [28].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Burning in tall grass (hotter fires) may be detrimental to the germination of seeds [18] while cooler fires may be sufficient to break dormancy and cause germination.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Topographically precise termination is provided by producing additional interstitial branches in the ML direction [31,32,37,38].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "It is assumed that this facilitates visual processing, which involves wiring local to the termination zone [5].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Some Acacia species are temperature specific, suggesting a temperature threshold for germination [18,20].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The promoter containing fragment cloned in pVMB5 was sequenced by dideoxy chain termination method [33] as already described [34].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 28,
+      "title": "DNA sequencing with chain-terminating inhibitors"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "Predicting patterns of post-fire germination in 35 eastern Australian Fabaceae"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 37,
+      "title": "Development of topographic order in the mammalian retinocollicular projection"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 32,
+      "title": "Bifunctional action of ephrin-B1 as a repellent and attractant to control bidirectional branch extension in dorsal-ventral retinotopic mapping"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 38,
+      "title": "Influence of position along the medial-lateral axis of the superior colliculus on the topographic targeting and survival of retinal axons"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 31,
+      "title": "EphB forward signaling controls directional branch extension and arborization required for dorsal-ventral retinotopic mapping"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 5,
+      "title": "Cortical maps and visual perception: the Grindley Memorial Lecture"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 18,
+      "title": "Predicting patterns of post-fire germination in 35 eastern Australian Fabaceae"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 20,
+      "title": "Seed and seedling dynamics of certain Acacia species as affected by herbivory, grass competition, fire, and grazing system"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 34,
+      "title": "Characterization of conjugative transposon Tn5251 of Streptococcus pneumoniae"
+    }
+  ]
+}

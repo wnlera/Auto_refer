@@ -1,0 +1,81 @@
+{
+  "main_text": [
+    {
+      "sentence": "Some 90% of single gene duplicates become silenced shortly after the duplication, leading to an effective rate g of duplications one order of magnitude lower, i.e., ~ 10-3 per million years [22,25,27,28].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Transcripts increased in patients with duplications 15q11.2q13 are maternal UBE3A [41], maternal ATP10C [40,42] and other transcripts including antisense transcripts that could regulate gene expression [43] and may contribute to the duplication phenotype.",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "2 in case of Actinopterygian duplication, and 4 in case of vertebrate duplication, the \"one to four rule\") [74,76]; (ii) showing that a statistically significant number of duplications took place at approximately the same time by molecular clock estimation or synonymous substitution counting [83,84]; (iii) using phylogenetic methods to assess the relation between duplication and speciation events [61]; and (iv) showing that duplicated genes are arranged in paralogous blocks on chromosomes (paralogons) [62,85,86].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 25,
+      "title": "The yeast protein interaction network evolves rapidly and contains few redundant duplicate genes"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 27,
+      "title": "The evolutionary fate and consequences of duplicate genes"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "How the global structure of protein interaction networks evolves"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 28,
+      "title": "Unbiased estimation of the rates of synonymous and nonsynonymous substitution"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 43,
+      "title": "The IC-SNURF-SNRPN transcript serves as a host for multiple small nucleolar RNA species and as an antisense RNA for UBE3A"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 40,
+      "title": "The human aminophospholipid-transporting ATPase gene ATP10C maps adjacent to UBE3A and exhibits similar imprinted expression"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 42,
+      "title": "A novel maternally expressed gene, ATP10C, encodes a putative aminophospholipid translocase associated with Angelman syndrome"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 41,
+      "title": "Allele-specific expression analysis by RNA-FISH demonstrates preferential maternal expression of UBE3A and imprint maintenance within 15q11-q13 duplications"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 85,
+      "title": "Molecular evidence for an ancient duplication of the entire yeast genome"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 74,
+      "title": "Gene duplication and the uniqueness of vertebrate genomes circa 1970-1999"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "To avoid ambiguity some form of identifier other than a taxonomic name needs to be employed, such as Digital Object Identifiers (DOIs) [10] or Life Science Identifiers (LSIDs) [11,12].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "identified 28 such clusters of genes [80].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Input for SCOPmap is a list of PDB [40] identifiers.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Given the lack of a central list of names, and the limitations of names as identifiers, there is a clear need for a taxonomy name service that can validate names and provide unique identifiers [2].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "[10] identified only one.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "our method identified more genes from the list of the 50 truly expressed genes identified by Thomas et al [22].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Janlert [18] identifies the frame problem with \"the problem of representing change.\"",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "ESTs were linked to InParanoid clusters through their UniProt codes [25,26], and their association to UniGene identifiers [27,28].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 12,
+      "title": "Globally distributed object identification for biological knowledgebases"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 10,
+      "title": "Digital Object Identifier System"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "LSID (Life Science Identifier) Project"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 40,
+      "title": "The Protein Data Bank"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 2,
+      "title": "Progressing towards a biological names register"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 10,
+      "title": "Evidence for risk of bias in cluster randomised trials: review of recent trials published in three general medical journals"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 22,
+      "title": "An Efficient and Robust statistical modelling approach to discover differentially expressed genes using genomics expression profile"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "Modeling Change - The Frame Problem"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 26,
+      "title": "UniProt"
+    }
+  ]
+}

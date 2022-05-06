@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "When compared to gSSRs, EST derived SSRs (EST-SSRs) were less polymorphic in a study in hexaploid wheat [9] with only 25% polymorphism, but the successful markers were of high quality and were also polymorphic in durum wheat.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Estimated polymorphism parameters included: number of polymorphic sites (S); haplotype diversity (HT) considering as haplotype each different sequence; nucleotide diversity (π) [18]; and average number of pairwise differences between sequences (k).",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "However, among two polymorphic sites tested at the vitamin D receptor (VDR) gene, the Fok I(+) allele of the FokI/restriction fragment length polymorphism was found to be associated with higher risk HT in Japanese females [209].",
+      "b_link": [
+        "B_3",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Susceptibility to scrapie is largely controlled by three polymorphic amino acid positions (136, 154, 171) of the ovine prion protein gene (prnp) [4] and reliable genotyping of the corresponding DNA polymorphism is required as a basis for selection decisions.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "PLCγ-2 is highly polymorphic [18].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Recently, 33 polymorphic tandem repeats (TRs) of P. vivax and a P. vivax polymorphic microsatellite have been identified and shown to be useful in population studies [9,10].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "An inventory of case-control studies based on the association between three polymorphic markers within the CTLA-4 gene [A49G dimorphism in the leader peptide, C (-318) T substitution in the promoter region and a dinucleotide repeat polymorphism at the 3'-untranslated region (3'-UTR)] and HT is reviewed in [165].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 9,
+      "title": "Isolation of EST-derived microsatellite markers for genotyping the A and B genomes of wheat"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 209,
+      "title": "Vitamin D receptor gene polymorphism is associated with Graves' disease in the Japanese population"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 4,
+      "title": "Molecular Biology and Genetics of Scrapie in Sheep"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 18,
+      "title": "Variations in the human phospholipase Cgamma2 gene in patients with B-cell defects of unknown etiology"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "Single-nucleotide polymorphisms and genome diversity in Plasmodium vivax"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 10,
+      "title": "Identification of a polymorphic Plasmodium vivax microsatellite marker"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 165,
+      "title": "CTLA4 and its role in autoimmune thyroid disease"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

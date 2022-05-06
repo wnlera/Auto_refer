@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Glucocorticoids elevate glucose-6-phosphatase promoter activity mediated by a glucocorticoid response element and hepatocyte nuclear factor 1 [5].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "A recent study indicates that activation through the TCR down regulates SRG3, a protein that associates with the glucocorticoid receptor and increases sensitivity to glucocorticoids [28].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The majority of these pro-inflammatory genes have no glucocorticoid responsive elements (GRE) in their promoter regions that could explain the effect of glucocorticoids, but many of them contain sites for the transcription factors activating protein (AP)-1 and NFκB [37].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Glucocorticoids are also responsible for the induction of human CAR mRNA and protein via a distal glucocorticoid response element in the 5'-franking region of the gene [29], and the same might be true for its rat counterpart, which was inducible by dexamethasone (data not shown).",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "However, glucocorticoid receptor knockout mice can express portions of the glucocorticoid receptor, which may have unexpected functions [27].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "There is a glucocorticoid responsive element (GRE) that responds to dexamethasone in the presence of glucocorticoid receptors and Tax [11].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Based on this evidence, it is biologically plausible that ER mediates mitochondrial transcription in the same manner as the glucocorticoid receptor (GR) which is translocated into the mitochondria and binds glucocorticoid response elements (GRE) after treatment with glucocorticoid [25,26].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Causing excess production of glucocorticoid receptor in all cells of the thymus (as in transgenic mice with an extra glucocorticoid receptor gene, transcribed in all thymocytes under the control of the lck promoter) [4] would not be likely to produce the same differences in glucocorticoid receptor levels among cellular subpopulations in the thymus as noted in normal animals (in which glucocorticoid receptor levels vary in different subpopulations).",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Compared to SCAT, VAT has more glucocorticoid receptors [88].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "Hepatocyte nuclear factor 1 alpha is an accessory factor required for activation of glucose-6-phosphatase gene transcription by glucocorticoids"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 28,
+      "title": "T cell receptor signaling inhibits glucocorticoid-induced apoptosis by repressing the SRG3 expression via Ras activation"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 37,
+      "title": "Molecular mechanisms of anti-inflammatory action of glucocorticoids"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 29,
+      "title": "Transcriptional analysis of the orphan nuclear receptor constitutive androstane receptor (NR1I3) gene promoter: identification of a distal glucocorticoid response element"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 27,
+      "title": "GRKO mice express an aberrant dexamethasone-binding glucocorticoid receptor, but are profoundly glucocorticoid resistant"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "Hormone regulation of bovine leukemia virus via the long terminal repeat"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "Import of the glucocorticoid receptor into rat liver mitochondria in vivo and in vitro"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 26,
+      "title": "The mitochondrion as a primary site of action of glucocorticoids: the interaction of the glucocorticoid receptor with mitochondrial DNA sequences showing partial similarity to the nuclear glucocorticoid responsive elements"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 4,
+      "title": "Effects of altered glucocorticoid sensitivity in the T cell lineage on thymocyte and T cell homeostasis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 88,
+      "title": "Endocrine abnormalities in obesity"
+    }
+  ]
+}

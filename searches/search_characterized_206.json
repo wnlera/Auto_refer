@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "XCEP2 is a member of the recently characterized CEP family of Rho GTPase effector proteins [29,30], which include the previously characterized mouse protein, MSE55 [33].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Shen and Jacobs-Lorena [34] characterized the An.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The cytoprotective actions of FeTPPS have been characterized [29].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Clinically, LS is characterized by porcelain-white sclerotic plaques [1].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The biological function of AGP has not been well characterized [25].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "further characterized the fructose fed hamster model demonstrating the development of a metabolic dyslipidemic state characterized by high plasma levels of VLDL-TG and apolipoprotein B (apoB) due to hepatic lipoprotein overproduction [100].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In cabbage petals, differentiation of expanding cells was characterized by endoreduplication [9].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "N4 motif is occasionally absent in the previously characterized active inteins [14].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 30,
+      "title": "The Borgs, a new family of Cdc42 and TC10 GTPase-interacting proteins"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 33,
+      "title": "MSE55, a Cdc42 effector protein, induces long cellular extensions in fibroblasts"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 29,
+      "title": "A new family of Cdc42 effector proteins, CEPs, function in fibroblast and epithelial cell shape changes"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 34,
+      "title": "A type I peritrophic matrix protein from the malaria vector Anopheles gambiae binds to chitin. Cloning, expression, and characterization"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 29,
+      "title": "Characterization of the cytoprotective action of peroxynitrite decomposition catalysts"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Lichen sclerosus"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "Alpha-1-acid glycoprotein"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 100,
+      "title": "Mechanisms of hepatic very low density lipoprotein overproduction in insulin resistance. Evidence for enhanced lipoprotein assembly, reduced intracellular ApoB degradation, and increased microsomal triglyceride transfer protein in a fructose-fed hamster model"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 9,
+      "title": "Nuclear DNA endoreduplication during petal development in cabbage: relationship between ploidy levels and cell size"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 14,
+      "title": "Modular organization of inteins and C-terminal autocatalytic domains"
+    }
+  ]
+}

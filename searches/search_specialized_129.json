@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Hufbauer & Via [23] observed that pea aphids that are specialized on alfalfa are successfully parasitized less often than are pea aphids specialized on clover.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Specialized compartments within lymphoid tissues facilitate these interactions [3].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The displacement of dipolar sources seen here may mirror the involvement of additional cortical areas, such as the voice-specialized part in the STS [31] or pitch-specialized areas in the primary auditory cortex.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The auditory cortices in the two hemispheres are relatively specialized in normal subjects [56,57].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The nonparametric statistical methods, including the Empirical Bayes (EB) method [3], the significance analysis specialized for microarray data (such as SAM [4]) and the mixture model method (MMM) [5] have been specialized and applied for microarray data analysis.",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The right homologue is specialized for the discrimination of melody, pitch and sound intensity [13,14].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 23,
+      "title": "Evolution of an aphid-parasitoid interaction: variation in resistance to parasitism among aphid populations specialized on different plants"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 3,
+      "title": "B cell development pathways"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 31,
+      "title": "Voice-selective areas in human auditory cortex"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 56,
+      "title": "Making brain circuits listen"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 57,
+      "title": "Recognition of emotional prosody and verbal components of spoken language: an fMRI study"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 5,
+      "title": "A Mixture Model Approach to Detecting Differentially Expressed Genes with Microarray Data"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 3,
+      "title": "Empirical Bayes analysis of a microarray experiment"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Significance analysis of microarrays applied to the ionizing radiation response"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 14,
+      "title": "The functional anatomy of sound intensity discrimination"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 13,
+      "title": "Neural mechanisms underlying melodic perception and memory for pitch"
+    }
+  ]
+}

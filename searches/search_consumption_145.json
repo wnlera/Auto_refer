@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "There were significant decreases in milk consumption but large increases in the consumption of soft drinks and non-citrus juices [36].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Data regarding water and beverage consumption was obtained via survey [17].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Chronic fructose consumption reduces adiponectin responses, contributing to insulin resistance [63].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "In an analysis of the colon cancer data from the Health Professionals Follow-up Study, Platz et al [56] found that there was a 71% decrease in colon cancer risk when men with none of six established risk factors were compared to men with at least one of these risk factors (obesity, physical inactivity, alcohol consumption, early adulthood cigarette smoking, red meat consumption, and low intake of folic acid from supplements).",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Several studies have suggested that, despite prevention efforts, established norms of excessive drinking behavior and positive student attitudes regarding the effects of alcohol consumption continue to encourage alcohol consumption on college campuses [10,11].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "[4] found an increased risk of prostate cancer associated with alcohol consumption.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In Portugal, alcoholic beverages consumption is a major public health problem [42].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The number of prescriptions, however, can greatly differ from actual drug consumption [16].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Although consumption of phytates and animal-derived proteins was not investigated in present study, high dietary consumption of phytates and low dietary intake of animal proteins is one of the suggested hypothesis for vitamin D deficiency [24,26,27].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 36,
+      "title": "US adolescent food intake trends from 1965 to 1996"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 17,
+      "title": "Improving exposure assessment in environmental epidemiology: Application of spatio-temporal visualization tools"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 63,
+      "title": "Control of energy homeostasis and insulin action by adipocyte hormones: leptin, acylation stimulating protein, and adiponectin"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 10,
+      "title": "Peer influences on college drinking: A review of the research"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "Expectancies and evaluations of alcohol effects among college students: self-determination as a moderator"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 4,
+      "title": "Case-control study of alcohol consumption and prostate cancer risk in Montreal, Canada"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 42,
+      "title": "Dietary guidelines and food nutrient intakes in Portugal"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 16,
+      "title": "Prescribing benzodiazepines for noninstitutionalized elderly"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 27,
+      "title": "Asian rickets and osteomalacia"
+    }
+  ]
+}

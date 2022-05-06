@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "There are several chloride conductances, which have been characterized in the mammalian lung: the cAMP-dependent cystic fibrosis transmembrane conductance regulator (CFTR) [15], the Ca++-dependent chloride channel (CaCC) [16-18], the outwardly rectifying chloride channel (ORCC) [19], the purinergic receptor-mediated chloride channel [20,21], and the voltage- and volume-regulated, ClC family of chloride channels [3,22-24].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Since AMPA receptors are known to have multiple conductance states [32,33] we have postulated that the proportion of time spent in different conductance states is the modifiable parameter [18].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "2. display nearly the same unitary conductance (The membrane-associated channels show two conductance states, one at 40 – 60 pS, the other at 75 – 100 pS (Table I and [31]));",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The basic electrical circuit for recording potentials and conductance during microperfusion has been described previously [18].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Another possible application is to reconstitute channels into planar lipid bilayer and use time dependent conductance as a signal [2,3].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 20,
+      "title": "Chloride Secretory Response to Extracellular Atp in Human Normal and Cystic-Fibrosis Nasal Epithelia"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 19,
+      "title": "Defective Regulation of Outwardly Rectifying Cl- Channels by Protein Kinase-A Corrected by Insertion of Cftr"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 21,
+      "title": "Extracellular Atp and Utp Induce Chloride Secretion in Nasal Epithelia of Cystic-Fibrosis Patients and Normal Subjects Invivo"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Cystic-Fibrosis - A Disease in Electrolyte Transport"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 33,
+      "title": "Multiple-conductance channels activated by excitatory amino acids in cerebellar neurons"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 32,
+      "title": "Glutamate activates multiple single channel conductances in hippocampal neurons"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 18,
+      "title": "Modulation of AMPA receptor unitary conductance by synaptic activity"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 31,
+      "title": "Amino acid-activated channels in the catfish taste system"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "Missing Cl conductance in cystic fibrosis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 3,
+      "title": "Ion channels as molecular coulter counters to probe metabolite transport"
+    }
+  ]
+}

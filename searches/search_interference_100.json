@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Interference to cell fusion was measured using a quantitative HTLV envelope cell fusion interference assay (CFIA), as previously described [9].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In order to cancel the possible effects of ventricular interference (affecting especially recordings during sinus rhythm), the averaged ventricular interference complex was computed and subtracted from each atrial signal [16].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Studies suggesting autoregulation of tobacco mosaic virus replication occurred independent of interferon effects, intrinsic interference or interference by defective virus [34] confirming this phenomenon is not confined to either animal viruses or cells.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Leaving aside the complicating influence of clonal interference [18], the rate of substitution is",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The PTGS-mechanism in plants shows similarities to RNA interference (RNAi) in animals [22].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Importantly, studies of the tobacco mosaic virus confirmed this effect to be host-independent and virus-specific inhibition of viral RNA synthesis and to be quite distinct from any interferon effects, intrinsic interference or interference by defective virus [34].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "[14,32] is based on an interference mechanism of quantum states of ions within protein cavities.",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "This is in accord with interference studies [35,36] identifying U4 as insensitive to phosphorothioate modification.",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 9,
+      "title": "Definition of an amino-terminal domain of the human T-cell leukemia virus type 1 envelope surface unit that extends the fusogenic range of an ecotropic murine leukemia virus"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 16,
+      "title": "A high-temporal resolution algorithm for quantifying organization during atrial fibrillation"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 34,
+      "title": "Unique nature of an attenuated strain of tobacco mosaic virus: autoregulation"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 18,
+      "title": "The fate of competing beneficial mutations in an asexual population"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 22,
+      "title": "Post-transcriptional gene silencing in plants"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 34,
+      "title": "Unique nature of an attenuated strain of tobacco mosaic virus: autoregulation"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 32,
+      "title": "Amplitude and frequency dissociation spectra of ion-protein complexes rotating in magnetic fields"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Effects of weak magnetic fields on biological systems: physical aspects"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 35,
+      "title": "Complete identification of nonbridging phosphate oxygens involved in hammerhead cleavage"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 36,
+      "title": "Thiophosphate interference experiments locate phosphates important for the hammerhead RNA self-cleavage reaction"
+    }
+  ]
+}

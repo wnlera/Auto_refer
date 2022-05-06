@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "TGF-β, another agent that, like 8-Cl-Ado, induces growth arrest but not differentiation of keratinocytes ([31] and reviewed in [30]), can inhibit the ability of differentiating agents to elicit keratinocyte differentiation [31].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "One potential problem, however, is that TGF-β also inhibits the expression of differentiation markers elicited by other differentiating agents [31].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "It also appears that differentiative signals triggered by the IL2/IL2R interaction are necessary to promote the differentiation to an anergic and suppressive T-Reg cell[81].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "[3] found significant differentiation at the GPI-A* allozyme locus but only weak evidence for genetic differentiation with an RFLP analysis of whole mtDNA.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In general, MAP kinase pathways involving ERK1/2 stimulate proliferation, growth and differentiation, whereas those that stimulate p38 kinase lead to differentiation and apoptosis [16].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Hackett and Rosenberg [10] concluded that antwren speciation mainly has been followed by plumage differentiation (and to some degree size differentiation) rather than changes in body proportions.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Since another characteristic typical of hyperproliferative skin diseases such as psoriasis is impaired differentiation [32], a therapy that inhibits both proliferation and differentiation would be less than ideal.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Thus, IFN-γ enhances the differentiation of erythroid precursors [41,42].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 31,
+      "title": "Suppression of keratinocyte growth and differentiation by transforming growth factor β1 involves multiple signaling pathways"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 30,
+      "title": "Molecular mechanisms of transforming growth factor-β signaling"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 31,
+      "title": "Suppression of keratinocyte growth and differentiation by transforming growth factor β1 involves multiple signaling pathways"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 81,
+      "title": "T-cell anergy"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 3,
+      "title": "Global population structure of yellowfin tuna, Thunnus albacares, inferred from allozyme and mitochondrial DNA variation"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "Protein phosphatases and the regulation of mitogen-activated protein kinase signalling"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 10,
+      "title": "Comparison of phenotypic and genetic differentiation in South American antwrens (Formicariidae)"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 32,
+      "title": "Vitamin D3 analogues"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 41,
+      "title": "Expression of Fas/CD95 and Bcl-2 by primitive hematopoietic progenitors freshly isolated from human fetal liver"
+    }
+  ]
+}

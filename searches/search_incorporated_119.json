@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Extension products are analyzed by size or, alternatively, by differences in the behavior of incorporated versus non-incorporated terminator nucleotides under polarized fluorescent light [13].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[2]) to incorporate multiple species data.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In the course of the cRNA synthesis biotin molecules are incorporated [48].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "This hypothesis incorporates genetic, epigenetic [260], and environmental factors.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Unnatural codons and unnatural amino acid [23] will be also incorporated in desired composition.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Finally, they dissociate into apolar cells and are incorporated into different stomatogastric ganglia [15,16].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Moreover, several other freely available microarray data handling packages have incorporated this normalization technique [10,11].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Intracellular iron released from transferrin is rapidly incorporated into ferritin, minimizing its inherent toxicity [17,30,31].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 13,
+      "title": "High-throughput genotyping assay approaches."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 2,
+      "title": "Identification of Consensus Patterns in Unaligned DNA Sequences Known to be Functionally Related"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 48,
+      "title": "Identification of novel oestrogen receptor target genes in human ZR75-1 breast cancer cells by expression profiling"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 260,
+      "title": "Human Development: Biological and genetic processes"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 23,
+      "title": "An unnatural base pair for incorporating amino acid analogs into proteins"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 15,
+      "title": "Proneural and neurogenic genes control specification and morphogenesis of stomatogastric nerve cell precursors in Drosophila"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "The function of the neurogenic genes during epithelial development in the Drosophila embryo"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 10,
+      "title": "MARAN: normalizing micro-array data"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 11,
+      "title": "MatArray: a Matlab toolbox for microarray data"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 31,
+      "title": "Liver cell necrosis: cellular mechanisms and clinical implications"
+    }
+  ]
+}

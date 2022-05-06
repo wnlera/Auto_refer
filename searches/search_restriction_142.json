@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The alternative measure of gestational age-specific growth restriction employed in our study represents an index of 'revealed' fetal growth restriction [18].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Ideally, estimation of the incidence of fetal growth restriction requires identification of fetal growth restriction on a longitudinal basis among continuing pregnancies [18].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The drg gene encodes a restriction enzyme, NmeBII that is similar to the Streptococcus pneumoniae DpnI restriction endonuclease which cleaves at GmeATC, but not at GATC, sequences [30,31].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "During fasting or caloric restriction, however, circulating glucose levels fall causing brain cells to rely more heavily for energy on ketone bodies that gradually increase with food restriction [29,61].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The viral determinant of this restriction maps to the capsid (CA) domain of Gag, making this restriction somewhat reminiscent of the Fv1 block described by Lilly and others decades ago [16].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "RFLP (restriction fragment length polymorphism) and restriction analysis were used to determine the frequencies of the I/D polymorphisms of the ACE gene, and homo-/ heterozygoty of the M235T AGT gene[20,21].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Quik-Change PCR was also used to create pairs of unique internal restriction sites in native-leadered C. trachomatis ompA to permit the deletion of specific domains by plasmid restriction and religation [33].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 18,
+      "title": "Incidence based measures of birth, growth restriction and death can free perinatal epidemiology from erroneous concepts of risk"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "Incidence based measures of birth, growth restriction and death can free perinatal epidemiology from erroneous concepts of risk"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 31,
+      "title": "A deoxyribonuclease of Diplococcus pneumoniae specific for methylated DNA"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 30,
+      "title": "Evolution and function of the neisserial dam-replacing gene"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 29,
+      "title": "Perspectives on the metabolic management of epilepsy through dietary reduction of glucose and elevation of ketone bodies"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 61,
+      "title": "Brain metabolism during fasting"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "Susceptibility to two strains of Friend leukemia virus in mice"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 21,
+      "title": "Rapid detection of the hypertension-associated Met235-->Thr allele of the human angiotensinogen gene"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 20,
+      "title": "Contribution of genetic polymorphism in the renin-angiotensin system to the development of renal complications in insulin-dependent diabetes: Genetique de la Nephropathie Diabetique (GENEDIAB) study group"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 33,
+      "title": "Mutagenesis and functional reconstitution of chlamydial major outer membrane proteins: VS4 domains are not required for pore formation but modify channel function"
+    }
+  ]
+}

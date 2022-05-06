@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Other potential mechanisms such as Transforming Growth Factor β remain to be investigated [23].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The suppressive effect of CD105 on transforming growth factor β, thus, contributes to angiogenesis [49].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "SV40 large T is a powerful oncoprotein capable of transforming a variety of cell types [42].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The resulting mutant alleles were tested for function by transforming a cdc27+/cdc27::his7+leu1-32/leu1-32 ura4-D18/ura4-D18 his7-366/his7-366 ade6-M210/ade6-M216 h-/h+ diploid [11], transferring the transformants onto malt extract medium to induce sporulation, before finally plating the helicase-treated spores onto EMM plates supplemented with 5 μg/ml thiamine with/without histidine, at 32°C.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Tax has been also shown to cooperate with the ras oncogene in transforming primary embryo fibroblasts [203].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Transforming Growth Factor Beta (TGF-ß) is one of the most potent inhibitor of cell growth [1].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "It has been demonstrated that apoB could be down-regulated by transforming growth factor-beta (TGF-β) [7,8].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Human PSG1, PSG6 and PSG11 all induced secretion of IL-10, IL-6 and transforming growth factor (TGF)-β1 [25].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "It is possible that competent BM-APC might be propagated indefinitely by the introduction of oncogenes, such as transforming retroviruses [55].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 23,
+      "title": "Transforming growth factor-alpha increases alveolar liquid clearance in anesthetized ventilated rats"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 49,
+      "title": "CD105 antagonizes the inhibitory signaling of transforming growth factor beta1 on human vascular endothelial cells"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 42,
+      "title": "Cellular transformation by sv40 large t antigen: Interaction with host proteins"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 11,
+      "title": "Essential interaction between the fission yeast DNA polymerase δ subunit Cdc27 and Pcn1 (PCNA) mediated through a C-terminal p21Cip1-like PCNA binding motif"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 203,
+      "title": "The human T-lymphotropic virus type I tax gene can cooperate with the ras oncogene to induce neoplastic transformation of cells"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Cytostatic and apoptotic actions of TGF-beta in homeostasis and cancer"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 7,
+      "title": "Differential, tissue-specific, transcriptional regulation of apolipoprotein B secretion by transforming growth factor beta"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 8,
+      "title": "Transcriptional regulation of the human apolipoprotein genes"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 25,
+      "title": "Pregnancy-specific glycoproteins function as immunomodulators by inducing secretion of IL-10, IL-6 and TGF-beta1 by human monocytes"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 55,
+      "title": "Cloned dendritic cells can present exogenous antigens on both MHC class I and class II molecules"
+    }
+  ]
+}

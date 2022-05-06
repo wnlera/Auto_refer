@@ -1,0 +1,40 @@
+{
+  "main_text": [
+    {
+      "sentence": "As additional mechanisms of tissue retention the formation of intracellular conjugates was reported for budesonide and ciclesonide's active metabolite [20,21].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In a study with a novel ICS ciclesonide, its effects were studied in a parallel-group, double-blind, placebo-controlled, randomized cross-over study (washout period 3–8 weeks) in patients (n = 29) with mild to moderate asthma [43].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 20,
+      "title": "Reversible fatty acid conjugation of budesonide. Novel mechanism for prolonged retention of topically applied steroid in airway tissue"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 21,
+      "title": "Formation of fatty acid conjugates of ciclesonide-active principle in the rat lung after 4-week inhalation of ciclesonide"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 43,
+      "title": "A dose-dependent effect of the novel inhaled corticosteroid ciclesonide on airway responsiveness to adenosine-5'-monophosphate in asthmatic patients"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

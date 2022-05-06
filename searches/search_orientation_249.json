@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "The \"Things-People\" dimension also bears a strong similarity to the Technique orientation and People orientation which has also been described in relation to medical specialities [56].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Moreover, some regulatory elements have orientation biases (see [11,12] for examples).",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Initial orientation determination is based on model-based projection matching approach [3].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Although experimental evidence show that fiber orientation takes a role in arrhythmia generation [46,47], to implement a highly realistic description of fiber orientation is expensive because of the difficulty in acquiring sufficient validated data [48].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "On the other hand, G:U matches have distinctive binding energy and spatial orientation [21].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Our observation here is in agreement with other reports showing the same orientation [4,5,18].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 56,
+      "title": "Pesonality and medical speciality choice: Technique orientation versus people orientation"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 11,
+      "title": "Predicting gene expression from sequence."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 12,
+      "title": "Coordinate enhancers share common organizational features in the Drosophila genome."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 3,
+      "title": "A model-based approach for determining orientations of biological macromolecules imaged by cryo-electron microscopy"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 48,
+      "title": "Reconstruction of cardiac ventricular geometry and fiber orientation using magnetic resonance imaging"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 46,
+      "title": "Nonuniform muscle fiber orientation causes spiral wave drift in a finite element model of cardiac action potential propagation"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 47,
+      "title": "Effects of myocardial fiber orientation on the electrical induction of ventricular fibrillation"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 21,
+      "title": "The G × U wobble base pair. A fundamental building block of RNA structure crucial to RNA function in diverse biological systems"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "PH-induced collapse of the extracellular loops closes Escherichia coli maltoporin and allows the study of asymmetric sugar binding"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 4,
+      "title": "Transport of maltodextrins through maltoporin: A single-channel study"
+    }
+  ]
+}

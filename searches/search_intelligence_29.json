@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Four subtests of the Wechsler Adult Intelligence Test – Revised (WAIS-R) [21] were used.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Artificial intelligence techniques may include fuzzy logic [28] and Kohonen self-organizing maps [31].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The tests were chosen from the Wechsler Memory Scale-Revised (WMS-R), the Wechsler Adult Intelligence Scale (WAIS – R) and the Halsted-Reitan Neuropsychological Battery [20,21].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "It is a mental state that is objectively desirable, indicating for example maturity, emotional and social intelligence, resilience and subjective well-being according to Vaillant [16].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Daniel Dennett was the first philosopher of science who clearly articulated the \"frame problem\" and promoted it as one of the central problems of artificial intelligence [16] (also see [17]).",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "To ensure that no baseline ability differences existed between groups, Wechsler Adult Intelligence Scale (WAIS) full scale IQ estimates were computed for all participants, using the National Adult Reading Test (NART) [6].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Recently an artificial intelligence approach known as semantic networks (SN) have gained the attention of the biological community as a potentially powerful tool for organizing and integrating large amounts of biological information [17].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 21,
+      "title": "Wechsler Adult Intelligence Scale – Revised (WAIS-R). Manual"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 28,
+      "title": "Activity and Location Recognition Using Wearable Sensors"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 31,
+      "title": "Unsupervised, Dynamic Identification of Physiological and Activity Context in Wearable Computing"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 21,
+      "title": "Halsted Reitan Battery (HRB)"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 20,
+      "title": "Wechsler Memory Scale-Revised"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Mental health"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "Cognitive Wheels: The Frame Problem in AI"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 17,
+      "title": "The Robot's dilemma : the frame problem in artificial intelligence"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 6,
+      "title": "National Adult Reading Test (NART) Manual"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 17,
+      "title": "The representation of meaning in the UMLS"
+    }
+  ]
+}

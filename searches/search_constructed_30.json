@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "KA/KS values were reconstructed for individual branches of the evolutionary tree derived from the Darwin bioinformatics workbench (see Methods) using a distance matrix and ancestral states constructed by the method of Messier and Stewart [39].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Many databases constructed on the GenoList data schema were subsequently constructed (, [11]).",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "It is well established to divide Religiosity into three sub-constructs: Intrinsic, Extrinsic, and Quest Religiosity [17-20], while the construct Spirituality was divided into the following sub-constructs: Cognitive Orientation Towards Spirituality, Experiential/Phenomenological Dimension of Spirituality, Existential Well-Being, Paranormal Beliefs, and Religiousness [21].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "WT1-A SAOS cells were constructed from a cell line harboring the tetracycline-repressor-VP16 fusion protein [43], transfecting the parental cell with a construct harboring WT1 isoform A (-17amino acids, -KTS) linked 3' to the CMV minimal promoter and tetracycline operators [44].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Heterokaryons were constructed as described in [20].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In a different study, inclusions of NoV ORF3 and poly(A) sequences in a construct increased the expression levels of NoV rVP1 and the stability of VLPs when compared to constructs without these sequences [6].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "MLV and LVs were constructed as described previously [19,20].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "BP trees were constructed using the software MrBayes v3.0B4 [45,46].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 39,
+      "title": "Episodic adaptive evolution of primate lysozymes"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 11,
+      "title": "SubtiList: the reference database for the Bacillus subtilis genome"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 21,
+      "title": "Spirituality and the Five Factor Model"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 43,
+      "title": "The WT1 gene product stabilizes p53 and inhibits p53-mediated apoptosis"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 44,
+      "title": "Tight control of gene expression in mammalian cells by tetracycline-responsive promoters"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 20,
+      "title": "Heterokaryosis in Nectria haematococca: complementation between mutants affecting the expression of two differentiated states"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "The 3' end of Norwalk virus mRNA contains determinants that regulate the expression and stability of the viral capsid protein VP1: a novel function for the VP2 protein"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 20,
+      "title": "Methods for the preparation and use of lentivirus vectors"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 19,
+      "title": "RNA 3'-readthrough of oncoretrovirus and lentivirus: implications in vector safety and efficacy"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 46,
+      "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models"
+    }
+  ]
+}

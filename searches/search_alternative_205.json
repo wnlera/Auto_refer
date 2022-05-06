@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "As noted by Waller and Jacquez [3] tests for spatial pattern employ alternative hypotheses of two types; the omnibus \"not the null hypothesis\" or more specific alternatives.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "What initiates alternative splicing of the α subunit transcript is incompletely understood, however there is evidence that expression of different alternatively spliced transcripts can be hormonally induced [20,21].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Because phosphorylation sites can be introduced into the channel protein via alternatively spliced exons [19], alternative splicing may represent an important control mechanism regulating Maxi-K channel function during pregnancy and at labour.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Johnson and Gerrish [39] consider alternative models.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Exon 1 and 2 may serve as alternative first exons, like the alternative exons 1, 1A and 1B found in the PTCH1 gene [23].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The availability of a clean datasets of alternative splicing events [11,12] has proved to be useful in providing insights into the phenomenon of alternative splicing [13].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "See [39] for discussion of u for alternative models.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 3,
+      "title": "Disease models implicit in statistical tests of disease clustering"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 20,
+      "title": "Control of alternative splicing of potassium channels by stress hormones"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 21,
+      "title": "17β-Estradiol upregulates distinct maxi-K channel transcripts in mouse uterus"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 19,
+      "title": "Regulation of the Ca2+-sensitive domains of the Maxi-K channel in the mouse myometrium during gestation"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 39,
+      "title": "The fixation probability of a beneficial allele in a population dividing by binary fission"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 23,
+      "title": "Alternative first exons of PTCH1 are differentially regulated in vivo and may confer different functions to the PTCH1 protein"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 11,
+      "title": "ASAP: the Alternative Splicing Annotation Project"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 12,
+      "title": "ASD: the Alternative Splicing Database"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 13,
+      "title": "Intrinsic differences between authentic and cryptic 5' splice sites"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 39,
+      "title": "The fixation probability of a beneficial allele in a population dividing by binary fission"
+    }
+  ]
+}

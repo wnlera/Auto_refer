@@ -1,0 +1,23 @@
+{
+  "main_text": [
+    {
+      "sentence": "The only known CTLDcp sequence from cartilaginous fishes is a tetranectin homologue from reef shark cartilage [30].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 30,
+      "title": "Primary structure of a protein isolated from reef shark (Carcharhinus springeri) cartilage that is similar to the mammalian C-type lectin homolog, tetranectin"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

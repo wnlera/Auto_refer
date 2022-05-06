@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Additionally, cigarette smoke may reduce histone deacetylase activity and its expression in alveolar macrophages, making these cells relatively resistant to corticosteroids since one of the principal targets of corticosteroid action is by switching off gene expression of inflammatory genes through the recruitment of histone deacetylases [41].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Most were stable on maintenance corticosteroids [8].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Such reactions to corticosteroids for asthma therapy do occur occasionally [19].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Many experiments have shown that eosinophils are exquisitely sensitive to corticosteroids [29,30].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Furthermore, corticosteroids may inhibit the synthesis of NO [31], thus causing vasoconstriction.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In addition, LABA may prime the glucocorticoid receptor facilitating activation by corticosteroids [65,66].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Other studies have confirmed the efficacy of corticosteroids in severe exacerbations of COPD [18].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Corticosteroids recruit hitone deacetylase 2 protein to the transcriptional complex to suppress proinflammatory gene transcription [105].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 41,
+      "title": "Corticosteroid resistance in chronic obstructive pulmonary disease: inactivation of histone deacetylase"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 8,
+      "title": "Management and control of asthma as assessed by actual/best function and corticosteroid usage between 1980 and 1993/4"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 19,
+      "title": "Corticosteroid allergy in asthma"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 29,
+      "title": "Non-invasive markers of airway inflammation as predictors of oral steroid responsiveness in asthma"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 30,
+      "title": "The effects of glucocorticoids on human eosinophils"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 31,
+      "title": "Increased expression of inducible nitric oxide synthase and cyclo-oxygenase-2 in the airway epithelium of asthmatic subjects and regulation by corticosteroid treatment"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 65,
+      "title": "Ligand-independent activation of the glucocorticoid receptor by β2-adrenergic receptor agonists in primary human lung fibroblasts and vascular smooth muscle cells"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 66,
+      "title": "Scientific rationale for inhaled combination therapy with long-acting β2-agonists and corticosteroids"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "Oral corticosteroids for acute exacerbations of chronic obstructive pulmonary disease"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 105,
+      "title": "Glucocorticoid receptor recruitment of histone deacetylase 2 inhibits interleukin-1beta-induced histone H4 acetylation on lysines 8 and 12"
+    }
+  ]
+}

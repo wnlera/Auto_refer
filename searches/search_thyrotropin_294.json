@@ -1,0 +1,40 @@
+{
+  "main_text": [
+    {
+      "sentence": "In addition, many other neuromodulators have been implicated in the control of prolactin secretion, among them, vasoactive intestinal peptide, thyrotropin releasing hormone and serotonin (5HT) [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "thyreotropin receptors on fibroblasts, or aberrant T-cell cytokine stimulation, leading to overwhelming glycosaminoglycan production [4] Fibrosing processes such as retroperitoneal or sellar associated with EMO syndrome or multifocal fibrosclerosis, respectively, have been previously reported [5,6].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "Prolactin: structure, function, and regulation of secretion"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "Hashimoto's thyroiditis and Graves' disease associated with retroperitoneal fibrosis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "Multifocal fibrosclerosis presenting as Grave's orbitopathy. Bilateral exophthalmos associated with retroperitoneal and sellar fibrosis"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 4,
+      "title": "TSH and TSH receptor antibody-binding sites in fibroblasts of pretibial myxedema are related to the extracellular domain of entire TSH receptor"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "main_text": [
+    {
+      "sentence": "Three negibacterial phyla that share a rare 4-amino acid insertion in alanyl-tRNA synthetase [1,81] together correspond closely to the classical division Gracilicutes, so I designate them 'core gracilicutes' (Proteobacteria, Sphingobacteria, Planctobacteria).",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Unlike in Posibacteria, flagella of Exoflagellata (Proteobacteria plus Planctobacteria), Salinibacter, and Thermotoga have an L-ring [78], formed by FlgH lipoprotein, which embeds them neatly into the OM in a manner allowing free rotation.",
+      "b_link": [
+        "B_3"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

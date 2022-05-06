@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "[29], who have been working on single cell preparations.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Technical details for the preparation of reagents for MPS-H antigen determinations, RIA procedure, and patient sample preparation are published elsewhere [9,10].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Similar observations were also reported with certain Indian ayurvedic Indian preparations [32].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Sustained-release preparations have a higher incidence of hepatic toxicity in doses comparable to the immediate-release preparations [43], but these important differences are not typically mentioned in reviews of niacin's lipid lowering properties.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Probe preparation was performed as previously described [14].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Lung preparation was performed as described previously [5].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "1), which agrees with results obtained using other types of mucosal preparations [22].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Phosphorylated proteasomal subunits were detected in crude preparations from cultured Drosophila cells [22].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Therefore, testing all deactivation methods was recommended for all preparations in this laboratory [12].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 29,
+      "title": "Microbial DNA induces a host defense reaction of human respiratory epithelial cells"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 10,
+      "title": "Metallopanstimulin gene product produced in a baculovirus expression system is a nuclear phosphoprotein that binds to DNA"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 9,
+      "title": "A growth factor-inducible gene encodes a novel nuclear protein with zinc finger structure"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 32,
+      "title": "Effect of hepatoprotective ayurvedic drugs on lipases following CCl4  induced hepatic injury in rats"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 43,
+      "title": "Nicotinic acid treatment of hypercholesterolemia: comparison of plain and sustained-action preparations and report of two cases of jaundice"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 14,
+      "title": "Gene expression analysis via cDNA microarrays of laser capture microdissected cells from fixed tissue."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 5,
+      "title": "cDNA array hybridization after laser-assisted microdissection from nonneoplastic tissue"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 22,
+      "title": "Morphological support for paracrine inhibition of gastric acid secretion by nitric oxide in humans"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 22,
+      "title": "The Drosophila proteasome undergoes changes in its subunit pattern during development"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 12,
+      "title": "Sterilization of Mycobacterium tuberculosis Erdman samples by antimicrobial fixation in a biosafety level 3 laboratory"
+    }
+  ]
+}

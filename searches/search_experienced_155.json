@@ -1,0 +1,86 @@
+{
+  "main_text": [
+    {
+      "sentence": "Experienced male physicians in pediatric care related personal security to their professional experience while the less experienced thought that advances in medical knowledge and ethical guidelines would make them more secure in their work [32].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In addition, a single experienced collector is more likely to achieve a satisfactory Pap sample than multiple inexperienced Pap collectors [17].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The on-call gas and electrical workers experience of family and social life disruption does mirror the experiences of doctors and transplant coordinators as discussed previously [13,15,22].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "These studies tested the operation of the cumulative life course conceptual model, typically by summing the number of times participants experienced unfavorable SES situations during early, middle or later life, and creating SES indices representing the accumulation of these experiences [45,52,53,68,79,81,82].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 32,
+      "title": "Male physicians' narratives about being in ethically difficult care situations in paediatrics"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 17,
+      "title": "Comparison of cytobrush with Cervex-Brush for endocervical cytologic sampling"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "The pattern and effect of on call work in transplant coordinators in the United Kingdom"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Stress among general practitioners and their spouses: a qualitative study"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 13,
+      "title": "GP job satisfaction in 1990 and 1998: lessons for the future?"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 53,
+      "title": "Impact of childhood and adulthood socioeconomic position on cause specific mortality: the Oslo Mortality Study"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 45,
+      "title": "Women's exposure to early and later life socioeconomic disadvantage and coronary heart disease risk: the Stockholm Female Coronary Risk Study"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 52,
+      "title": "Life-course socioeconomic and behavioral influences on cardiovascular disease mortality: the collaborative study"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 81,
+      "title": "Lifetime socioeconomic position and mortality: prospective observational study"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 82,
+      "title": "The measurement of social class in health studies: old measures and new formulations"
+    }
+  ]
+}

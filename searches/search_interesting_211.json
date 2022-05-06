@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Interestingly, a protein called PH domain interacting protein (PHIP) was recently described that selectively binds in vitro and constitutively associates in cells to the PH-domain of IRS-1 [54].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Gene prospecting has already been used to extract interesting variants of genes coding for interesting enzyme activities [21].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Reduced expression of HDAC6, a histone deacetylase and nuclear receptor coactivator 3 (CBP interacting protein) with histone acetyltransferase and pCAF/CBP recruiting abilities [35] are particularly interesting, since p30II contains multiple highly conserved lysines, which could play a role in acetylation [18,21].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Another interesting study stated that optimal cytoreduction means no visible residual tumor [31].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "This analytic approach has been suggested as an interesting tool in pharmacoepidemiology [21].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "About 21-yearly cyclicities (Figure 5) pose interesting problems of geographical differences [14].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Interestingly, the sequence of GST-B4 (GST-WWSKKSV) reveals that, in addition to a conserved di-W motif [38], it also harbors an overlapping WxxF motif, which has been previously isolated by phage-display as a Vpr-binding motif and is present in Vpr-interacting protein uracil DNA glycosylase (UDG) [49].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 54,
+      "title": "The pleckstrin homology (PH) domain-interacting protein couples the insulin receptor substrate 1 PH domain to insulin signalling pathways leading to mitogenesis and GLUT4 translocation"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 21,
+      "title": "Prospecting for novel lipase genes using PCR"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 35,
+      "title": "gas7: A gene expressed preferentially in growth-arrested fibroblasts and terminally differentiated Purkinje neurons affects neurite formation"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 18,
+      "title": "Human T-lymphotropic virus type 1 p30(II) functions as a transcription factor and differentially modulates CREB-responsive promoters"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "Human T-lymphotropic virus type 1 p30(II) regulates gene transcription by binding CREB binding protein/p300"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 31,
+      "title": "Relative influences of tumor volume before surgery and the cytoreductive outcome on survival for patients with advanced ovarian cancer: a prospective study"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "Approaches to combat with confounding by indication in observational studies of intended drug effects"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Time structures – chronomes – in child development. International Interdisciplinary Conference, Nov. 29–30, 2002, Munich, Germany"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 38,
+      "title": "Genetic selection of inhibitory peptides against Human Immunodeficiency Virus Type 1 Vpr"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 49,
+      "title": "Diversity of HIV-1 Vpr interactions involves usage of the WXXF motif of host cell proteins"
+    }
+  ]
+}

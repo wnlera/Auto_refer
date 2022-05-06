@@ -1,0 +1,56 @@
+{
+  "main_text": [
+    {
+      "sentence": "[27] under the unwieldy name \"alternative lengthening of telomeres mechanism\".",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Human alternative lengthening of telomeres (ALT) cells are cancerous cells lacking detectable telomerase activity that maintain long, heterogeneous telomeres using what is believed to be a strand invasion mechanism [12,13].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "XBP1 expression is reportedly induced in response to heat shock, high osmolarity, oxidative stress, glucose starvation and DNA damage, and induces a slow-growth phenotype with lengthening of the G1 cell cycle phase [31].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "A study demonstrated that women who had experienced infertility for a long or medium range of time presented a significantly lower state of anxiety [31] and there was a trend of decreasing psychological stress with lengthening of infertility time.",
+      "b_link": [
+        "B_5"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 27,
+      "title": "Immortalized cells with no detectable telomerase activity. A review"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 13,
+      "title": "Alternative lengthening of telomeres, telomerase, and cancer."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 12,
+      "title": "Telomere elongation in immortal human cells without detectable telomerase activity."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 31,
+      "title": "Xbp1, a stress-induced transcriptional repressor of the Saccharomyces cerevisiae Swi4/Mbp1 family"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 31,
+      "title": "Anxiety and perceptive functioning of infertile women during in-vitro fertilization: exploratory survey of an Italian sample"
+    }
+  ]
+}

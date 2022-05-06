@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Extrapulmonary tuberculosis, because of several factors, has greatly contributed to the total tuberculosis mortalities during the 20th century [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Persons with molecularly clustered tuberculosis isolates are assumed to be in the same chain of recent tuberculosis transmission [5,6].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Subjects commenced treatment after enrollment and received standard short course chemotherapy for tuberculosis as per guidelines of the Malawi National Tuberculosis Program [25].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The application of molecular analysis to identify specific Mycobacterium tuberculosis strains (TB), in combination with traditional surveillance, has yielded insights into tuberculosis transmission [1].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Globally, tuberculosis (TB) is a major public health problem [1].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "M. marinum is a close relative of M. tuberculosis that causes a similar disease in fish, grows faster than M. tuberculosis in culture, and does not cause serious infections in humans [29].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "This study is part of the recent collaborative project sponsored by the Center for Disease Control and Prevention National Tuberculosis Genotyping and Surveillance Network for studying the molecular epidemiology of tuberculosis [14].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Various hematologic abnormalities such as anemia, leukocytosis, monocytosis, lymphopenia, leucopenia, thrombocytopenia, thrombocytosis, leukemoid reactions and pancytopenia have been seen in tuberculosis [1,2], but severe thrombocytopenia and presenting of tuberculosis as immune thrombocytopenic purpura is extremely rare and there are a few reports about tuberculosis induced immune thrombocytopenic purpura published in the world literature [6-10].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "Extrapulmonary tuberculosis in the United States"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "The epidemiology of tuberculosis in San Francisco: a population-based study using conventional and molecular methods"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "Prospective Molecular Typing for TB"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 25,
+      "title": "Manual of the National Tuberculosis Control Programme of Malawi, 4th edition"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "Molecular Epidemiology of tuberculosis and other mycobacterial infections: main methodologies and achievements"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Consensus statement. Global burden of tuberculosis: estimated incidence, prevalence, and mortality by country. WHO Global Surveillance and Monitoring Project"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 29,
+      "title": "Complex pattern of Mycobacterium marinum gene expression during long-term granulomatous infection"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "National tuberculosis Genotyping and Surveillance Network Design and Methods"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Miliary tuberculosis: clinical manifestations, diagnosis and outcome in 38 adults"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 1,
+      "title": "Hematologic abnormalities and mycobacterial infections"
+    }
+  ]
+}

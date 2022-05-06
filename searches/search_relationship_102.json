@@ -1,0 +1,81 @@
+{
+  "main_text": [
+    {
+      "sentence": "Others have argued for a causal relationship based on prospective data, demonstrable dose-response relationships, and analysis using multiple potential confounders [18].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Results of studies investigating the relationship between socioeconomic status and PC service use have not been consistent with some studies reporting a positive relationship between income and referral to PC services [17,22,21,23] while others report no significant relationships [15,18,24].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Concerning relationships of major groups, several congruencies with former analyses can be observed: The sister-taxon relationship of the Nudibranchia and Pleurobranchoidea [14,24] is found in nearly all analyses.",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 18,
+      "title": "Smoking and the Sudden Infant Death Syndrome"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 23,
+      "title": "When death comes: Where should people die?"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "Palliative home care and place of death among cancer patients: A population-based study"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Which terminally ill cancer patients receive hospice in-patient care?"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 17,
+      "title": "Place of death and access to home care services: Are certain patient groups at a disadvantage?"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 18,
+      "title": "The coverage of cancer patients by designated palliative services: a population-based study, South Australia, 1999"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "Which cancer patients are referred to Hospital at Home for palliative care?"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 24,
+      "title": "Trends in the place of death of cancer patients, 1992–1997"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 14,
+      "title": "Reconstruction of the phylogeny of the Opisthobranchia (Mollusca, Gastropoda) by means of 18S and 28S rRNA gene sequences"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 24,
+      "title": "On the phylogeny of the Nudibranchia"
+    }
+  ]
+}

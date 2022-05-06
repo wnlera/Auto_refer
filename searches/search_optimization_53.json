@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "pH) for further optimization of refolding conditions [52].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "AG7088 is now the subject of intensive optimization efforts [90].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "A fixed length cost allows a minor optimization of the scoring scheme [14].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The method of AV delay optimization by RNV has been previously verified [16].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "[5] reported the optimization of the architecture using genetic programming neural networks (GPNN) [5].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "GPx activity assay was based on the classical principle [19] with optimization to the Ht22 cell lysis.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Buffer concentration may also affect mPCR amplifications despite it being seldom considered during monoplex optimization works [20].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "These \"soluble inclusion bodies\" could be avoided by optimization of the expression conditions by screening for monodispersity [79].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The interative refinement and optimization of drug leads is an effective strategy for generating potent preclinical candidate [7,8].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 52,
+      "title": "Chromatographic methods for the isolation of, and refolding of proteins from, Escherichia coli inclusion bodies"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 90,
+      "title": "Binding mechanism of coronavirus main proteinase with ligands and its implication to drug design against SARS"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 14,
+      "title": "MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 16,
+      "title": "Radionuclide evaluation of dual chamber pacing: comparison between variable AV intervals and ventricular pacing"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 5,
+      "title": "Optimization of neural network architecture using genetic programming improves detection and modeling of gene-gene interactions in studies of human diseases"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 19,
+      "title": "Studies on the quantitative and qualitative characteristics of the erythrocyte glutathione peroxidase"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 20,
+      "title": "Multiplex PCR: critical parameters and step-by-step protocol"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 79,
+      "title": "A strategy for optimizing the mondispersity of fusion proteins: application to purification of recombinant HPV E6 oncoprotein"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 7,
+      "title": "Structural basis for specificity and potency of a flavonoid inhibitor of human CDK2, a cell cycle kinase"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "Inhibition of cyclin-dependent kinases by purine analogues: crystal structure of human cdk2 complexed with roscovitine"
+    }
+  ]
+}

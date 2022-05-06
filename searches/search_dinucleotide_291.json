@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "One strategy to better exploit a database of EST-SSRs in order to find polymorphic markers is to first sample the longest SSRs (≥ 30 bp), favoring dinucleotide repeats, then follow with trinucleotide, tetranucleotide and pentanucleotide repeats [23].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The 15 STR marker set analyzed in this study consists of thirteen tetra nucleotide repeat loci: D3S1358, THO1, D21S11, D18S51, D5S818, D13S317, D7S820, D16S539, CSF1PO, vWA, D8S179, TPOX, FGA and two penta nucleotide repeat loci: Penta D, Penta E. Their repeat size makes them less prone to slippage of polymerase during enzymatic amplification compared to the dinucleotide repeats, allowing unambiguous typing [20].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Nicotinamide adenine dinucleotide (NADH) and NADPH are also known to promote sperm capacitation [104].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Two high quality libraries that lead to the successful evolutionary protein design were as follows: the trinucleotide phosphoramidites (3NPs) method using twenty pre-synthesized trimers of nucleotide phosphoramidites [11-14], and the pre-selecting method using an mRNA display with a C-terminus affinity tag in order to remove stop codons [15].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Single nucleotide polymorphisms (SNPs) are highly abundant in the human genome, appearing on average at 0.1% of the nucleotide positions [1].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "[29] based on inhibition of the formation of nicotinamide adenine dinucleotide, phenazine methosulfate and amino blue tetrazolium formazan.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The coordinates of a single repeat unit starts at nucleotide 94,561 relative to the AD169 sequence and end at nucleotide 95,807 [10].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Although at this point clearly speculative, the existence of many CpG dinucleotides in cIRK1 suggests the possibility of gene repression through DNA methylation of CpG dinucleotides leading to heterochromatin condensation of the adjacent genomic locus [31].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The energy values corresponding to the 10 unique dinucleotide sequences are taken from the unified parameters proposed recently [34,35].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 23,
+      "title": "Computational and experimental analysis of microsatellites in rice (Oryza sativa L.): frequency, length variation, transposon associations, and genetic marker potential"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 20,
+      "title": "Variation in 4 short tandem repeat loci in 8 population groups of India"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 104,
+      "title": "Role of hydrogen peroxide in sperm capacitation and acrosome reaction"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Constructing high complexity synthetic libraries of long ORFs using in vitro selection"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "A map of human genome sequence variation containing 1.42 million single nucleotide polymorphisms"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 29,
+      "title": "A modified spectrophotometric assay of superoxide dismutase"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 10,
+      "title": "Analysis of the protein-coding content of the sequence of the human cytomegalovirus strain AD169"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 31,
+      "title": "Epigenetic regulation of gene expression: how the genome integrates intrinsic and environmental signals"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 34,
+      "title": "A unified view of polymer, dumbbell, and oligonucleotide DNA nearest-neighbor thermodynamics"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 35,
+      "title": "Thermodynamics and NMR of internal G.T mismatches in DNA"
+    }
+  ]
+}

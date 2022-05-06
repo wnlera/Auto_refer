@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Although weak, these interactions are important in the context of leukocytes interacting with other cells as illustrated by all the functional data on the interaction of CD8 with MHC Class II (KD = 200 μM) [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In the fly interaction map, each interaction has an associated confidence score, and interactions with a score greater than 0.5 are considered core interactions (the interaction score mainly depends upon the number of times each interaction was detected, the total number of interactions made by each protein and the local network clustering [5]).",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In the fly interaction map each interaction has an associated confidence score, and interactions with a score greater than 0.5 are considered core interactions (the interaction score mainly depends upon the number of times each interaction was detected, the total number of interactions made by each protein and the local network clustering; see [5]).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "First, in order to preserve their interaction and functionality, interacting partners should co-evolve [17].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Description, this field contains the original annotation for the model organism protein interaction; for worm interactions this indicates whether the interaction is in the core dataset of interactions found more than once (CORE_1), or interactions that reconfirmed when retested (CORE_2), or non-core interactions that did not reconfirm (NON_CORE) [6].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Currently, the most informative publicly available general purpose resource, concerning protein-protein interaction data, is the Database of Interacting Proteins [42].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Experimentally reproducible interactions, whether or not they occur in vivo, can be used to discover interacting protein motifs or domains [6,36].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "For example, a single interaction data model is used to store information from any of the interaction data sets such as BIND, MINT, EBI IntAct [18], Database of Interacting Proteins (DIP) [19], and HPRD.",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "T cell receptor and coreceptor CD8 alphaalpha bind peptide-MHC independently and with distinct kinetics"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "A protein interaction map of Drosophila melanogaster."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 5,
+      "title": "A protein interaction map of Drosophila melanogaster."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 17,
+      "title": "Co-evolution of proteins with their interaction partners"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 6,
+      "title": "A map of the interactome network of the metazoan C. elegans."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 42,
+      "title": "DIP, the Database of Interacting Proteins: a research tool for studying cellular networks of protein interactions"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "A protein interaction map of Drosophila melanogaster."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 36,
+      "title": "Predicting protein-peptide interactions via a network-based motif sampler."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 19,
+      "title": "The Database of Interacting Proteins: 2004 update"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 18,
+      "title": "IntAct – an open source molecular interaction database"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "main_text": [
+    {
+      "sentence": "As stated, the link between dimerization and packaging is a subject of ongoing debate [32,33,42,98,99,102,103,109,110], but we and others view dimerization as a prerequisite for packaging.",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In vivo evidence for a role of the NC protein in the dimerization process was already available [24], and this study also showed that NC could bind to viral RNA and increase the rate of dimerization of the RNA fragments in these in vitro dimerization assays [25].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 99,
+      "title": "Mutant human immunodeficiency virus type 1 genomes with defects in RNA dimerization or encapsidation"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 98,
+      "title": "Characterization of human immunodeficiency virus type 1 dimeric RNA from wild-type and protease-defective virions"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 102,
+      "title": "Duplication of the primary encapsidation and dimer linkage region of human immunodeficiency virus type 1 RNA results in the appearance of monomeric RNA in virions"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 103,
+      "title": "Dissociation of genome dimerization from packaging functions and virion maturation of human immunodeficiency virus type 1"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 109,
+      "title": "Impact of human immunodeficiency virus type 1 RNA dimerization on viral infectivity and of stem-loop B on RNA dimerization and reverse transcription and dissociation of dimerization from packaging"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 32,
+      "title": "Mutations in the kissing-loop hairpin of human immunodeficiency virus type 1 reduce viral infectivity as well as genomic RNA packaging and dimerization"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 42,
+      "title": "Maturation of dimeric viral RNA of Moloney murine leukemia virus"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 110,
+      "title": "Possible role of dimerization in human immunodeficiency virus type 1 genome RNA packaging"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 33,
+      "title": "Role of the DIS hairpin in replication of human immunodeficiency virus type 1"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 24,
+      "title": "Rous sarcoma virus nucleic acid-binding protein p12 is necessary for viral 70S RNA dimer formation and packaging"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "We predicted for every model location of preferential proteolytic sites using the NickPred software [35].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "However, other studies have not shown a preferential loss of fat on a VLCK diet [14].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In HT, preferential TH1 response initiates apoptosis of thyroid cells and results in clinical hypothyroidism [22].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "On the other hand, experiments with an infectious molecular clone of the entire HTLV-1 genome have shown that disruption of Tax ability to activate CREB results in preferential immortalization of CD8+ lymphocytes, rather than preferential immortalization of CD4+ lymphocytes seen with the wild-type infectious clone [210].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Primary iron overload in African Americans is often associated with preferential deposition of iron in macrophages in multiple organs [1,7,21].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "However, it is interesting to note that every duplication-mutation model by construction gives rise to an effective preferential attachment [16].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Indeed, a preferential involvement of H-FABP in delivering intracellular fatty acids to sites of oxidation has been widely suggested [22].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Preferential routes of long-distance dissemination have been identified, among which the basal lamina of blood vessels and fiber tracts [1,4].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 35,
+      "title": "Assessment of conformational parameters as predictors of limited proteolytic sites in native protein structures"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 14,
+      "title": "Protein sparing during treatment of obesity: ketogenic versus nonketogenic very low calorie diet"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "Genetic dissection of familial autoimmune thyroid diseases using whole genome screening"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 210,
+      "title": "Studies of the immortalizing activity of HTLV type 1 Tax, using an infectious molecular clone and transgenic mice"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "Genotypic and phenotypic heterogeneity of African Americans with primary iron overload"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Primary iron overload in African Americans"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 7,
+      "title": "Iron overload in African Americans"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 16,
+      "title": "Modeling of protein interaction networks"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 22,
+      "title": "New insights into the structure and function of fatty acid binding proteins"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 1,
+      "title": "Local invasion and intraparenchymal metastasis of astrocytomas"
+    }
+  ]
+}

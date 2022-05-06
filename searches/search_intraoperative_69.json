@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "For billing and reimbursement purpose, the rapid intraoperative evaluation of immunostained imprint smears may be coded with existing CPT (Current Procedural Terminology) codes- 88329 for the intraoperative consultation, 88161 for the preparation and processing of the imprint smears, and 88342 for the immunostaining of the imprint smears with interpretation [36].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Intraoperative frozen sections have low predictive value and are particularly not a sensitive test for diagnosing HCC therefore this was not carried out [10].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In a recent study [9], Verchère and colleagues failed to demonstrate a postoperative analgesic effect of intraoperative propacetamol administration, after remifentanil anesthesia for supratentorial craniotomy.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Al Douri et al [8], described 5 patients who underwent open-heart surgery for valvular disease and experienced uncontrollable intraoperative or postoperative bleeding unresponsive to a blood product support protocol.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "However, for a predictable moderate postoperative pain, intraoperative administration of non-opioid analgesics such as paracetamol and postoperative intravenous administration of morphine are recommended in patients undergoing general anesthesia with remifentanil [5].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Previously evaluated approaches such as fluorodeoxyglucose-positron emission tomography [19,20], morphological evaluation of frozen sections [21-24], intraoperative morphological evaluation of imprint cytology [25,26], and immunostaining of frozen sections [27] are not sufficiently sensitive.",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 36,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 10,
+      "title": "Randomized prospective evaluation of frozen-section analysis for follicular neoplasms of the thyroid."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 9,
+      "title": "Postoperative pain management after supratentorial craniotomy"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 8,
+      "title": "Effect of the administration of recombinant activated factor VII (rFVIIa;NovoSeven) in the management of severe uncontrolled bleeding in patients undergoing heart valve replacement surgery"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 5,
+      "title": "Postoperative pain management after intra-operative remifentanil"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 25,
+      "title": "Intraoperative evaluation of sentinel lymph nodes for metastatic melanoma by imprint cytology"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 27,
+      "title": "Rapid immunohistochemistry of sentinel lymph nodes for metastatic melanoma"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 19,
+      "title": "Fluorodeoxyglucose-positron emission tomography and sentinel lymph node biopsy in staging primary cutaneous melanoma"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 20,
+      "title": "Sentinel lymph node excision (SLNE) and positron emission tomography in the staging of stage I-II melanoma patients"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 26,
+      "title": "Role of imprint cytology in the intraoperative evaluation of sentinel lymph nodes for malignant melanoma"
+    }
+  ]
+}

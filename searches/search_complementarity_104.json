@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "In the mouse, two maternally expressed microRNAs have been identified with perfect complementarity to mouse Rtl1 [22].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Complementary medicine is available in approximately 40% of general practice surgeries and general practitioners and physiotherapists are the largest providers of complementary medicine within the NHS [17].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "[18] Here again it is complementary to routine USI.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[11] complementary to the pNQ705 vector was utilized (Table 2).",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "A complementary approach to estimate the seed sensitivity is proposed in [11].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The costs of the \"new\" state responsibilities must be compensated for by savings resulting from gains in efficiency and from complementarity [124,131,132].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Note that this proportion is the complementary false-discovery rate 1-FDR [32].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The database is very complementary to some existing resources, in particular the LGICdb [14,15].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 22,
+      "title": "Imprinted microRNA genes transcribed antisense to a reciprocally imprinted retrotransposon-like gene"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 17,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 18,
+      "title": "Tissue Doppler imaging differentiates transmural from nontransmural acute myocardial infarction after reperfusion therapy."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 11,
+      "title": "Cloning of a metalloprotease gene involved in the virulence mechanism of Vibrio anguillarum"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 11,
+      "title": "Estimating seed sensitivity on homogeneous alignments"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 124,
+      "title": "Improving the quality of private sector delivery of public health services: challenges and strategies"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 132,
+      "title": "Contracting out of clinical services in Zimbabwe"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 131,
+      "title": "Is there a case for privatising reproductive health? Patchy evidence and much wishful thinking"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 32,
+      "title": "Controlling the false discovery rate: a practical and powerful approach to multiple testing."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 14,
+      "title": "LGICdb:  The ligand-gated ion channel database"
+    }
+  ]
+}

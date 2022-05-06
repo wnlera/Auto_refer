@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Most RNA amplification methods are based on the T7-based antisense RNA amplification technique first described by Van Gelder and Eberwine in 1990 [7].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "There are several methods for amplifying RNA including the arithmetic transcription methods [7,8], PCR based exponential amplification, or a combination of both arithmetic and exponential amplification [9].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The template used for the amplification was pTUNGΔ84 [13].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "There is room for tuning selective PCR amplification [8].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "PCR drift (i. e. bias in template-to-product ratios produced by random events occurred in the early cycles of the reaction) and PCR selection (i. e. differential amplification of specific sequences caused by differential annealing of oligonucleotide primers) are two processes that can lead to bias in template-to-product ratio of PCR amplifications [3,22].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "[21] Initial reports of the results of TC amplification show promise for linear amplification of high-quality RNA, but extensive validations of this method have yet to be conducted.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "RNA amplification was performed using a modified Eberwine protocol [64].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "Amplified RNA synthesized from limited quantities of heterogeneous cDNA"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 7,
+      "title": "Amplified RNA synthesized from limited quantities of heterogeneous cDNA"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 8,
+      "title": "Analysis of gene expression in single live neurons"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 9,
+      "title": "RNA amplification results in reproducible microarray data with slight ratio bias"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 13,
+      "title": "Properties of a recombinant human uracil-DNA glycosylase from the UNG gene and evidence that UNG encodes the major uracil-DNA glycosylase"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 8,
+      "title": "Identification of Phoenix dactylifera L. varieties based on amplified fragment length polymorphism (AFLP) markers"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 22,
+      "title": "Bias in template-to-product ratios in multitemplate PCR"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 3,
+      "title": "Surveys of gene families using polymerase chain reaction: PCR selection and PCR drift"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 21,
+      "title": "Amplification of RNA transcripts using terminal continuation"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 64,
+      "title": "Amplification of mRNA populations using aRNA generated from immobilized oligo(dT)-T7 primed cDNA"
+    }
+  ]
+}

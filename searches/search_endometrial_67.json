@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Our results suggest that ubiquitin is important for endometrial function throughout the menstrual cycle where it may play an important role in the regeneration of the endometrium [5].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "These relative proportions of both major histological subtypes are in accordance with the well-known distribution of similar subtypes of endometrial carcinoma in non-polypoid endometrium [12] and thus demonstrates that neither histologic subtype is more likely than the other to develop in a polyp as compared to the adjacent endometrium.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "To our knowledge, the hypothesis that ubiquitin may mediate anti-apoptosis within the endometrium has never been examined and consequently has not been investigated in the area of ectopic endometrial cell survival in endometriosis [5].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "It has been observed that in some of PCOS women, the endometrium is thicker than that of normal cycling women [3] and a higher prevalence of endometrial hyperplasia and adenocarcinoma have also been described in these women [4-6].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Measurement of both endometrial layers of ≤ 5 mm coincides with endometrial pathology in only 2.5% [34].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Nevertheless, in those studies it was difficult to establish the exact contribution of androgens as a regulatory steroid of endometria of PCOS women, since multiple factors could be affecting their endometrial function, including hyperinsulinemia and the possible contribution of the unopposed effect of estrogens [10,11].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Endometrial polyps were identified in 12–34% of uteri containing endometrial carcinoma in two earlier studies [2,3].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "These age distributions are in accordance with the general concept of Type I and Type II endometrial carcinogenesis [13] and provide some evidence suggesting that carcinomas developing in EMPs do not necessarily have clinicopathologic differences from carcinoma arising in the background endometrium.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "The possible biological and reproductive functions of ubiquitin"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 12,
+      "title": "World Health Organization International Histologic Classification of Tumors."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 5,
+      "title": "The possible biological and reproductive functions of ubiquitin"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 3,
+      "title": "Prevalence of polycystic ovaries in women with anovulation and idiopathic hirsutism"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 34,
+      "title": "Ultrasonographic endometrial thickness for diagnosing endometrial pathology in women with postmenopausal bleeding: a meta-analysis"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "Polycystic ovary syndrome (PCOS): arguably the most common endocrinopathy is associated with significant morbidity in women"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 10,
+      "title": "Polycystic ovary syndrome: the new millenium"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 3,
+      "title": "The incidence and significance of early carcinomas in endometrial polyps"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Endometrial polyps"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 13,
+      "title": "Theories of endometrial carcinogenesis: a multidisciplinary approach"
+    }
+  ]
+}

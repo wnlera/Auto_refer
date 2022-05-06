@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "BS inhibits protein synthesis in both prokaryotes and eukaryotes [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Orthologs of ModE are widespread among prokaryotes, but not ubiquitous [39].",
+      "b_link": [
+        "B_2",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "By killing prokaryotes, phages can strongly impact microbial community biomass [3] and structure [4].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Among prokaryotes, a remarkable number of cellular functions are controlled by two component regulatory systems [1].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "HinT is found in prokaryotes and eukaryotes and in the latter is known to function as an adenosine nucleotidyl-hydrolase [27].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Nutritional requirements and their genetic and biochemical basis are thought to have evolved principally in prokaryotes, over billions of years [11].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "These properties mimic the pathogenicity islands of prokaryotic genomes [23].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Prediction of TIS is not satisfactorily solved for prokaryotic genes [10].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "Blasticidin S, a new antibiotic"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 39,
+      "title": "A DNA element recognised by the molybdenum-responsive transcription factor ModE is conserved in Proteobacteria, green sulphur bacteria and Archaea."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 3,
+      "title": "Bacterial viruses in coastal seawater: lytic rather than lysogenic production"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 4,
+      "title": "Elements of a theory for the mechanisms controlling abundance, diversity, and biogeochemical role of lytic bacterial viruses in aquatic systems"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Two-components and phosphorelay signal-transduction systems as therapeutic targets"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 27,
+      "title": "Adenosine monophosphoramidase activity of Hint and Hnt1 supports function of Kin28, Ccl1, and Tfb3"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 11,
+      "title": "The phylogenetic extent of metabolic enzymes and pathways."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 23,
+      "title": "Pathogenicity islands and the evolution of microbes"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 10,
+      "title": "Accuracy improvement for identifying translation initiation sites in microbial genomes"
+    }
+  ]
+}

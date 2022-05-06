@@ -1,0 +1,72 @@
+{
+  "main_text": [
+    {
+      "sentence": "Ketorolac administered as conjunctival topical diminishes prostaglandin E2 concentration in aqueous humor, without modifying the intraocular pressure [24].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Still other routes, such as oral administration and conjunctival instillation [19], have shown a lower efficiency of transmission.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The van Bijsterveld score [47] (VB) was assessed using lissamine green staining of the cornea (0–3) and conjunctiva (0–3).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Other, trachoma serovars primarily infect the conjunctiva (e.g., A, B, and C), causing trachoma, the major form of preventable blindness, worldwide [14].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Loose areolar layer (subaponeurotic layer or subgaleal fascia) has highly vascularized histological structures and this feature may allow growing of the bulbar conjunctiva very easily [4].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The corneal, temporal, and nasal regions of the conjunctiva were scored individually from 0–5 (for fluorescein) and 0–5 (for lissamine green) using the Oxford grading scheme [46].",
+      "b_link": [
+        "B_6"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 24,
+      "title": "Clinical Pharmacology 2000"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 19,
+      "title": "Conjunctival instillation of scrapie in mice can produce disease"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 47,
+      "title": "Diagnostic tests in the sicca syndrome"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 14,
+      "title": "A global initiative for the elimination of avoidable blindness"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 4,
+      "title": "Anatomy of the temporalis fascia"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 46,
+      "title": "The Doyne Lecture. Reflections on the tears"
+    }
+  ]
+}

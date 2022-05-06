@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Using radiolabeled agonist, we have shown that saturable nicotine binding sites exist in the lung [6].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Collateral perfusion detected by MCE paralleled changes detected by radiolabeled microspheres during thrombosis and vasodilator administration in a canine model [26].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "After electrophoresis, Southern blotting was performed; DNA was transferred to nitrocellulose followed by hybridization with radiolabeled cloned viral DNA as described [32].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "LDL- and HDL-lipoprotein fractions were isolated from human plasma [36] and the HDL-fraction was radiolabeled, using 14C-cholesterol oleate [35].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "HP16 co-transformants were radiolabeled with 150 μCi of 35S-Translabel (ICN Inc.) in Vpr-inducible medium and lysed in CHAPS buffer as previously described [38].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "RIT remains attractive for solid tumors where the antibody penetration is limited and where the cross-fire phenomenon could lead to the destruction of cells which were not targeted by the radiolabeled MAb [13].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Although targeting of solid tumors with radiolabeled antibodies was first reported years ago [4,5], RIT success in such tumors has been limited to patients with stable disease, occasional mixed responses, and serological responses [6-8].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The plasma used for CETP activity assay in high fat fish-oil fed hamsters contained very high levels of chylomicrons, VLDL and LDL, which are potential acceptors of cholesterol esters from radiolabeled exogenous HDL [21].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 6,
+      "title": "Sex-specific expression of gastrin-releasing peptide receptor: relationship to smoking history and risk of lung cancer"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 26,
+      "title": "Coronary collaterals assessed with myocardial contrast echocardiography in healed myocardial infarction"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 32,
+      "title": "In vitro antiviral drug sensitivity of the Kaposi's Sarcoma-Associated Herpesvirus"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 36,
+      "title": "Development of a density gradient ultra centrifugation technique for the regulation of plasma lipoproteins, which avoids apoE dissociation"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 35,
+      "title": "Accelerated transfer of cholesteryl ester in dyslipidemic plasma. Role of cholesteryl ester transfer protein"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 38,
+      "title": "Genetic selection of inhibitory peptides against Human Immunodeficiency Virus Type 1 Vpr"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 13,
+      "title": "Radionuclide therapy"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 5,
+      "title": "Use of radiolabeled antibodies to carcinoembryonic antigen for the detection and localization of diverse cancers by external photoscanning"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 4,
+      "title": "Tumor     localization    of    radiolabeled    antibodies    against carcinoembryonic  antigen  in  patients  with  carcinoma:  a critical evaluation"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 21,
+      "title": "Streptozotocin-induced increase in cholesterol ester transfer protein (CETP) and its reversal by insulin in transgenic mice expressing human CETP"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "These hypercoagulable abnormalities return towards normal with therapy in direct correlation with sedimentation rate and clinical disease activity [12], but can still show mild abnormalities despite clinical remission[14].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "[27] Both definitions of BPD predict long term respiratory abnormalities.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[124] also demonstrated small vessel abnormalities in the depressed elderly.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Proponents of neurodevelopmental models suggest that the premorbid cognitive abnormalities are developmental risk factors for future schizophrenia (c.f [23]) and argue that such abnormalities show little evidence of decline after onset [6,24].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[23,26,28]] and/or being just below threshold for producing noticeable motoric abnormalities.",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 12,
+      "title": "Hemostatic alterations in inflammatory bowel disease: response to therapy"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 14,
+      "title": "Persistent activation of coagulation and fibrinolysis after treatment of active ulcerative colitis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 27,
+      "title": "Abnormal pulmonary outcomes in premature infants: prediction from oxygen requirement in the neonatal period"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 124,
+      "title": "Ischemic basis for deep white matter hyperintensities in major depression"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 23,
+      "title": "Association between premorbid intellectual performance, early life exposures and early-onset schizophrenia"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 24,
+      "title": "Six-year follow-up study of cognitive and functional status across the lifespan in schizophrenia: a comparison with Alzheimer's disease and normal aging"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "Neurotoxicity, neuroplasticity, and magnetic resonance imaging morphometry: what is happening in the schizophrenic brain?"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 23,
+      "title": "N-Methyl-D-aspartate receptors and p38 mitogen-activated protein kinase are required for cAMP-dependent cyclase response element binding protein and Elk-1 phosphorylation in the striatum"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 28,
+      "title": "Metabotropic glutamate receptors in the hippocampus and nucleus accumbens are involved in generating seizure-induced hippocampal gamma waves and behavioral hyperactivity"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 26,
+      "title": "Non-NMDA receptor antagonist-induced drinking in rat"
+    }
+  ]
+}

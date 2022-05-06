@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Husted and colleagues reviewed the literature and defined two major types of responsiveness: internal and external responsiveness [34].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The psychometric properties concerning validity, reliability, and responsiveness to change are reported elsewhere [19,24].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "([35]), show that the presence of eosinophils did not always coincide with an increase in responsiveness to MCh.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The MID between two measurements is a concept closely related to responsiveness when assessing change over time [36].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The Roland Questionnaire for Sciatica has a documented high level of internal consistency; construct validity, and responsiveness [38,39].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Parent et al [14] compared the responsiveness of 3 locomotor tests and 2 questionnaires using 4 different responsiveness statistics and recommended the 6MWT and the Physical Function subscale of the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) for assessment in the early recovery period after TKA.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "It has been suggested that collagen induces a quiescent state by decreasing the responsiveness to different growth factors [26,27].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 34,
+      "title": "Methods for assessing responsiveness: a critical review and recommendations"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 19,
+      "title": "Quality of Life in Reflux and Dyspepsia patients. Psychometric documentation of a new disease-specific questionnaire (QOLRAD)"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 24,
+      "title": "Quality of life in patients with endoscopy-negative heartburn: reliability and sensitivity of disease-specific instruments"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 35,
+      "title": "Role of IgE in the development of allergic airway inflammation and airway hyperresponsiveness"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 36,
+      "title": "Half standard deviation estimate of the minimally important difference in HRQOL scores?"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 38,
+      "title": "International quality of life assesment (IQOLA) project"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 39,
+      "title": "Assessing the validity of the SF-36 General Health Survey"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Comparative responsiveness of locomotor tests and questionnaires used to follow early recovery after total knee arthroplasty"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 26,
+      "title": "Influence of the extracellular matrix on the proliferative response of human skin fibroblasts to serum and purified platelet-derived growth factor"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 27,
+      "title": "Decreased level of PDGF-stimulated receptor autophosphorylation by fibroblasts in mechanically relaxed collagen matrices"
+    }
+  ]
+}

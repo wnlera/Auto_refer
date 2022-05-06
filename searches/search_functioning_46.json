@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "[19] reported synergistic relationships between depression and co-existing arthritis on physical functioning and between depression and co-existing diabetes on role functioning.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "PODCI outperformed CHQ physical functioning scale for orthopedic patients [87].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The PedsQL [77] assesses physical, emotional, social and school functioning.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Conversely, a well-functioning thalamocortical system is essential for consciousness [15].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "This type of analysis is called Differential Item Functioning (DIF) [26].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Once formed, efficacy beliefs contribute to the quality of human functioning [11].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "pan is a transcription factor functioning in the Wingless (Wg) pathway [39,40].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "They are evolutionarily conserved, functioning similarly in animals from worms to humans [1,2].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "Depression and health-related quality of life"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 87,
+      "title": "Capturing quality of life in pediatric orthopaedics: two recent measures compared"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 77,
+      "title": "The PedsQL™ Measurement Model for the Pediatric Quality of Life Inventory™"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Coma and related global disturbances of the human conscious state"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 26,
+      "title": "Perspectives on Differential Item Functioning Methodology"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 39,
+      "title": "pangolin encodes a Lef-1 homologue that acts downstream of Armadillo to transduce the Wingless signal in Drosophila"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 40,
+      "title": "Armadillo coactivates transcription driven by the product of the Drosophila segment polarity gene dTCF"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Notch Signaling: From the Outside"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 1,
+      "title": "Notch signaling: Cell fate control and signal integration in development"
+    }
+  ]
+}

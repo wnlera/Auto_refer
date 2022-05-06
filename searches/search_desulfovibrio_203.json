@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "The Desulfovibrio species appear to have the single-component methionine transporter metT [28].",
+      "b_link": [
+        "B_1",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Although we did not identify conserved regulatory elements for some known oxidative stress genes such as the Rbo/Rub/Roo operon in Desulfovibrio species, it has been observed that the Rub/Roo operon of Desulfovibrio gigas shows strong constituitive expression from a previously identified σ70 promoter, indicating that additional factors may not be involved [55].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Although the enzymatic pathway of cysteine synthesis has been studied in Desulfovibrio vulgaris [53], its ability to synthesize methionine has not been characterized.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Within this group, sulfate-reducing bacteria, including Desulfovibrio and Desulfotalea species, are metabolically and ecologically versatile prokaryotes often characterized by their ability to reduce sulfate to sulfide [2].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The absence of the dissimilatory sulfite reductase DsrAB in the predicted HcpR regulon of Desulfovibrio could be explained by its experimentally defined ability to reduce both sulfite and nitrite [52].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The finished genomes include sulfate-reducing Desulfovibrio vulgaris [16], D. desulfuricans G20, and Desulfotalea psychrophila, as well as the sulfur-reducing G. sulfurreducens [17], while the G. metallireducens genome has been completed to draft quality.",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The bacteria chosen were all those represented in the KEGG ribosomal genes ortholog table [67], except Rickettsia prowazekii, Rickettsia conorii, Wigglesworthia brevipalpis, and Buchnera aphidicola, and with the addition of Bacteroides thetaiotaomicron and and Desulfovibrio vulgaris.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In addition to these enzymes, Desulfovibrio species have an alternative mechanism for protecting against oxidative stress, which includes rubredoxin oxidoreductase (Rbo), which has superoxide reductase activity, rubrerythrin (Rbr) with NADH peroxidase activity, and rubredoxin-like proteins (Rub, Rdl), which are used as common intermediary electron donors [42].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 28,
+      "title": "Comparative genomics of the methionine metabolism in Gram-positive bacteria: a variety of regulatory systems."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 55,
+      "title": "Analysis of the Desulfovibrio gigas transcriptional unit containing rubredoxin (rd) and rubredoxin-oxygen oxidoreductase (roo) genes and upstream ORFs."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 53,
+      "title": "Cysteine synthesis by Desulfovibrio vulgaris extracts."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 2,
+      "title": "Dissimilatory sulfate- and sulfur-reducing prokaryotes."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 52,
+      "title": "Desulfoviridin, a multimeric-dissimilatory sulfite reductase from Desulfovibrio vulgaris (Hildenborough). Purification, characterization, kinetics and EPR studies."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 17,
+      "title": "Genome of Geobacter sulfurreducens: metal reduction in subsurface environments."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "The genome sequence of the anaerobic, sulfate-reducing bacterium Desulfovibrio vulgaris Hildenborough."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 67,
+      "title": "Ribosomal Protein Gene Clusters"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 42,
+      "title": "Rubrerythrin and rubredoxin oxidoreductase in Desulfovibrio vulgaris: a novel oxidative stress protection system."
+    }
+  ]
+}

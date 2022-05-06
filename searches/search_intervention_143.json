@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Interventions to decrease sedentarism through primary health care [11] and in workplace settings [30] have had positive results, however all interventions may not affect change, such as was found with a population-wide print-media intervention [31].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The SMG intervention, which consists of seven weekly 90-minute group sessions, includes the major components of empirically-supported self-management interventions [23,24], refined for use with the elderly (see Table 1).",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Other types of health interventions, such as reproductive health care, require more research on the link between the intervention and the health outcome before performance indicators can be used as a proxy for health outcomes [24].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "[10], patients of the interval exercise group had a mixed intervention (3 days of interval and 2 days of continuous exercise per week) so that differences can hardly be attributed to different interventions if they are detected at all.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The intervention investigated in the studies will be elective cerclage by whichever method (Shirodkar technique, McDonald technique, transabdominal and transvaginal methods), versus no cerclage or bed rest as interventions to prevent miscarriage or pre-term labour as defined in the original Cochrane review (Drakeley 2003)[1].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Experimental trials often determine intervention effects without considering how the component features of an intervention work together to bring about study outcomes [13,15,21].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 11,
+      "title": "Effects of a lifestyle physical activity intervention on stages of change and energy expenditure in sedentary employees"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 31,
+      "title": "Reaching out to promote physical activity in Australia: A state wide randomised controlled trial of a stage targeted intervention"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 30,
+      "title": "Psychosocial predictors of changes in physical activity in overweight sedentary adults following counselling in primary care"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 24,
+      "title": "A comparison of coping strategies in chronic pain patients in different age groups"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 23,
+      "title": "Arthritis patient education standards: a model for the future"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 24,
+      "title": "Developing Public Health Indicators in Complex Emergency Response"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 10,
+      "title": "Interval versus continuous training in patients with severe COPD: a randomized clinical trial"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 1,
+      "title": "Cervical stitch (cerclage) for preventing pregnancy loss in women (Cochrane Review)"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 13,
+      "title": "Theory as method: Small theories of treatments"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 21,
+      "title": "Advancing the development and application of theory-based evaluation in the practice of public health"
+    }
+  ]
+}
