@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "The intactness of the mitochondrial membranes was checked by assaying mitochondrial specific enzyme glutamate dehydrogenase in mitochondria, mitochondria treated with Triton X-100 and in cytosol (S-100) as described previously [54].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Finally, because subunit c is a mitochondrial protein and its turnover proceeds through autophagic engulfment of mitochondria [13], we analyzed homozygous CbCln3Δex7/8 cell mitochondrial morphology and function.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Given that MCF7 cells treated with the o-quinone form of estrogen and NADPH produce significant amounts of H2O2 in the mitochondrial subfraction [99]; and that mitochondrial enzymes catalyze redox reactons of stilbene estrogen in the mitochondria [100], the capacity of catechol estrogens to redox cycle within mitochondria suggests that these metabolites could facilitate mitochondrial ROS formation.",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The presence of protein kinases within the mitochondria together with evidence for estrogen-induced phosphorylation of mitochondrial proteins suggest that estrogen may regulate mitochondrial respiratory physiology at the post-translational level [33].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "These mitochondrial proteins may play indirect roles in late-Golgi trafficking; for example, the secretory apparatus and mitochondria exchange lipids [45], and a defect in mitochondrial function may impact on secretory function.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Mitochondria are important regulators of cell death and loss of mitochondrial permeability transition is an important indication for apoptosis [31].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Pro-apoptotic factors result at mitochondria in the dissipation of the mitochondrial membrane potential and release of cytochrome c. After infection of HASMC with Cpn-K6 or Cpn-VR1310 cells were loaded with TMRE (tetramethylrhodamineethylester) [27], a dye, that is only taken up into mitochondria with an intact mitochondrial potential [28].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Since mitochondria consume 85% of the oxygen used by the cell, the mitochondrial ETC generates a substantial amount of intracellular ROS [67].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 54,
+      "title": "Cytochrome c is released from mitochondria in a reactive oxygen species (ROS)-dependent fashion and can operate as a ROS scavenger and as a respiratory substrate in cerebellar neurons undergoing excitotoxic death"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 13,
+      "title": "What are the requirements for lysosomal degradation of subunit c of mitochondrial ATPase?"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 100,
+      "title": "Mitochondrial enzyme-catalyzed oxidation and reduction reactions of stilbene estrogen"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 99,
+      "title": "An o-quinone form of estrogen produces free radicals in human breast cancer cells: correlation with DNA damage"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 33,
+      "title": "Evidence of undiscovered cell regulatory mechanisms: phosphoproteins and protein kinases in mitochondria"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 45,
+      "title": "Biochemistry and genetics of interorganelle aminoglycerophospholipid transport"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 31,
+      "title": "Mitochondrial control of apoptosis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 27,
+      "title": "Membrane potential can be determined in individual cells from the nernstian distribution of cationic dyes"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 28,
+      "title": "Mitochondria and apoptosis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 67,
+      "title": "Oxidative damage and mitochondrial decay in aging"
+    }
+  ]
+}

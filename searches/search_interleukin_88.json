@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "interleukin-1 and/or interleukin-6 stimulating the synthesis of collagenase, while some immunomodulatory cytokines remain unaltered [112,113].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "parathyroid hormone (PTH) and interleukin (IL)-1 [8].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Following injury, the inflammatory cytokines, such as tumor necrosis factor (TNF), interleukin-1 (IL-1) and interleukin-6 (IL-6) are also released, which act only locally [39].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "This is also emphasized by the high expression of interleukin-21 receptor which is usually expressed by natural killer cells and stimulates their cytolytic activity upon ligation with interleukin-21 produced by activated T cells [34,35].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The presence of interleukin-2α (IL-2α) [129], interleukin-2β (IL-2β) [129], insulin like growth factor-1 (IGF-1) [62,63] and c-met (hepatocyte growth factor receptor) [60] receptors on human sperm surface has also been documented.",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 113,
+      "title": "Whole-body UVB (TL-01) or UVA-1 irradiation does not alter the levels of immunomodulatory cytokines in the serum of human volunteers"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 112,
+      "title": "UVA-induced autocrine stimulation of fibroblast-derived collagenase/MMP-1 by interrelated loops of interleukin-1 and interleukin-6"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 8,
+      "title": "Regulation of Plasminogen Activator Production by Bone-Resorbing Hormones in Normal and Malignant Osteoblasts"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 39,
+      "title": "Enteral nutrition and mucosal immunity: implications for feeding strategies in surgery and trauma"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 35,
+      "title": "Interleukin-21 and the IL-21 receptor: novel effectors of NK and T cell responses"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 34,
+      "title": "IL-21 and IL-21 receptor: a new cytokine pathway modulates innate and adaptive immunity"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 63,
+      "title": "Identification of insulin-like growth factor I in bovine seminal plasma and its receptor on spermatozoa: influence on sperm motility"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 60,
+      "title": "Presence and tyrosine phosphorylation of c-met receptor in human sperm"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 129,
+      "title": "Expression of IL-2alpha and IL-2beta receptors on the membrane surface of human sperm"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 62,
+      "title": "Identification of insulin-like growth factor (IGF)-1 receptor in human sperm cell"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "main_text": [
+    {
+      "sentence": "Estrogen biosynthesis-related enzymes, 3 β-hydroxysteroid dehydrogenase and aromatase, have been demonstrated in the mitochondria of ovarian tumor epithelial cells [9].",
+      "b_link": [
+        "B_1",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The enzyme 11-β hydroxysteroid dehydrogenase type 1 (11-β HSD1) converts inactive cortisone to the active compound cortisol, and, if overexpressed, may cause increases in local cortisol concentrations [101].",
+      "b_link": [
+        "B_2",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Two isozymes of 11β-hydroxysteroid dehydrogenase (11β-HSD) are responsible for the tissue-specific interconversion of cortisone and cortisol at the endoplasmic reticulum: type 1 and 2 (11β-HSD1 and 11β-HSD2) [20].",
+      "b_link": [
+        "B_3",
+        "B_9",
+        "B_10"
+      ]
+    },
+    {
+      "sentence": "This subfamily also includes the human 17 β-hydroxysteroid dehydrogenase (17 β HSD) type 4, one of four different human 17 β HSDs that catalyze the redox reactions at position C17 of steroid molecules, one of the final steps in androgen and estrogen biosynthesis [24,25].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 9,
+      "title": "Study on the estrogen production in parenchymatous cells of epithelial ovarian tumor"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 101,
+      "title": "11Beta-hydroxysteroid dehydrogenase type 1 in differentiating omental human preadipocytes: from de-activation to generation of cortisol"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 20,
+      "title": "11β-hydroxysteroid dehydrogenase: unexpected connections"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 24,
+      "title": "Structure and function of 3 alpha-hydroxysteroid dehydrogenase"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 25,
+      "title": "Structure of the gene for the human 17beta-hydroxysteroid dehydrogenase type IV"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

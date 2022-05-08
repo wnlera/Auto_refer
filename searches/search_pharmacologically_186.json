@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "A number of women prefer to avoid pharmacological analgesia if possible [20].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "ZD7114 pharmacological specificity was also demonstrated in brown adipocytes and smooth muscles [25,26].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Methylphenidate (MPH) remains a pharmacological treatment of first choice for children with ADHD [3].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Hence calcium antagonist drugs seem to have very few pharmacologically relevant actions on skeletal muscle as observed also by Walsh et al [21].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Prostanoid profiles differ with cell type and individual AA metabolites have different pharmacological properties [15].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Recently, a new receptor activated by the PAR-2 activating peptide tc-LIGRLO-NH2 has been identified pharmacologically in murine vascular smooth muscle [39].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Moreover, even after the factors have bound, inactivation of any of the three transcription factors pharmacologically extinguishes the binding of all three factors, thereby aborting transcription[64].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "More recently, it has been shown that it is possible to induce anergy pharmacologically by stimulating calcium flux using calcium ionophores without activating the TCR or CD28[66,73,74].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 20,
+      "title": "Non-pharmalogical methods of pain relief during labour"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 26,
+      "title": "Pharmacological study of atypical beta-adrenoceptors in rat esophageal smooth muscle"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 25,
+      "title": "Evaluation of ICI D a putative stimulant of brown adipocytes, on histamine-contracted guinea-pig ileum"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 3,
+      "title": "Clinical practice guideline: Treatment of the school-aged child with Attention-Defecit/Hyperactivity Disorder"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "Effect of calcium antagonist drugs on calcium currents in mammalian skeletal muscle fibers"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 15,
+      "title": "The eicosanoids and their biochemical mechanisms of action"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 39,
+      "title": "Proteinase-activated receptor-2 (PAR2): vascular effects of a PAR2-derived activating peptide via a receptor different than PAR2"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 64,
+      "title": "Interleukin 2 transcription factors as molecular targets of cAMP inhibition: delayed inhibition kinetics and combinatorial transcription roles"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 73,
+      "title": "Transcriptional mechanisms underlying lymphocyte tolerance"
+    }
+  ]
+}

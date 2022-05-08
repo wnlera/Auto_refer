@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "In both humans and rodents, heart is among the tissues showing the greatest abundance of CAR transcript while its transcripts are barely detectable in skeletal muscle even with the more sensitive reverse-transcriptase (RT)-PCR-based assay [21].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "When several transcripts identify a same tag, these transcripts are compared with each other using Blastclust [15] to determine whether they correspond to redundant sequences of the same transcript or to different transcripts.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Tat stimulates formation of full-length transcripts from the HIV-1 promoter by promoting efficient transcript elongation (reviewed in [4]).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "First, we compare each species A transcript with a databank containing species B transcripts, using the TBLASTX algorithm [10] (Figure 3A, TBLASTX(1)).",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Real-time reverse transcriptase polymerase chain reaction, incorporating internal controls to quantify \"housekeeping\" gene transcript levels, can also be used [33].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "What initiates alternative splicing of the α subunit transcript is incompletely understood, however there is evidence that expression of different alternatively spliced transcripts can be hormonally induced [20,21].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Changes in transcriptional activity were observed for nearly all transcripts studied [27] but did not result in a qualitative change in the transcript population during desiccation or rehydration.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Because we never detected TPI activity with radial diffusion assay in A genotype [34], nor have we detected TPI mRNA transcript with either northern blot analysis or reverse transcriptase-PCR, we suggest that this transcript is rapidly silenced [33].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 21,
+      "title": "Expression of the primary coxsackie and adenovirus receptor is downregulated during skeletal muscle maturation and limits the efficacy of adenovirus-mediated gene delivery to muscle cells"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 15,
+      "title": "Blastclust"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Tackling Tat"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 33,
+      "title": "Quantitative real-time PCR: a powerful ally in cancer research"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 20,
+      "title": "Control of alternative splicing of potassium channels by stress hormones"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "17β-Estradiol upregulates distinct maxi-K channel transcripts in mouse uterus"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 27,
+      "title": "Accumulation and polysomal recruitment of transcripts in response to desiccation and rehydration of the moss Tortula ruralis"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 34,
+      "title": "Ontogeny constrains systemic protease inhibitor response in Nicotiana attenuata"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 33,
+      "title": "Manipulation of endogenous trypsin proteinase inhibitor production in Nicotiana attenuata demonstrates their function as anti-herbivore defenses"
+    }
+  ]
+}

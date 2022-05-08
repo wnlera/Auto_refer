@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Most were stable on maintenance corticosteroids [8].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "It is involved in the maintenance of lymphocyte homeostasis [31].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Maintenance and handling of C. elegans strains were as previously described [61].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Two community studies that examined the maintenance and adoption of exercise showed that maintenance of vigorous activity over one year was associated with attitudes toward exercise, exercise knowledge, female gender, and self-efficacy [8].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The rate maintenance phenomenon occurs over a wide range of shift-ups [19].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Thus, the X chromosome is likely to contain genes involved in ovarian maintenance [19].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Progesterone, essential for the maintenance of pregnancy, and glucocorticoids have anti-inflammatory properties [5].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "NGF also promotes the development and maintenance of hyperalgesia following chronic constriction injury [18,19].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Diet and exercise have limited effectiveness on long-term maintenance of weight loss [15].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 8,
+      "title": "Management and control of asthma as assessed by actual/best function and corticosteroid usage between 1980 and 1993/4"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 31,
+      "title": "Signaling from the IL-2 receptor to the nucleus"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 61,
+      "title": "The genetics of Caenorhabditis elegans"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 8,
+      "title": "Predictors of adoption and maintenance of physical activity in a community sample"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 19,
+      "title": "Cell division and DNA replication following a shift to a richer medium"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 19,
+      "title": "Ovarian differentiation and gonadal failure"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 5,
+      "title": "Molecular control of immune/inflammatory responses: Interactions between nuclear factor-κB and steroid receptor signaling pathways"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 18,
+      "title": "NGF involvement in pain induced by chronic constriction injury of the rat sciatic nerve"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 19,
+      "title": "Effect of NGF and anti-NGF on neuropathic pain in rats following chronic constriction injury of the sciatic nerve"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 15,
+      "title": "Lifestyle intervention in overweight individuals with a family history of diabetes"
+    }
+  ]
+}

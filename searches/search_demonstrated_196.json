@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "T-test analysis [12,14] between the human and rat cell lines identified 30 prostate expressed genes (2%) which demonstrated significant differential expression between species (p < 0.01 with Bonferroni correction, while 1,289 genes (98%) failed to demonstrate a significant difference in expression across species.",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Using murine bifunctional T cells created by retroviral transfer of a chimeric immunoglobulin receptor specific for an ovarian cancer-associated tumor antigen to alloreactive T cells, Kershaw and colleagues were able to demonstrate in vivo expansion in response to alloimmunization and demonstrated anti-tumor activity [20].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Porter demonstrated that intermittent high power imaging demonstrated significantly better myocardial opacification than continuous imaging, with the best opacification obtained using intermittent harmonic imaging [6].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "No antibodies have been demonstrated against elastic fibres [37].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "demonstrated somatotopy in 3 out of 5 subjects [3].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "We have previously demonstrated that PM10 generates ROS [43].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In contrast, results from some rat studies have demonstrated modest increases in CS activity of approximately 20% [37-39], with the largest increases demonstrated in type IIb fibers [40].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The same result was demonstrated amongst dentists in Switzerland [11].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "[124] also demonstrated small vessel abnormalities in the depressed elderly.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 14,
+      "title": "A comparative review of statistical methods for discovering differentially expressed genes in replicated microarray experiments"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 12,
+      "title": "Open source software for the analysis of microarray data"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 20,
+      "title": "Cancer regression and autoimmunity in patients after clonal repopulation antitumor lymphocytes"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 6,
+      "title": "Improved myocardial contrast with second harmonic transient ultrasound response imaging in humans using intravenous perfluorocarbon-exposed sonicated dextrose albumin"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 37,
+      "title": "Anetoderma in leprosy"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 3,
+      "title": "The sensory somatotopic map of the human hand demonstrated at 4 Tesla"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 43,
+      "title": "Adverse health effects of PM(10) particles: Involvement of iron in generation of hydroxyl radicals"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 40,
+      "title": "Metabolic response to a high-fat diet in neonatal and adult rat muscle"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 11,
+      "title": "The status of root canal therapy in Switzerland in 1993"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 124,
+      "title": "Ischemic basis for deep white matter hyperintensities in major depression"
+    }
+  ]
+}

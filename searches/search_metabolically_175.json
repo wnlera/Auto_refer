@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Nevertheless, senescent cells are still viable and metabolically active [29].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "They designated such individuals as \"metabolically obese normal weight – MONW [189,190].\"",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Within this group, sulfate-reducing bacteria, including Desulfovibrio and Desulfotalea species, are metabolically and ecologically versatile prokaryotes often characterized by their ability to reduce sulfate to sulfide [2].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The CVATT has tremendous individual variation; thus a relatively \"thin\" individual (with a normal BMI) and an excess of VAT for him, may be metabolically obese, normal weight (MONW) [26].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "PPARα is expressed in numerous metabolically active tissues including liver, kidney, heart, skeletal muscle, brown fat [41-43], and also in monocytes [44], vascular endothelium [45] and vascular smooth muscle cells [46].",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 29,
+      "title": "Telomeres, stem cells, senescence, and cancer"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 189,
+      "title": "The \"metabolically-obese,\" normal-weight individual"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 190,
+      "title": "Obesity-associated disorders in normal-weight individuals: some speculations"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 2,
+      "title": "Dissimilatory sulfate- and sulfur-reducing prokaryotes."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 26,
+      "title": "The metabolically obese, normal-weight individual revisited"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 44,
+      "title": "Activation of proliferator-activated receptors α and γ induces apoptosis of human monocyte-derived macrophages"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 46,
+      "title": "Activation of human aortic smooth-muscle cells is inhibited by PPARα but not PPARγ activators"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 45,
+      "title": "Expression of peroxisome proliferator-activated receptor α in primary cultures of human vascular endothelial cells"
+    }
+  ]
+}

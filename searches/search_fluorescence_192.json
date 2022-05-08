@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Fluorescence ratios were normalized for each array by applying a single scaling factor to all fluorescent ratios from the array [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Wide-field microscopic examination of organs from adult animals revealed widespread fluorescence as has been reported for animals expressing native fluorescent proteins under the regulation of the CAG promoter [20,22,27].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Genotypes were assigned based on scatter plots with the logarithm of the sum of both fluorescence signals (SignalAllele1+SignalAllele2) plotted on the y-axis, and the fluorescence signal fraction, obtained by dividing the fluorescence signals from one allele by the sum of the fluorescence signal from both SNP alleles (SignalAllele2/ (SignalAllele1+SignalAllele2), on the x-axis [11].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Furthermore, fluorescence associated with single cells can be analyzed using fluorescence-activated cell sorting (FACS), a technology easily adapted to high-throughput screening [13].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Fluorescence of the indicator is quenched upon binding [17].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "With use of fluorescence scanning it is possible to distinguish the hybrids with control sequences (exhibiting, e.g., green fluorescence) from the hybrids with test sequences (e. g., red) [45].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Fluorescence in situ hybridization was performed as described elsewhere [6].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Primer extension methods based on direct measurement of fluorescent signals, including the microarray-based methods evaluated here, are likely to provide better accuracy and sensitivity for allele quantification than homogeneous primer extension based on fluorescence polarisation [31,32], in which the allele quantification relies on measurement of small differences between large polarization signals.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 22,
+      "title": "Embryonic stem cells and mice expressing different GFP variants for multiple non-invasive reporter usage within a single animal"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 20,
+      "title": "Generating green fluorescent mice by germline transmission of green fluorescent ES cells"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 27,
+      "title": "Non-invasive sexing of preimplantation stage mammalian embryos"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 11,
+      "title": "Quantitative evaluation by minisequencing and microarrays reveals accurate multiplexed SNP genotyping of whole genome amplified DNA"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 13,
+      "title": "The lack of susceptibility of the brighter R5 and R6 subpopulations."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 17,
+      "title": "A new generation of Ca2+ indicators with greatly improved fluorescence properties"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 45,
+      "title": "Microarrays in primary breast cancer – lessons from chemotherapy studies"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 6,
+      "title": "Toward a genetic etiology of CHARGE syndrome: I. A systematic scan for submicroscopic deletions"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 32,
+      "title": "SNP genotyping with fluorescence polarization detection"
+    }
+  ]
+}

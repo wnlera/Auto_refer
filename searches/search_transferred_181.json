@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Stably transfected or E1 transformed cell lines show constitutive expression of the inducible HSP72 [18].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "NIH 3T3 and 208F cells were transfected using calcium phosphate as previously described [15] and were monitored for appearance of transformed foci of cells for up to a month after transfection.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Transplantation experiments in athymic mice showed that ras-transformed NIH-3T3 fibroblasts became significantly more tumorigenic, invasive and metastatic when transfected with Autotaxin [38], and purified recombinant Autotaxin has potent angiogenic activity in vivo [39].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "If specific skills are transferred, it is important to determine whether the transferred training lasts as long and as reliably as an equivalent amount of real world training [22].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The signal is then transferred to the phosphorelay protein LuxU [22].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "We have shown that several transferred genes are differentially expressed in the C. parvum genome, and in two cases (IMPDH and TK), the transferred genes have been shown to be functional [25,32].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Only 12% of the transferred embryos are able to successfully implant [14].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "We also applied an alternative method (GeneTrace) to estimate horizontally transferred pseudogenes [40].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 18,
+      "title": "Cell cycle control of the human HSP70 gene: implications for the role of a cellular E1A-like function"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 15,
+      "title": "Role of virus receptor Hyal2 in oncogenic transformation of rodent fibroblasts by sheep betaretrovirus env proteins"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 38,
+      "title": "Autotaxin (ATX), a potent tumor motogen, augments invasive and metastatic potential of ras-transformed cells"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 39,
+      "title": "Autotaxin (NPP-2), a metastasis-enhancing motogen, is an angiogenic factor"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 22,
+      "title": "Virtual environments in neuropsychological assessment and rehabilitation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 22,
+      "title": "A genetic analysis of the functions of LuxN: a two-component hybrid sensor kinase that regulates quorum sensing in Vibrio harveyi"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 32,
+      "title": "Genetic complementation in apicomplexan parasites."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 25,
+      "title": "Gene transfer in the evolution of parasite nucleotide biosynthesis."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 14,
+      "title": "Use of assisted reproductive technology in united states, 1996 and 1998"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 40,
+      "title": "GeneTRACE-reconstruction of gene content of ancestral species. Bioinformatics."
+    }
+  ]
+}

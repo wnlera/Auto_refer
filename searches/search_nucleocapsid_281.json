@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The viral genome is packaged in a process in which the packaging signal, Psi, is recognized by the nucleocapsid (NC) protein domain of the Gag protein [65].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Nucleocapsid protein (NC) has been shown to facilitate tRNALys3 annealing both in vitro [5,6] and in vivo [7], primarily through basic amino acids flanking the first zinc finger.",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The Cys-His box is a highly conserved cysteine and histidine based motif of the nucleocapsid protein (part of the gag polyprotein) of retroviruses and retroviral like elements [33].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "To date, a number of informative reviews have been published on retroviral RNA dimerization [1-3], genome packaging [3-7], and the role of nucleocapsid (NC) protein in these activities [8,9].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Subsequent results showed remarkably that APOBEC3G binds Gag nucleocapsid NC protein, and in the absence of Vif, it is incorporated into the viral particle in close proximity to the reverse transcription complex [21].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Hantaviruses (genus Hantavirus, family Bunyaviridae) have a tripartite genome comprising the L segment encoding the RNA-polymerase, the M segment encoding two external glycoproteins, and the S segment encoding the nucleocapsid (N) protein [12].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "After assembly and proteolytic cleavage of Pr55Gag in matrix, capsid, nucleocapsid (NCp7), and p6 mature proteins, Vpr is recruited into the conical core of the virus particle [27,28] where it is tightly associated with the viral RNA [29,30].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 65,
+      "title": "Analysis of the assembly function of the human immunodeficiency virus type 1 Gag protein nucleocapsid domain"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 7,
+      "title": "The role of nucleocapsid and U5 stem/A-rich loop sequences in tRNALys3 genomic placement and initiation of reverse transcription in HIV-1"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 5,
+      "title": "Specific binding of HIV-1 nucleocapsid protein to PSI RNA in vitro requires N-terminal zinc finger and flanking basic amino acid residues"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 6,
+      "title": "Viral RNA annealing activites of Human Immunodeficiency Virus Type 1 nucleocapsid protein require only peptide domains outside the zinc fingers"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 33,
+      "title": "Characterization of Moloney Murine Leukemia Virus mutants with single-amino-acid substitutions in the Cys-His Box of the nucleocapsid protein"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 8,
+      "title": "Nucleic-acid-chaperone activity of retroviral nucleocapsid proteins: significance for viral replication"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "What is the role of the cys-his motif in retroviral nucleocapsid (NC) proteins?"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 21,
+      "title": "Evidence for a newly discovered cellular anti-HIV-1 phenotype"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 12,
+      "title": "Family Bunyaviridae"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 29,
+      "title": "Direct binding to nucleic acids by Vpr of human immunodeficiency virus type 1"
+    }
+  ]
+}

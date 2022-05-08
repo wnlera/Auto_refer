@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "In some studies corticosteroids are not very effective inhibitors of cysteinyl leukotriene pathways, at least when assessed by their inability to reduce cysteinyl leukotriene concentrations [91,92] and thus combination of these therapeutic classes may offer some benefit.",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "C3a also induces robust mast cell degranulation [38,39] and leukotriene C4 generation (Thangam, B and Ali, H, unpublished data).",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The ability of allergen to cross-link high affinity IgE receptors (FcεRI) on mast cells to induce degranulation and leukotriene generation is well documented [35,36].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Other genes which encode proteins like Leukotrien-B4 receptor (LTB4R), Leukotrien-A4 hydrolase, IL-8 receptor (IL-8RA), anaphylatoxin C3a receptor-1 (C3aR1), Neutrophil Cytosolic Factor 1 (NCF 1), S100 calcium binding protein A9, Defensin, (DEFA 1/4), LPS binding protein CAP18 (CAMP), and Peptidoglycan Recognition Protein (PGLYRP) are involved in chemotaxis, inflammatory reaction and superoxide metabolism [26].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In addition, arachidonic acid is the precursor of eicosanoids, prostanoids, leukotrienes and lipoxins, which may mediate further activation [24] and PLA2-induced hydrolysis of ether lipids gives rise to paf-acether [25].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 91,
+      "title": "Effect of oral prednisone on airway inflammatory mediators in atopic asthma"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 92,
+      "title": "Differential effects of fluticasone propionate on allergen-evoked bronchoconstriction and increased urinary leukotriene E4 excretion"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 38,
+      "title": "Activation of human mast cells by aggregated IgG through FcgammaRI: additive effects of C3a"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 39,
+      "title": "Distinct regulation of C3a-induced MCP-1/CCL2 and RANTES/CCL5 production in human mast cells by extracellular signal regulated kinase and PI3 kinase"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 36,
+      "title": "The FcepsilonRIbeta immunoreceptor tyrosine-based activation motif exerts inhibitory control on MAPK and IkappaB kinase phosphorylation and mast cell cytokine production"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 35,
+      "title": "Dexamethasone suppresses antigen-induced activation of phosphatidylinositol 3-kinase and downstream responses in mast cells"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 26,
+      "title": "Expression and function of chemokines during viral infections: from molecular mechanisms to in vivo function"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 24,
+      "title": "Changes in lipid composition of human peripheral blood lymphocytes infected by HIV"
+    }
+  ]
+}

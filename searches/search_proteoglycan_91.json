@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Aggrecan is the major proteoglycan species in cartilage [4].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Proteoglycan content of differentiated cultures was determined with the DMMB-assay [36].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Perlecan is a secreted proteoglycan that demonstrates a widespread distribution as a basement membrane component [66].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Infected erythrocytes adhere to low-sulphated forms of CSA present on the extracellular proteoglycan matrix of syncytiotrophoblasts [11].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "In the extracellular matrix FGF2 competes with Aβ and APP for binding sites on heparan sulfate proteoglycans [69,70].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "[21], the expression of chondrocyte-specific marker genes was highly up-regulated while proteoglycan content revealed an increased chondrocytic yield from 7.26% to 57.03%.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "reported the expression of decorin which is a leucine-rich proteoglycan in the mouse uterine and suggested it localized in the undifferentiated interimplantation site stroma [34].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Astrocytes deposit proteoglycans around the Aβ deposits destined to become plaques [11], perhaps sequestering this neurotoxic peptide from doing its harm.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "After activation, key mediators secreted by mast cells include preformed mediators like histamine, proteoglycans, proteases, and several cytokines and growth factors [1].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 4,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 36,
+      "title": "A direct spectrophotometric microassay for sulfated glycosaminoglycans in cartilage cultures"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 66,
+      "title": "Widespread expression of perlecan proteoglycan in basement membranes and extracellular matrices of human tissues as detected by a novel monoclonal antibody against domain III and by in situ hybridization"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 11,
+      "title": "Characterization of proteoglycans of human placenta and identification of unique chondroitin sulfate proteoglycans of the intervillous spaces that mediate the adherence of Plasmodium falciparum-infected erythrocytes to the placenta"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 69,
+      "title": "Common binding sites for beta-amyloid fibrils and fibroblast growth factor-2 in heparan sulfate from human cerebral cortex"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 70,
+      "title": "Association and release of the amyloid protein precursor of Alzheimer's disease from chick brain extracellular matrix"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "Embryonic stem cell-derived chondrogenic differentiation in vitro: activation by BMP-2 and BMP-4"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 34,
+      "title": "Small leucine-rich proteoglycans (SLRPs) in uterine tissues during pregnancy in mice"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 11,
+      "title": "The Alzheimer amyloid precursor proteoglycan (appican) is present in brain and is produced by astrocytes but not by neurons in primary neural cultures"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 1,
+      "title": "The molecular role of mast cells in atherosclerotic cardiovascular disease"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "This is one of the critical distinctions between methods based on distribution theory and \"distribution free\" techniques based on re-sampling a data set to construct empirical distributions [13].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The observation that many LTR retroelements have non-uniform genomic distributions suggested that targeted integration may be a driver of retroelement distribution patterns [42].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The distribution of each of these data points is a finite mixture of several component distributions, with known or unknown mixing proportions, called weights [10,11].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Its distribution from the LGM to the present has been modeled using current climate envelopes for this snail species mapped onto reconstructed paleoclimate distributions [77].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "We compared the distance distribution between naturally occurring UCRs and the background using the Kolmogorov-Smirnov test [25], which assigns a probability that two distributions are similarly shaped.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "We compared the free energy distribution at position -20 (with respect to TSS) with the distributions at the positions -200 and +200 using Kolmogorov-Smirnov two sample test [36].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The practices included in the GPRD are broadly representative of all practices in England and Wales in terms of geographical distribution, practice sizes and the age and gender distributions of registered patients [11].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "the Gumbel distribution [62], the cumulative distribution is given by",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Besides being symmetric and bounded, an attractive feature of the DJS divergence measure is that it is proportional to the minus logarithm of the probability that the two empirical distributions represent samples drawn from the same (\"common\") source distribution [28].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 13,
+      "title": "Randomization tests and spatially auto-correlated data"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 42,
+      "title": "Revising the selfish DNA hypothesis: new evidence on accumulation of transposable elements in heterochromatin."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 77,
+      "title": "Reconciling paleodistribution models and comparative phylogeography in the Wet Tropics rainforest land snail Gnarosophia bellendenkerensis (Brazier 1875)."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 25,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 36,
+      "title": "Proof without prejudice: use of the Kolmogorov-Smirnov test for the analysis of histograms from flow systems and other sources"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 11,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 62,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 28,
+      "title": "Agnostic classification of markovian sequences"
+    }
+  ]
+}

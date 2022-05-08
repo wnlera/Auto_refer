@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "In accord with Lewis [7], we find that only one GSMA statistic achieves statistical significance at overall alpha level 0.05, namely, the statistic corresponding to bin 2.5.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Results (e.g., derivation of SSCP matrices) were checked with the statistical software packages STATISTICA V.6 [75] and SPSS V.11 [76].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Stastical analyses were conducted on a voxel-by-voxel basis using the Statistical Parametric Mapping (SPM99, Wellcome Department of Cognitive Neurology, UK) [26].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "For these reasons, Page's statistic is widely used in statistical process control and has been proposed in the context of disease surveillance [21].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "T-statistics for the assessment of significant regional activation were assembled into Statistical Parametric Maps (SPMs) which refer to the probabilistic behavior of Gaussian random fields [55].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Allocation by cluster has some important statistical issues that have been addressed 65 years ago in the educational trial literature [1] and subsequently widely in medical statistics [2].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Levinson [3] had proposed an aggregate criterion for detecting linkage based on both the marginal distributions and the order statistic distributions of the GSMA statistics.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Statistical analyses were carried out using the SPSS statistical package [14].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "Genome scan meta-analysis of schizophrenia and bipolar disorder, part II: Schizophrenia"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 75,
+      "title": "STATISTICA (data analysis software system), version 6"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 76,
+      "title": "SPSS for Windows"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 26,
+      "title": "Comparing functional (PET) images: the assessment of significant change"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "Influenza surveillance in England and Wales using routine statistics"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 55,
+      "title": "Local maxima and the expected euler characteristic of excursion set of  chi², F, and t fields"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 1,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 2,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 3,
+      "title": "Genome scan meta-analysis of schizophrenia and bipolar disorder, part I: Methods and power analysis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 14,
+      "title": "EGGOG"
+    }
+  ]
+}

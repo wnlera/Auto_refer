@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "In some cases PDI did not show significant effects on the refolding yield but significantly increased the refolding rate [141].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Three trials [28,29,47] demonstrated no significant difference in survival while another [27] found significantly shorter survival with postoperative radiotherapy and surgery compared with surgery alone.",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "For instance, Sundberg et al [12] reported that lumbar spine BMD (measured by DXA) in rural adolescents was significantly higher than that in urban adolescents, but there was no significant difference in femoral neck BMD.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In breast cancer patients, Levine and Tarq [8] found significant correlations of spirituality and spiritual well-being with functional well-being, while items pertaining to meaning and peace tended to correlate significantly with physical well-being.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[12] it was found that most high-count tags appeared significantly different when a pooled test was used and not significant when a t-test was tried, and that in this case the t-test was more likely correct.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "A significantly higher risk for first-born males was reported from a Finnish cohort study with 100 cases [13], and in accordance with this, a recent study from Pakistan with 453 cases reported highly significant excess of firstborns among patients with schizophrenia [14].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 141,
+      "title": "Reductive unfolding and oxidative refolding of a Bowman-Birk inhibitor from horsegram seeds (Dolichos biflorus): Evidence for 'hyperreactive' disulfide bonds and rate-limiting nature of disulfide isomerization in folding"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 47,
+      "title": "Value of radiotherapy after radical surgery for esophageal carcinoma: a report of 495 patients"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 27,
+      "title": "Postoperative radiotherapy for carcinoma of the esophagus: a prospective, randomized controlled study"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 29,
+      "title": "Adjuvant postoperative radiation therapy after curative resection of squamous cell carcinoma of the thoracic esophagus: a prospective randomized study"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 28,
+      "title": "Postoperative radiation therapy does not increase survival after curative resection for squamous cell carcinoma of the middle and lower esophagus as shown by a multicenter controlled trial. French University Association for Surgical Research"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 12,
+      "title": "Bone mineral density in adolescents. Higher values in a rural area – a population-based study of 246 subjects in southern Sweden"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 8,
+      "title": "Spiritual correlates of functional well-being in women with breast cancer"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 12,
+      "title": "Differential expression in SAGE: Accounting for normal between-library variation"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 14,
+      "title": "Schizophrenia and birth order in Pakistan"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 13,
+      "title": "Birth order and risk for schizophrenia: a 31-year follow-up of the Northern Finland 1966 birth cohort"
+    }
+  ]
+}

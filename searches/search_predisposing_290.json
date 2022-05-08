@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Malnutrition is another factor predisposing to SSI [5].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Other predisposing infections include sinusitis, pharyngitis and lung infections [5].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Such high virus expression is widely considered to be a predisposing factor for TSP/HAM development [239].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "One set of uncommon risk factors include predisposing diseases like the dysplastic nevus syndrome, atypical ocular nevi, ocular and oculardermal melanocytosis [2,3].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The NIH Consensus Statement defines Osteoporosis as \"a skeletal disorder characterised by compromised bone strength predisposing to an increased risk of fracture\" [1].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "There are many causes for this disease but the most common predisposing factors are pregnancy, puerperium, contraceptive pills, coagulopathies and intracranial infections [2].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "This gene may be a potentially predisposing gene to T1D because it is specifically expressed in adult pancreas and islets of Langerhans [241].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Rapid reduction of immunosuppressive therapy such as steroids has been implicated as a predisposing factor for the development of PCP in HIV-negative patients [11,17,23,24].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "Hospital-acquired infections among surgical patients in Tikur Anbessa Hospital, Addis Ababa, Ethiopia"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "Meningitis and shunt infection caused by anaerobic bacteria in children"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 239,
+      "title": "Analysis of HTLV-I proviral load in 202 HAM/TSP patients and 243 asymptomatic HTLV-I carriers: high proviral load strongly predisposes to HAM/TSP"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 3,
+      "title": "Host factors, uv radiation, and a risk of uveal melanoma. A case-control study"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 2,
+      "title": "Malignant Melanoma of the choroid in an infant with the dysplastic naevus syndrome"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Osteoporosis Prevention, Diagnosis and Therapy"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "Cerebral Venous sinus thrombosis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 241,
+      "title": "SEL1L, the human homolog of C. elegans sel-1: refined physical mapping, gene structure and identification of polymorphic markers"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 23,
+      "title": "Pneumocystis carinii pneumonia in patients with primary brain tumors"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 17,
+      "title": "Pneumocystis carinii pneumonia among patients without AIDS at a cancer hospital"
+    }
+  ]
+}

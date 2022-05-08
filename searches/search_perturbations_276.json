@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Air flow perturbations with the APD occur at a rate of about 10 per second [15].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[6,7] who discuss evoked activity in terms of oscillatory perturbations, i.e., alteration of synchrony in ongoing activity.",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "This indicated general perturbations in response to dietary intakes, causing long-term adverse effects in this hyperlipidemia mouse model [107].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The perturbation of Aurora-B function in different systems suggests variable kinetochore-microtubule interactions [33].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Experimentally, such perturbations could be implemented with modern methods of RNA interference [43] or, for biotechnological purposes, in a chemostat [9].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Higher amplitude values [2-5] and longer reaction time when subjected to perturbations [4,6,7] have been observed among patients compared to controls.",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 15,
+      "title": "Respiratory resistance measured by an airflow perturbation device"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 7,
+      "title": "Electroencephalographic brain dynamics following manually responded visual targets"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "Dynamic brain sources of visual evoked responses"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 107,
+      "title": "Fructose intake increases hyperlipidemia and modifies apolipoprotein expression in apolipoprotein AI-CIII-AIV transgenic mice"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 33,
+      "title": "Chromosome dynamics: new light on Aurora B kinase function"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 43,
+      "title": "Killing the messenger: Short RNAs that silence gene expression"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "Experimental test of a method for determining causal connectivities of species in reactions"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 6,
+      "title": "Postural control after anterior cruciate ligament reconstruction and functional rehabilitation"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 7,
+      "title": "An investigation of postural control in postoperative anterior cruciate ligament reconstruction patients"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 4,
+      "title": "Postural control-a comparison between patients with chronic anterior cruciate ligament insufficiency and healthy individuals"
+    }
+  ]
+}

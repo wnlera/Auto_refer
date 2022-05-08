@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "The glucocorticoid-induced vasoconstriction in asthmatics seems to be accompanied by a greater α1-adrenergic vasoconstrictor response [26].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Furthermore, corticosteroids may inhibit the synthesis of NO [31], thus causing vasoconstriction.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "It seems plausible that this deterioration could be explained by systemic vasoconstriction [21] increasing afterload.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "In a chronic phase, an overactivity of the spinal sympathetic system could take place, which can lead to vasoconstriction and hypertension [9].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Smoking results in increased capillary fragility and vasoconstriction of arterial walls, leading to reduced blood flow to the uterus and eventually to the placenta [21].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "They can potentiate the vasoconstrictor actions of noradrenalin and angiotensin II by upregulating their vascular receptors [30].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Activation of this complex leads to intracranial vasoconstriction causing the migraine aura, followed by headache due to vasodilation of the extracranial vessels and activation of the perivascular nociceptive nerves [21].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "This reduction is primarily due to an increased flow velocity at rest [5,27,28], in relation to the failure of microvessel bed to vasoconstrict appropriately and/or to epicardial vasoconstriction mediated by a myogenic response and/or neural mechanism [30].",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 26,
+      "title": "Adrenergic airway vascular smooth muscle responsiveness in healthy and asthmatic subjects"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 31,
+      "title": "Increased expression of inducible nitric oxide synthase and cyclo-oxygenase-2 in the airway epithelium of asthmatic subjects and regulation by corticosteroid treatment"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 21,
+      "title": "Effects of supplemental oxygen on forearm vasodilation in humans"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 9,
+      "title": "Prediction of Head-Up Tilt Test Result by Analysis of Early Heart Rate Variations."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "Smoking during pregnancy and placental pathology."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 30,
+      "title": "The role of corticosteriods in the regulation of vascular tone"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "eMedicine"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 5,
+      "title": "Immediate and long-term effect of balloon angioplasty or stenting implantation on the absolute and relative coronary blood flow velocity reserve"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 28,
+      "title": "Impaired coronary vasodilator reserve in the immediate post-coronary angioplasty period: analysis of coronary artery flow velocity indexes and regional cardiac venous efflux"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 27,
+      "title": "Temporal increase in resting coronary blood flow causes an impairment of coronary flow reserve after balloon angioplasty"
+    }
+  ]
+}

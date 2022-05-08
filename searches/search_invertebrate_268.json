@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "It is less clear, however, whether multi-neuron modules (smaller than invertebrate ganglia or vertebrate nuclei and cortical columns) can be meaningfully defined, either anatomically [2] or physiologically [3].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Sequence similarity searches using TBLASTN [56] were conducted using the B and A chain sequences of each family member to identify other mammalian, vertebrate and invertebrate relaxin-like peptides.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Although many studies have examined recovery of faunal communities with tropical forest regeneration, a vast majority have been restricted to one or two vertebrate (birds, small mammals) and invertebrate (ants, beetles) groups [10].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Previous whole-genome studies of the CTLD superfamily in two invertebrates [13,14] failed to identify any groups of CTLDcps common to both invertebrates and vertebrates.",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_9",
+        "B_10"
+      ]
+    },
+    {
+      "sentence": "Empirical evidence for the presence of both of these prerequisites is still rare, especially for invertebrate hosts [8,9].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 3,
+      "title": "Detecting spatiotemporal firing patterns among simultaneously recorded single neurons"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 2,
+      "title": "Myelinated axons and the pyramidal cell modules in monkey primary visual cortex"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 56,
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "Recovery of faunal communities during tropical forest regeneration"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 13,
+      "title": "C-Type lectin-like domains in Caenorhabditis elegans: predictions from the complete genome sequence"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 14,
+      "title": "Lectin-like proteins in model organisms: implications for evolution of carbohydrate-binding activity"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 8,
+      "title": "Genetic variation in a host-parasite association: potential for coevolution and frequency-dependent selection"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 9,
+      "title": "Genetics of host-parasite interactions"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

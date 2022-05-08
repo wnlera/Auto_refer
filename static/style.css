@@ -1,0 +1,65 @@
+body {
+
+}
+
+h1 {
+   text-align: center;
+   margin: 2% auto;
+}
+
+.input-group {
+   margin: 2% auto;
+   place-content: center;
+}
+
+.result-text{
+   margin-left: 15%;
+   margin-right: 15%;
+   place-content: center;
+}
+
+.ref-text{
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: 2%;
+   place-content: center;
+}
+
+.info-text{
+   margin-left: 15%;
+   margin-bottom: 3%;
+   place-content: center;
+   color: gray;
+}
+
+p {
+   margin: 0.2% auto;
+   place-content: center;
+   text-align: left;
+}
+
+
+[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+[data-title]:after {
+    content: attr(data-title);
+    background-color: lightgray;
+    color: #111;
+    font-size: 100%;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    white-space: nowrap;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    z-index: 99999;
+    visibility: hidden;
+    margin: 0.2% auto;
+}
+[data-title] {
+    position: relative;
+}

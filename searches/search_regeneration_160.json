@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Many of the cytokines and growth factors essential for regeneration in rodents [reviewed in [4]] are also found in increased amounts in the regenerating human liver, implying once more similar mechanisms.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[5], increased uPA activity is an essential feature at the start of regeneration, then these observations confirm the findings of animal studies that the magnitude of the regenerative response is dependent on the extent of the hepatectomy [14,15].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Wallerian degeneration, the characteristic degeneration sequence of nerve fibres separated from their cell bodies, was described by Waller in 1850 [1,2].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "More recently, studies with uPA or plasminogen deficient mice confirmed the requirement for plasminogen activation in liver regeneration and also showed a need for plasminogen in regeneration-associated hepatic angiogenesis [9].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "While most of the above mentioned investigators concluded a progressive nature of Wallerian degeneration from the appearance of degeneration gradients along injured nerves other authors did not observe any evidence for an anterograde or retrograde pattern of axonal degeneration [52,53].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Recent studies suggested that exogenous retinoic acid can induce alveolar regeneration in models of elastase-induced experimental emphysema [152] and that retinoic acid may have a role for alveolar development and regeneration after injury [153,154].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 4,
+      "title": "The molecular physiology of liver regeneration following partial hepatectomy"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 15,
+      "title": "The biochemistry of regenerating liver"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 14,
+      "title": "Regeneration of mammalian liver"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 5,
+      "title": "Immediate early detection of urokinase receptor after partial hepatectomy and its implications for initiation of liver regeneration"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "Experiments on the section of glossopharyngeal and hypoglossal nerves of the frog and observations of the alternatives produced thereby in the structure of their primitive fibers"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 2,
+      "title": "Degeneration and regeneration of the peripheral nervous system: from Augustus Waller's observations to neuroinflammation"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "Plasminogen mediates liver regeneration and angiogenesis after experimental hepatectomy"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 53,
+      "title": "The non-directional pattern of axonal changes in Wallerian degeneration: a computer-aided morphometric analysis"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 52,
+      "title": "Cooling of peripheral myelinated axons retards Wallerian degeneration"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 153,
+      "title": "Retinoic acid receptor-alpha regulates pulmonary alveolus formation in mice after, but not during, perinatal period"
+    }
+  ]
+}

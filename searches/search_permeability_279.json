@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "The St group presented a moderate increase in permeability (Asp/plasma ratio: 0.31 ± 0.04), it has previously been reported that agar beads could alone be responsible for a moderate increase in permeability [19].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Increased BAL levels most likely indicate intrapulmonary overproduction and not increased permeability [33].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Intestinal permeability is measured by the sugar absorption test, as previously described [18].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The intestinal tight junctions between epithelial cells and permeability have been reviewed [37].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Long-term exposure also increases in mucosal permeability both in vivo and in vitro [111].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The mechanism behind this phenomenon might be that SEB increases permeability of the intestinal mucosa [6,13].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Lu et al also reported that SEB significantly increased colonic mucosal permeability in a mouse study [13].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "For example, changes in the permeability of the intestinal barrier occurs with age with decreasing Peyer's patches [16].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Fibrin cleavage products may be detrimental for endothelial cell function, increasing permeability and promoting endothelial cell migration [36,41,42].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "Short communication. Role of agar beads in the pathogenicity of Pseudomonas aeruginosa in the rat respiratory tract"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 33,
+      "title": "Inflammatory cytokines in the BAL of patients with ARDS"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 18,
+      "title": "Intestinal permeability in relation to birth weight and gestational and postnatal age"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 37,
+      "title": "Small bowel review: normal physiology part 2"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 111,
+      "title": "SO2-induced bronchopathy in the rat: abnormal permeability of the bronchial epithelium in vivo and in vitro after anatomic recovery"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 6,
+      "title": "Bacterial superantigens: provocateurs of gut dysfunction and inflammation?"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 13,
+      "title": "Colonic bacterial superantigens evoke an inflammatory response and exaggerate disease in mice recovering from colitis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 13,
+      "title": "Colonic bacterial superantigens evoke an inflammatory response and exaggerate disease in mice recovering from colitis"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 16,
+      "title": "The role of Peyer's patches in the age-related incidence of Crohn's disease"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 42,
+      "title": "Fibrin degradation product D-dimer induces the synthesis and release of biologically active IL-1 beta, IL-6 and plasminogen activator inhibitors from monocytes in vitro"
+    }
+  ]
+}

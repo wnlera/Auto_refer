@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "D. melanogaster PCNA was purified to apparent homogeneity identically after bacterial expression [13].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "All these data were then loaded into DEDB (Drosophila melanogaster Exon Database) [7].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "DHPLC has been used in small-scale genotyping projects in Drosophila melanogaster [9].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[29] concluded that wing shape in Drosophila melanogaster is quite resistant to developmental temperature.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Drosophila melanogaster genome annotations (release 3.2) were obtained from FlyBase [8] as Game XML files.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "For D. melanogaster, for example, there is an average of 3 introns per gene [26].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "For example, many retroelements of Arabidopsis thaliana and Drosophila melanogaster are clustered in pericentromeric heterochromatin [11,12].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "As the conservation of binding sites and binding-site clusters between D. melanogaster and D. pseudoobscura successfully distinguishes positive and negative predictions made using the D. melanogaster sequence alone, we incorporated comparative sequence data into our enhancer-prediction algorithm CIS-ANALYST [11].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Only synonymous substitutions (21 out of 108 codons) were found on comparing D. melanogaster and D. pseudoobscura cytochrome c coding sequences, whereas 28 synonymous substitutions and only four nonsynonymous substitutions were observed between D. melanogaster and A. gambiae (see MitoComp website [22]).",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 13,
+      "title": "Drosophila proliferating cell nuclear antigen (cyclin) gene: structure, expression during development, and specific binding of homeodomain proteins to its 5'-flanking region"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 7,
+      "title": "DEDB: Drosophila melanogaster Exon Database"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 9,
+      "title": "High-resolution SNP mapping by denaturing HPLC."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 29,
+      "title": "Genetic variation for the positioning of wing veins in Drosophila melanogaster"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "The FlyBase database of the Drosophila genome projects and community literature"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 26,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 11,
+      "title": "Analysis of the genome sequence of the flowering plant Arabidopsis thaliana."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 12,
+      "title": "The genome sequence of Drosophila melanogaster."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 11,
+      "title": "Exploiting transcription factor binding site clustering to identify cis-regulatory modules involved in pattern formation in the Drosophila genome."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 22,
+      "title": "mitoloc_index: MITOCOMP"
+    }
+  ]
+}

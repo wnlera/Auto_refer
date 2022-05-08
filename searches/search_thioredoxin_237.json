@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Folding and disulfide bond formation in the target protein, is enhanced by fusion to thioredoxin in strains lacking thioredoxin reductase (trxB) [28].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Indeed, Drosophila lacks glutathione reductase [18] and its function is apparently substituted by thioredoxin reductase.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Thioredoxin protects cells against TNF-induced cytotoxicity, general oxidative stress and is able to scavenge free radicals [66].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Natural molecular chaperones that have been used as solubility enhancers include prolyl cis trans isomerases (PPIases) [58], thioredoxin [59] and dsbA [60].",
+      "b_link": [
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Another study reports the purification of a heterodimeric complex by expression of each subunit (pheromaxein A and C) as a fusion to thioredoxin [44].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "E. coli MBP proved to be a much more effective solubility partner than the highly soluble GST and thioredoxin proteins in a comparison of solubility enhancing properties [46].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Interestingly, in agreement with this last hypothesis, one of these genes, Jafrac2, which codes for a thioredoxin peroxidase, has been recently assigned an unexpected role in caspase-regulated cell death [36].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "This has been partially accomplished by modifying the cytoplasmic oxido-redox environment by mutating components of the thioredoxin and glutaredoxin pathways [8], resulting in the accumulation of soluble intra-cytoplasmic oxidized antibody fragments [9-11].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 28,
+      "title": "Disulfide bond formation in the Escherichia coli cytoplasm: an in vivo role reversal for the thioredoxins"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "Substitution of the thioredoxin system for glutathione reductase in Drosophila melanogaster"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 66,
+      "title": "Thioredoxin and mechanism of inflammatory response"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 60,
+      "title": "Expression of eukaryotic proteins in soluble form in Escherichia coli"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 59,
+      "title": "Expression of a recombinant Toxoplasma gondii ROP2 fragment as a fusion protein in bacteria circumvents insolubility and proteolytic degradation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 58,
+      "title": "Expression of foreign proteins in Escherichia coli by fusing with an archaeal FK506 binding protein"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 44,
+      "title": "Novel approach to obtain biologically active recombinant heterodimeric proteins in Escherichia coli"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 46,
+      "title": "Escherichia coli maltose-binding protein is uncommonly effective at promoting the solubility of polypeptides to which it is fused"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 36,
+      "title": "Jafrac2 is an IAP antagonist that promotes cell death by liberating Dronc from DIAP1"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "Conversion of a peroxiredoxin into a disulfide reductase by a triplet repeat expansion"
+    }
+  ]
+}

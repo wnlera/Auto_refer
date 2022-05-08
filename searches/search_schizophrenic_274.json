@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "The syndrome of schizophrenia is likely to be etiologically heterogeneous and a multitude of CNS disorders can give rise to schizophrenic-like psychoses [117].",
+      "b_link": [
+        "B_1",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Other oddities to be incorporated in a comprehensive explanation of schizophrenia include highly visible nail fold capillaries [43,44] and the rarity of rheumatoid arthritis among schizophrenic persons [45].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_10"
+      ]
+    },
+    {
+      "sentence": "Recently significant increases of mRNA expression of EAAT1 and EAAT2 have been reported in the thalamus of schizophrenics, suggesting the possibility that an excessive glutamate uptake is involved in schizophrenia [13].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Also, a study of parents of patients with childhood- and adult-onset schizophrenia found that parents of patients with childhood-onset schizophrenia had a significantly higher morbid risk of schizophrenia spectrum disorders than parents with adult-onset schizophrenia [35].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "However, our findings are inconsistent with the common generalization that schizophrenics tend to commit suicide early in the course of the disease because, given gender-differences in the age at onset in schizophrenia [165], with males more likely to have the onset at younger ages, one would expect a considerably higher proportion of schizophrenia among male completers, even if the age distribution in our sample suggests that women in general seemed older than men.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[32] in patients with schizophrenia.",
+      "b_link": [
+        "B_9"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 117,
+      "title": "Schizophrenia-like psychoses associated with organic disorders of the central nervous system: A review of the literature"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 45,
+      "title": "Negative association between schizophrenia and rheumatoid arthritis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 44,
+      "title": "Relationships between nailfold plexus visibility and clinical, neuropsychological, and brain structural measures in schizophrenia"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 43,
+      "title": "Capillary pattern in familial schizophrenics: a study of nailfold capillaries"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 13,
+      "title": "Expression of excitatory amino acid transporter transcripts in the thalamus of subjects with schizophrenia"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 35,
+      "title": "Parental schizophrenia spectrum disorders in childhood-onset and adult-onset schizophrenia"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 165,
+      "title": "Main risk factors for schizophrenia: increased familial loading and pre- and peri-natal complications antagonize the protective effect of oestrogen in women"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 32,
+      "title": "Relationship between multiple forms of childhood maltreatment and adult mental health in community respondents: results from the Adverse Childhood Experiences Study"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

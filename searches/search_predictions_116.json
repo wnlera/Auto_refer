@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Signal peptide prediction was done using the SignalP v1.1 at WWW Prediction Server (Center for Biological Sequence Analysis, and membrane topology predictions at the HMMTOP server using the TopPred2 program [46].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The authors of the method have shown, that combining the predictions obtained by NNs and SVMs, improves significantly the prediction accuracy [22].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Systematic studies have shown that existing gene-prediction programs perform poorly when it comes to predicting the correct TIS [11,12].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "For the ab initio prediction, GENSCAN [67] (with default parameter settings for maize) was used and only high exon score predications (≥0.90) were selected.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "However, the performance of even the best currently available predictors are not as good as the predictions obtained for α-helical membrane proteins [33].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Therefore, it is not surprising that also for α-helical membrane proteins' topology prediction the best available predictors are those based on HMMs [33].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "A total of 166,690,139 base-pairs were predicted in the top 750 structure predictions for all 496 16S rRNA sequences in our dataset (some of the sequences did not yield 750 structure predictions with the Mfold folding parameters used in this study, see Counts of Suboptimal Predictions More or Less Accurate than the Optimal Structure Prediction for Different 16S rRNA Sequences under Additional Information at our website[36]).",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The simple mechanism whereby bagging reduces prediction error for unstable predictors, such as trees, is well understood in terms of variance reduction resulting from averaging [18,23].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 46,
+      "title": "Membrane protein structure prediction. Hydrophobicity analysis and the positive-inside rule"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 22,
+      "title": "Prediction of transmembrane regions of beta-barrel proteins using ANN- and SVM-based methods"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "ZCURVE: a new system for recognizing protein-coding genes in bacterial and archaeal genomes"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 12,
+      "title": "YACOP: Enhanced gene prediction obtained by a combination of existing methods"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 67,
+      "title": "Prediction of complete gene structures in human genomic DNA."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 33,
+      "title": "Evaluation of methods for the prediction of membrane spanning regions"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 33,
+      "title": "Evaluation of methods for the prediction of membrane spanning regions"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 36,
+      "title": "RNA Secondary Structure Prediction Metrics Website"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 23,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 18,
+      "title": "Bagging predictors"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Importantly in both of these studies quantitative MCE was superior to qualitative assessment[51].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "One critical appraisal development group proposed two instruments [9], specific to quantitative and qualitative research respectively.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Dysfunctions were classified into mild, moderate, or severe degree according to the qualitative evaluation by HCU, and using both qualitative and quantitative parameters by CE [7].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Alternatively, qualitative researchers may view the robustness of their research findings in different terms compared with quantitative researchers [112,113].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Previous quantitative and qualitative research done in Aleppo has identified ETS as a potentially major health hazard in the indoor environment [16,29].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "A trial study evaluating primary health care in Serbia has demonstrated the advantages of using a combination of qualitative and quantitative tools for health system assessment [12].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The process of quantitative myocardial contrast echo was validated in open chest dogs using intermittent imaging, and the same destruction-replenishment approach is used for contemporary qualitative assessment [43].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Creswell and colleagues expand on this theme by stating that \"When used in combination, both quantitative and qualitative data yield a more complete analysis, and they complement each other\" [2].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 51,
+      "title": "Microvascular structural correlates of myocardial contrast echocardiography in patients with coronary artery disease and left ventricular dysfunction: implications for the assessment of myocardial hibernation"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 9,
+      "title": "Critical literature reviews"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 7,
+      "title": "Recommendations for quantification of Doppler echocardiography: a report from the Doppler Quantification Task Force of the Nomenclature and Standards Committee of the American Society of Echocardiography"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 112,
+      "title": "Best research practice: in pursuit of methodological rigour"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 113,
+      "title": "Establishing the credibility of qualitative research findings: the plot thickens"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Mapping the health and environmental situation in informal zones in Aleppo, Syria; report from the Aleppo Household Survey"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 29,
+      "title": "Assessment of community conditions and health problems in low-income neighborhoods in Aleppo, Syria,"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 12,
+      "title": "A Multimodal Assessment of the Primary Health Care System of Serbia: A Model for Evaluating Post-Conflict Health Systems"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 43,
+      "title": "Quantification of myocardial blood flow with ultrasound-induced destruction of microbubbles administered as a constant venous infusion"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 2,
+      "title": "Designing a mixed methods study in primary care"
+    }
+  ]
+}

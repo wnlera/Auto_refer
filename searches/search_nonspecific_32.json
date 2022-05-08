@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "The MM probe is designed to give an indication of the degree of nonspecific hybridization [26].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The \"somatic shoulder/neck syndrome\" [27] is characterized by nonspecific signs and may well be a neuropathic condition.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Management of these tumors is challenging because of their rarity, relative inaccessibility for diagnosis and diverse histologic types and nonspecific symptoms [4].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "In addition, we applied two analysis methods that incorporate probe sequence-dependent models of nonspecific signal (Perfect Match [20] and gcrma [21]).",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Increased drug use among psychotic patients may also come from an attempt to counteract nonspecific physical symptoms or side effects of neuroleptics [27].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Dps in Escherichia coli is induced in response to oxidative or nutritional stress and protects DNA from oxidative stress damage by nonspecific binding [14].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The second group comprises the majority of oral findings in psoriasis and includes nonspecific lesions such as FT and psoriasiform lesions such as BMG [22].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In addition, HMC-1 were pretreated with normal rabbit serum and incubated with FITC labeled goat anti-rabbit Ig's antibody as a control for nonspecific binding [51].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In this clinical setting, PCP manifesting as IRD often runs an acute and fulminant course, with nonspecific lesions on chest radiographs, and high absolute lymphocyte counts [32].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 26,
+      "title": "High density synthetic oligonucleotide arrays"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 27,
+      "title": "A prospective study of computer users: I. Study design and incidence of musculoskeletal symptoms and disorders"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Prognostic factors in resected primary small bowel tumors"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 20,
+      "title": "A model of molecular interactions on short oligonucleotide microarrays."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "Stochastic models inspired by hybridization theory for short oligonucleotide arrays."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 27,
+      "title": "Dual diagnosis: a review of etiological theories"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 14,
+      "title": "Protection of DNA during oxidative stress by the non specific DNA-binding protein Dps"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 22,
+      "title": "Geographic tongue (migrant glossitis) and psoriasis"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 51,
+      "title": "Effect of interferon alpha on HLA-DR expression by human buccal epithelial cells"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 32,
+      "title": "Lymphocyte surge as a marker for immunorestitution caused by Pneumocystis carinii pneumonia in non-HIV immunosuppressed hosts"
+    }
+  ]
+}

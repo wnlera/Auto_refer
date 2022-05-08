@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Some regions of ERVs have been used successfully to reconstruct phylogenies at lower taxonomic levels [22].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Lastly, we designed a third construct with the native sequence (Wt construct) using KOD-plus DNA polymerase and the original cDNA [4].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Efforts were also made in some bioinformatic systems such as WIT to reconstruct metabolic networks from incomplete genome data [3].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Once passive external rotation is improved, the child is later assessed for muscle transfers to reconstruct active external rotation if necessary [4].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The GFP-LPP construct was described before [11].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "A genome-scale S. cerevisiae metabolic network has been reconstructed [19].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The ability of the proposed approach to reconstruct the underlying disease risk from observed mortality rates has been tested in extensive simulation studies [9].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The PT*-CSP/N construct was obtained as previously described [11].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The kidney is a complex organ with multiple cell types and a complex functional anatomy rendering it one of the most difficult organs to reconstruct [46,47].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 22,
+      "title": "Constructing primate phylogenies from ancient retrovirus sequences"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 4,
+      "title": "Cross-reactivity among sapovirus recombinant capsid proteins"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 3,
+      "title": "WIT: integrated system for high-throughput genome sequence analysis and metabolic reconstruction"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 4,
+      "title": "Classification of secondary shoulder deformities in obstetric brachial plexus palsy"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 11,
+      "title": "Lpp, an actin cytoskeleton protein related to zyxin, harbors a nuclear export signal and transcriptional activation capacity"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 19,
+      "title": "Genome-Scale Reconstruction of the Saccharomyces cerevisiae Metabolic Network"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "Exploring scale-dependent correlations between cancer mortality rates using factorial kriging and population-weighted semivariograms: a simulation study"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 11,
+      "title": "Intracellular delivery of a cytolytic T-lymphocyte epitope peptide by pertussis toxin to major histocompatibility complex class I without involvement of the cytosolic class I antigen processing pathway"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 46,
+      "title": "Current and future modalities for functional renal replacement"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 47,
+      "title": "Transplanting cloned cells into therapeutic promise"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "In this respect, administration of toxins such as endotoxin leads to a recruitment of neutrophils and macrophage activation with concomitant airspace enlargement [177,178].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "After deliberate collapse with one lung ventilation, recruitment was accelerated [14].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Invariably, recruitment involving self-selection entails some degree of selection bias [15].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Awareness of the allocation can lead to biased recruitment in cluster trials [10].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "While intact alveolar macrophage recruitment in response to airway instillation of Saccharopolyspora rectivirgula has been reported in CCR2-deficient mice [38], other in vivo models have demonstrated requirements for MCP-1 and CCR2 in monocyte/macrophage recruitment [19,39-42].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "However, one trial noted significant selection bias even when there were similar recruitment rates [10].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Nevertheless, we acknowledge that biased recruitment may not manifest itself in terms of age differences [12].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "These results are consistent with our finding that p85 binding to Gab1 does not influence the recruitment of Shp2 to the Gab1 signaling complex, and are inconsistent with the conclusion that Gab1 mediates a PI-3 kinase-dependent recruitment of Shp2 [14].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Different families of cell adhesion molecules have been shown to participate in the process of leucocyte recruitment [19].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 14,
+      "title": "Biologically variable or naturally noisy mechanical ventilation recruits atelectatic lung"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Measurement bias in health psychology research designs"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 10,
+      "title": "Lack of concealment may lead to selection bias in cluster randomized trials of palliative care"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 38,
+      "title": "Experimental hypersensitivity pneumonitis:role of MCP-1"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 10,
+      "title": "Lack of concealment may lead to selection bias in cluster randomized trials of palliative care"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 12,
+      "title": "Differential recruitment in a cluster-randomised trial in primary care – the experience of the UK Back pain, Exercise, Active management and Manipulation (UK BEAM) feasibility study"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 14,
+      "title": "A critical role for phosphoinositide 3-kinase upstream of Gab1 and Shp2 in the activation of ras and mitogen-activated protein kinases by epidermal growth factor"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 19,
+      "title": "Radiation-induced normal tissue injury: Role of adhesion molecules in leukocyte-endothelial cell interactions"
+    }
+  ]
+}

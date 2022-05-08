@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "This plane was then used for the categorization (Figure 6a) [11].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Categorization by these cognitive traits resulted in meaningful subgroups of schizophrenia [11].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "This kind of categorization has also been used in the Ghana study [13].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "These are then used to train learning models for ab initio categorization and prediction of protein interactions [13,14].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This context-sensitive categorization, intended as a qualitative abstraction [14], allows the concurrent representation of two layers of information.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Functions of all 971 sequences were annotated using the functional categorizations of similar sequences stored in Gene Ontology (GO) database [40].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Using the NAMCS categorization scheme for reason for visit, we extracted all visits for which shoulder pain (number 14900–14950) was a reason for the visit [7].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In contrast, the speaker categorization task was intended to shift subject's attention to more general and more basic acoustic properties of the material [31] presented to accomplish speaker distinction.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "All these community categories identifiable in the health strategy seem to match the current categorizations of community actors and their partners in the social sector [See [68]].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 11,
+      "title": "Subchromosomal positioning of the epidermal differentiation complex (EDC) in keratinocyte and lymphoblast interphase nuclei"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 11,
+      "title": "Memory-delineated subtypes of schizophrenia: relationship to clinical, neuroanatomical, and neurophysiological measures"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 13,
+      "title": "Incidence and outcome of injury in Ghana: a community-based survey"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 13,
+      "title": "Interrogating protein interaction networks through structural biology"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 14,
+      "title": "Analysing six types of protein-protein interfaces"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 14,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 40,
+      "title": "Gene Ontology: tool for the unification of biology"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 7,
+      "title": "A reason for visit classification for ambulatory care"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 31,
+      "title": "Voice-selective areas in human auditory cortex"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 68,
+      "title": "EGGOG"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "This was supplemented with a search of PubList.com [19] for journals with 'diabet' in title.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "These three cell lines were cultured in Dulbecco's modified Eagle's medium supplemented with 10 % FCS [27].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Respondents were classified as NVNM supplement users if they had indicated use of any of the herbals, glucosamine, or melatonin on the dietary supplement checklist or wrote in a supplement subsequently categorized as an herbal/botanical, amino acid, enzyme, protein, hormone or other non-herbal NVNM dietary supplement [15].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "In that study [19] the subjects were supplemented with 60 mg/day for three months, however diet was not controlled.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The studies by Emtner[25] and Rooyackers[28] demonstrated that patients indeed tolerate higher exercise intensities if supplemented by oxygen.",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "At hospital level, 30% goes towards salary supplements [14].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Both annotations are available for download in supplemental tables [27].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The regions themselves are available as supplemental material at [42].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "PubList.com"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 27,
+      "title": "Enhancement of antitumor immunity by expression of CD70 (CD27 ligand) or CD154 (CD40 ligand) costimulatory molecules in tumor cells"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 15,
+      "title": "Dietary Supplement Health and Education Act of 1994. Public Law 103–417, October 25, 1994. Codified at 42 USC 287C-11"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 19,
+      "title": "Hypocholesterolemic effect of lycopene and beta-carotene is related to suppression of cholesterol synthesis and augmentation of LDL receptor activity in macrophages"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 28,
+      "title": "Training with supplemental oxygen in patients with COPD and hypoxaemia at peak exercise"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 25,
+      "title": "Benefits of supplemental oxygen in exercise training in nonhypoxemic chronic obstructive pulmonary disease patients"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 14,
+      "title": "To decentralise or not to decentralise – is that the question? Nicaraguan health policy under structural adjustment in the 1990s"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 27,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 42,
+      "title": "Online supplemental material"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

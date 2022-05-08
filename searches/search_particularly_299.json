@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "EMAST likely reflects a particular pattern of somatic events that are interactive with p53 mutation, particularly common in skin cancer and limited to non-invasive disease in bladder cancer [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "This hypothesis was particularly tested in E7 production [20].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Bachneff's [159] review and theory about defects in regulation of CNS microvascular systems is particularly relevant.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Arterial thrombotic episodes, particularly of cerebral vessels are enough rare [2].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "An excess od CD8+ T cells are particularly observed in central airways, peripheral airways and parenchyma [20,43].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Obesity, particularly visceral obesity, as well as insulin resistance and hyperinsulinemia are associated with breast cancer [148].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The knowledge base, however, holds data about particular instances [10], for example a particular mouse with a particular genotype, under defined handling conditions and of a certain age, that has a particular level of sensitivity to pain according to a particular assay.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "Microsatellite instability at tetranucleotide repeats in skin and bladder cancer"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 20,
+      "title": "Production of human papillomavirus type 16 E7 protein in Lactococcus lactis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 2,
+      "title": "Clinical manifestations of paroxysmal nocturnal haemoglobinuria: present state and future problems"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 10,
+      "title": "SEAL-II - the soft spot between richly structured and unstructured knowledge."
+    }
+  ]
+}

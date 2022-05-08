@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "SEG [6] and CAST [5] were applied in identifying low-complexity regions.",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "This is in accord with interference studies [35,36] identifying U4 as insensitive to phosphorothioate modification.",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Bungard and his colleagues recently conducted a systematic review of the reasons for the underuse of warfarin, identifying patient, provider, and system factors as well as identifying limitations in research studies and arguing for further research into these factors [6].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Smith et al [3] showed UHCT to be more effective than IVU in identifying ureteral stones.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "proposed a Gamma-Gamma-Bernoulli model for identifying differentially expressed genes in dual labeled arrays [9].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Waller and Jacquez [4] formalized this approach by identifying five components of a test for spatial pattern.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Computerised tomography may also be useful in both delineating the fistula and identifying the underlying aetiology [5,19].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "CAST: an iterative algorithm for the complexity analysis of sequence tracts. Complexity analysis of sequence tracts"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 6,
+      "title": "Analysis of compositionally biased regions in sequence databases"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 35,
+      "title": "Complete identification of nonbridging phosphate oxygens involved in hammerhead cleavage"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 36,
+      "title": "Thiophosphate interference experiments locate phosphates important for the hammerhead RNA self-cleavage reaction"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 6,
+      "title": "The relative importance of barriers to the prescription of warfarin for nonvalvular atrial fibrillation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 3,
+      "title": "Acute flank pain: comparison of non-contrast enhanced CT and intravenous pyelography"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "On differential variability of expression ratios: Improving statistical inference about gene expression changes from microarray data"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Disease models implicit in statistical tests of disease clustering"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 19,
+      "title": "Gastrocolic fistula due to adenocarcinoma of the colon: simulation of primary gastric leiomyosarcoma on CT"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 5,
+      "title": "Gastrocolic fistula originating from transverse colon cancer: report of a case and review of the Japanese literature"
+    }
+  ]
+}

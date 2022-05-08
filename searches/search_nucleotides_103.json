@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "(1999) utilized known modified nucleotide information in tRNA to limit the base-pairing potential for those nucleotides that are modified[31].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The synthesis and degradation of cyclic nucleotides are controlled by enzymes termed adenylate (or guanylate) cyclases and cyclic nucleotide phosphodiesterases, respectively [3,4].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "This enzyme has a higher affinity for extracellular nucleotides than the dephosphorylating enzyme (E-NTPase/E-NTPDase) or ecto-nucleotide pyrophosphatase/phospho-diesterase (ATP→ AMP +ppi) [38].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Our estimated the daily substitution rate of SARS-CoV to be 0.1722 nucleotides, or 5.7 × 10-6 nucleotide substitutions per site, a mutation rate similar to other RNA viruses [13,14].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Also, analysis of dinucleotides separated by no, one, or two other nucleotides showed that separated pairs are more nearly random than adjacent pairs and were concluded to be relatively uninformative [9].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Finally, work by Maathuis and Sanders [8] has shown that cyclic nucleotides can modulate sodium uptake in Arabidopsis plants, implying that there is a cyclic nucleotide controlled channel which plays a role in salinity tolerance.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "where, n is the observed number of P nucleotides and N is the total number of sequences containing junctional inserts equal to or greater than the length of the P nucleotide(s) being examined, and p is the expected frequency of the observed P nucleotide sequence, which was calculated using reported TdT frequencies [5].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "[31] study were considered correct if: 1. they matched a comparatively predicted base-pair exactly or 2. either nucleotide of the Mfold predicted base-pair (X,Y where X and Y are the positions of the nucleotides in the sequence) is within one nucleotide of its comparatively predicted position (X, Y ± 1 or X ± 1,Y).",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 31,
+      "title": "Expanded sequence dependence of thermodynamic parameters improves prediction of RNA secondary structure"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 3,
+      "title": "Regulation and role of adenylyl cyclase isoforms"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Regulation of cAMP and cGMP signaling: new phosphodiesterases and new functions"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 38,
+      "title": "Control of cell membrane ecto-ATPase by oligomerization state: intermolecular cross-linking modulates ATPase activity"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 14,
+      "title": "Rates and Dates of Divergence Between AIDS Virus Nucleotide Sequences"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 13,
+      "title": "Mutation Rates Among RNA Viruses"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 9,
+      "title": "Dinucleotide relative abundance extremes: a genomic signature"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 8,
+      "title": "Sodium uptake in Arabidopsis roots is regulated by cyclic nucleotides"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 5,
+      "title": "Synthesis of compositionally unique DNA by terminal deoxynucleotidyl transferase."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 31,
+      "title": "Expanded sequence dependence of thermodynamic parameters improves prediction of RNA secondary structure"
+    }
+  ]
+}

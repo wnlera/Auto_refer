@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Human T-lymphotropic virus type 1 (HTLV-1) is endemic in southern Japan, intertropical Africa, Melanesia, Latin America, and the Caribbean basin [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "This method is not limited to ecotropic Env, but can be extended to amphotropic MLV, since it has been shown recently that the amphotropic MLV Env can also be tagged with GFP [14].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The DLS of Human T Cell Lymphotropic Virus Type 1 (HTLV-1) was identified as a 14-nucleotide sequence just downstream of the splice donor [35].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Human T-lymphotropic virus type 1 (HTLV-1), the first characterized human retrovirus, causes adult T cell leukemia/lymphoma (ATL) and is associated with several lymphocyte-mediated disorders such as HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP) [1].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "In the ecotropic and amphotropic (Ampho) MLV Env, the PRR is a putative hinge region implicated in conformational changes, triggered after receptor binding, and subsequent fusion [17,18].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The block is early but likely not at virus entry: it occurs whether ecotropic envelope, amphotropic envelope, or even the VSV G protein is used for entry [6].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "As discussed in our recent review article [18], this expansion pattern is widely considered to account for the maintenance of high sequence stability of the viral genome throughout the hundreds of thousands years of evolution since its emergence from its simian T-lymphotropic retrovirus origin.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The human T cell leukemia/lymphotropic virus type 1 is the etiologic agent of adult T cell leukemia (ATL), an aggressive and fatal leukemia of CD4+ T lymphocytes [1,2] and is also associated with a neurological demyelinating disease, tropical spastic paraparesis (TSP) or HTLV-I associated myelopathy (HAM)[3].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "Epidemiology of HTLV-I and associated diseases"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 14,
+      "title": "Green fluorescent protein-tagged retroviral envelope protein for analysis of virus-cell interactions"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 35,
+      "title": "Oligonucleotide mapping of the core genomic RNA dimer linkage in human T-cell leukaemia virus type-1"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 1,
+      "title": "Human T-lymphotropic virus type 1 (HTLV-1): persistence and immune control"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 18,
+      "title": "A proline-rich motif downstream of the receptor binding domain modulates conformation and fusogenicity of murine retroviral envelopes"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 17,
+      "title": "A domain of murine retrovirus surface protein gp70 mediates cell fusion, as shown in a novel SC-1 cell fusion system"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "Somatic cell mutants resistant to retrovirus replication: intracellular blocks during the early stages of infection"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 18,
+      "title": "Implications of the evolution pattern of human T-cell leukemia retroviruses on their pathogenic virulence"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Molecular biology and pathogenesis of the human T-cell leukaemia/lymphotropic virus Type-1 (HTLV-1)"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 1,
+      "title": "Detection and isolation of type C retrovirus particles from fresh and cultured lymphocytes of a patient with cutaneous T-cell lymphoma"
+    }
+  ]
+}

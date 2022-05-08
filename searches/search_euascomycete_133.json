@@ -1,0 +1,34 @@
+{
+  "main_text": [
+    {
+      "sentence": "In the filamentous ascomycete Nectria haematoccoca, two bistable phenomena have been described [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[36] and additional updating (Génolevures [37]), we find that the majority of genes yielding toxic fragments in this work are conserved (336/454 (74%)) between S. cerevisiae and other sequenced organisms, whereas 106 (23%) are ascomycete-specific and 10 (2.2%) are orphan genes.",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "Etude des mécanismes de deux variations contagieuses chez le Nectria haematococca Berck et Br"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 37,
+      "title": "Génolevures"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 36,
+      "title": "Genomic exploration of the hemiascomycetous yeasts: 19. Ascomycete-specific genes."
+    }
+  ]
+}

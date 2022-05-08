@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Additionally, neither autoantibody titers at first diagnosis nor autoantibody behaviour in the time course of the disease are prognostic markers for AIH-1 [14,15,47].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Splenectomy is followed by reduction of autoantibody peripheral blood titre [12,13].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This hampers the autoreactcive T-cell generation and autoantibody production [25].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In 1988 a second autoantibody marker of AIH-2 was recognized [19].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The autoantibody is organ specific but not species specific and was therefore called anti-LC1 [19].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The LKM type 1 autoantibody (anti-LKM-1) is the characteristic serologic marker for the diagnosis of AIH-2 [5,18,63,72].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 47,
+      "title": "Behaviour and significance of autoantibodies in type 1 autoimmune hepatitis"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 14,
+      "title": "Autoantibodies and defined target autoantigens in autoimmune hepatitis: an overview"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 15,
+      "title": "Autoantibodies and autoantigens in autoimmune hepatitis"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 13,
+      "title": "Long-term follow-up of autoimmune thrombocytopenic purpura (ATP) patients submitted to splenectomy"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 12,
+      "title": "Autoantibodies and autoantigens in chronic immune thrombocytopenic purpura"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 25,
+      "title": "The effect of iodide ingestion on the development of spontaneous lympholytic thyroiditis in the diabetesprone BB/W rat"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 19,
+      "title": "Antibody to liver cytosol (anti-LC1) in patients with autoimmune hepatitis type 2"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 19,
+      "title": "Antibody to liver cytosol (anti-LC1) in patients with autoimmune hepatitis type 2"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "Chronic active hepatitis associated with anti-liver kidney microsome antibody type I: A second type of \"autoimmune hepatitis\""
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 5,
+      "title": "Autoimmune hepatitis"
+    }
+  ]
+}

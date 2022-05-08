@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Growth using carbon monoxide (CO) as the sole energy source involves two key enzymes in the γ-proteobacterium Rhodospirillum rubrum - CO dehydrogenase (CODH) and an associated hydrogenase - which are encoded in the coo operons and induced by the CO-sensing transcriptional activator CooA [47].",
+      "b_link": [
+        "B_1",
+        "B_10"
+      ]
+    },
+    {
+      "sentence": "Monomeric isocitrate dehydrogenase from Azotobacter vinelandii (PDB code: 1itw [29]; SCOP domain: d1itwa_) belongs to the isocitrate/isopropylmalate dehydrogenase superfamily in SCOP.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "An example being the enzyme glyceraldehyde-3-phosphate dehydrogenase which according to the domain databases Pfam [10] and Superfamiliy [11] contains two domains, an NAD binding site and a dehydrogenase catalytic site.",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "According to Rivero et al., [21,22], succinate dehydrogenase (SDH; EC 1.3.5.1) was used as a marker for oxidative capacity and α-glycerophosphate dehydrogenase (GPD) was used as a marker for glycolytic capacity of individual muscle fibers.",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Alcohol dehydrogenase, long known to be expressed in tubules [23,24], is also a major transcript.",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The inhibition of lactate dehydrogenase (LDH)-C4 blocks capacitation of mouse spermatozoa in vitro [105].",
+      "b_link": [
+        "B_9"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 47,
+      "title": "CO sensing and regulation of gene expression by the transcriptional activator CooA."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 29,
+      "title": "Structure of the monomeric isocitrate dehydrogenase: evidence of a protein monomerization by a domain duplication"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "The SUPERFAMILY database in 2004: additions and improvements"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "The Pfam protein families database"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "Fibre size and metabolic properties of myosin heavy chain-based fibre types in rat skeletal muscle"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 22,
+      "title": "Interrelationships of myofibrillar ATPase activity and metabolic properties of myosin heavy chain-based fibre types in rat skeletal muscle"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 23,
+      "title": "Inter-specific analysis of Drosophila alcohol dehydrogenase by an immunoenzymatic assay using monoclonal antibodies."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 24,
+      "title": "Tissue specific expression of the Drosophila Adh gene: a comparison of in situ hybridization and immunocytochemistry."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 105,
+      "title": "Inhibition of lactate dehydrogenase C4 (LDH-C4) blocks capacitation of mouse sperm in vitro"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

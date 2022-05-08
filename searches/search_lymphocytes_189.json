@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "PWM was chosen to stimulate the lymphocyte cultures because it is known to activate both T and B lymphocytes in humans [29,30].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The migration of lymphocytes from the circulation to tissue might explain this rapid drop in lymphocyte count and the resulting immunopathological damage [27].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Decreased CD28 expression is described in dysfunctional peripheral T-lymphocytes from patients with hairy cell leukemia [14] and chronic lymphocytic leukemia [15].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Only mice expressing Tax through the granzyme B promoter showed Tax expression in mature T-lymphocytes and developed large granular lymphocytic leukemia [225].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[14] Initially, a peak of lymphocytes around the bile ducts occurs about 2 weeks after transfer of allogeneic cells from donor to host mouse; as the lymphocytic infiltration subsides, liver fibrosis increases.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Our findings of normal immunoglobulin- and lymphocyte subpopulations are not entirely in concordance with some earlier studies, where a reduction of circulating IgM and IgG as well as T- and B-lymphocytes has been observed [9,10].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 29,
+      "title": "The effect of cytokines and mitogens on the induction of C epsilon germline transcripts in a human Burkitt lymphoma B cell line"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 30,
+      "title": "B-cell function in canine X-linked severe combined immunodeficiency"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 27,
+      "title": "Immunorestitution disease involving the innate and adaptive response"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Zeta chain and CD28 are poorly expressed on T lymphocytes from chronic lymphocytic leukemia"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 14,
+      "title": "Impaired Expression of CD28 on T Cells in Hairy Cell Leukemia"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 225,
+      "title": "Development of leukemia in mice transgenic for the tax gene of human T-cell leukemia virus type I"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Histological changes of the liver in experimental graft-versus-host disease across minor histocompatibility barriers. VII. A light and electron microscopic study of the large bile duct"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 10,
+      "title": "Serum immunoglobulins and lymphocyte subpopulation derangements in Turner's syndrome"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 9,
+      "title": "Serum immunoglobulin M, G and A concentration levels in Turner's syndrome compared with normal women and men"
+    }
+  ]
+}

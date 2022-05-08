@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Divergence time (t), also called genetic distance or evolutionary time, is calculated from the p-distance, depending on assumptions derived from evolutionary models [11,24].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Gene transfer is an important evolutionary force [21,22,45,46].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "On such alignments, the model is expected to be similar to PFOLD [12], which uses an SCFG and an evolutionary substitution model but lacks an evolutionary treatment of gaps.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "weighted neighbor joining, is used to infer an evolutionary tree [10].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "As regards the high incidence of cancer at the old age, which seems to have no evolutionary significance, this can be explained from the viewpoint of the evolutionary theory of antagonistic pleiotropy [52].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Hence, parasite-host interactions can lead to extremely rapid evolutionary change [1,2].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 24,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 11,
+      "title": "Phylogenetic inferences from molecular sequences: review and critique"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "Horizontal gene transfer promoted evolution of the ability to propagate under anaerobic conditions in yeasts."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 46,
+      "title": "Lateral gene transfer and the nature of bacterial innovation."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 21,
+      "title": "The iron-sulfur cluster assembly genes iscS and iscU of Entamoeba histolytica were acquired by horizontal gene transfer."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 45,
+      "title": "Gene transfer from organelles to the nucleus: frequent and in big chunks."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 12,
+      "title": "RNA secondary structure prediction using stochastic context-free grammars and evolutionary history"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 10,
+      "title": "Weighted neighbor joining: a likelihood-based approach to distance-based phylogeny reconstruction"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 52,
+      "title": "Why do we age?"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 2,
+      "title": "Biological and biomedical implications of the co-evolution of pathogens and their hosts"
+    }
+  ]
+}

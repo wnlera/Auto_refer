@@ -1,0 +1,86 @@
+{
+  "main_text": [
+    {
+      "sentence": "Another study of hip replacement patients found scores of 62 prior to surgery, with improvements to 71 following surgery [28], a similar improvement pre- to post-surgery.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Improvements in physical HRQOL appear to be unrelated to the age of patients [25], whereas elderly patients exhibit a stronger improvement in mental HRQOL after medical intervention [24,26].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The reviewers also conclude that budesonide exhibits a significant improvements favouring high dose (1600 μg/d) over low dose (200 μg/d) for improvement in FEV1 in severe asthma [12].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Many studies assessing change have focused on improvement only; the current investigation assessed deterioration and improvement [14,21,38,39].",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 28,
+      "title": "Individual quality of life in patients undergoing hip replacement"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 24,
+      "title": "Change in quality of life in the year following cardiac rehabilitation"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 26,
+      "title": "Cardiac rehabilitation in the elderly"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 25,
+      "title": "Percutaneous coronary revascularization in elderly patients: impact on functional status and quality of life"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 12,
+      "title": "Inhaled budesonide at different doses for chronic asthma (Cochrane Review)"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Comparative responsiveness of locomotor tests and questionnaires used to follow early recovery after total knee arthroplasty"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 38,
+      "title": "Responsiveness of the WOMAC osteoarthritis index as compared with the SF-36 in patients with osteoarthritis of the legs undergoing a comprehensive rehabilitation intervention"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 21,
+      "title": "Comparative responsiveness of measures of pain and function after total hip replacement"
+    }
+  ]
+}

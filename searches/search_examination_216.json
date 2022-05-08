@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Folstein mini-mental state examination (MMSE) [27]",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Blood samples were obtained at the examination centers [14].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The SLN examination was performed as described elsewhere [6].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The examination methods have been reported in detail previously [6,7,16].",
+      "b_link": [
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In Korea, the MMSE was translated into two versions, the Korean version of the Mini-Mental State Examination (MMSE-K) and the Korean Mini-Mental State Examination (K-MMSE) [10,11].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The cohort and examination procedure are described in detail elsewhere [12].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The complete examination programme is described in Andersen, Lolk et al, 1997 [10].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 27,
+      "title": "\"Mini-mental state\": a practical method for grading the cognitive state of patients for the clinician"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 14,
+      "title": "The Third National Health and Nutrition Examination Survey, 1988-94. Reference manuals and reports (CD ROM)."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "Sentinel node biopsy in breast cancer"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 7,
+      "title": "Standardization of blood pressure measurement in an international comparative study"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 6,
+      "title": "Hypertension prevalence in seven populations of African origin"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Hypertension and blood pressure level in six European countries, Canada and the US"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 10,
+      "title": "Modification of the mini-mental state examination for use in the elderly in a non-western society: Part I. Development of Korean Version of Mini-Mental State Examination"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 11,
+      "title": "A Validity study on the Korean Mini-Mental State Examination (K-MMSE) in dementia patients"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 12,
+      "title": "Detailed clinical and ultrasound examination of children and adolescents in a Schistosoma mansoni endemic area in Kenya: hepatosplenic disease in the absence of portal fibrosis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 10,
+      "title": "Prevalence of very mild to severe dementia in Denmark"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Patients with high blood pressure and associated impaired glucose tolerance or overt diabetes mellitus type 2, as a group, are insulin resistant, [28] glucose intolerant [29-31], hyperinsulinemic [32-36], dyslipidemic [37-42] and with evidence of endothelial dysfunction [43,44].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Glucose intolerance is the major adverse effect seen during the initial infusion period [179].",
+      "b_link": [
+        "B_4",
+        "B_10"
+      ]
+    },
+    {
+      "sentence": "Therefore, type 2 diabetes can be considered a lipid disorder as well as a disease of glucose intolerance [9].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "As lightly lower prevalence of lactose intolerance (16%) was reported in the study of Caucasian women in the US [11].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Administration of excess IGFBP-1, or overexpression of IGFBP-1 in transgenic mice, leads to glucose intolerance and hyperinsulinaemia [4,5].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Long-term high fat feeding, leading to glucose intolerance, occurs with a simultaneous decrease in mRNA expression of Pnlip [16].",
+      "b_link": [
+        "B_9"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 28,
+      "title": "Role of insulin resistance in human disease"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 43,
+      "title": "Soluble adhesion P-selectin and endothelial dysfunction in essential hypertension: implications for atherogenesis? A preliminary report"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 44,
+      "title": "Elevated levels of circulating cell adhesion molecules in uncomplicated essential hypertension"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 179,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 9,
+      "title": "What if Minkowski had been ageusic? An alternative angle on diabetes"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "Osteoporosis knowledge, calcium intake, and weight-bearing physical activity in three age groups of women"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 4,
+      "title": "Insulin-like growth factor-binding protein-1 modulates blood glucose levels"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 5,
+      "title": "Dysregulation of the insulin/IGF binding protein-1 axis in transgenic mice is associated with hyperinsulinemia and glucose intolerance"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 16,
+      "title": "Effect of long-term high-fat feeding on the expression of pancreatic lipases and adipose tissue uncoupling proteins in mice"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Dyslipidemia in type 2 diabetes are most frequently characterized by elevation of total serum triglycerides, of very low density lipoprotein-triglyceride (VLDL-TG) and low level of high density lipoprotein-cholesterol (HDL-C) [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Studies on transgenic mice overexpressing human apo A-V showed a decreased level of triglyceride, whereas knock-out mice showed an increased level of triglyceride [3].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Moreover apo A-V regulates levels of circulating triglyceride and cholesterol [4].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The adrenalectomy resulted in significantly reduced plasma insulin, glucose and triglyceride levels [84].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Contrary to Esteve et al., who have reported no significant difference in triglyceride concentration with the apo A-V polymorphism in type 2 diabetic patients [6], our results showed, then, that SNP3 is associated with triglyceride level.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Non-fasting triglyceride measurements are still useful for predicting cardiovascular disease and death[31].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Lipoprotein lipase (LPL) hydrolyses triglycerides (TG) in circulating lipoproteins [1,2].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Although HIV infection itself is associated with above-normal triglyceride levels due to disease-related reduction in triglyceride clearance and increase in de-novo hepatic lipogenesis [9], some PIs exacerbate this lipid elevation by down-regulating low density lipoprotein (LDL)-receptor expression [10], interfering with the proteasome-mediated degradation of activated nuclear sterol regulatory element-binding protein-1 [11], and reducing triglyceride clearance further [12].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "Diabetic Dyslipidemia"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 3,
+      "title": "An Apolipoprotein influencing Triglycerides in Humans and Mice revealed by Comparative Sequencing"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Adenoviral overexpression of apolipoprotein A-V reduces serum levels of triglycerides and cholesterol in mice"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 84,
+      "title": "Effect of adrenalectomy and glucocorticoid replacement on development of obesity"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 6,
+      "title": "SNP3 polymorphism in apo A-V gene is associated with small dense LDL particles in type 2 diabetes"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 31,
+      "title": "Relation of triglyceride levels, fasting and nonfasting, to fatal and nonfatal coronary heart disease"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "Lipoprotein and hepatic lipases in lipoprotein metabolism"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 1,
+      "title": "Lipoprotein lipase: physiology, biochemistry, and molecular biology"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 9,
+      "title": "Lipids, lipoproteins, triglyceride clearance, and cytokines in human immunodeficiency virus infection and the acquired immunodeficiency syndrome"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 11,
+      "title": "HIV protease inhibitor induces fatty acid and sterol biosynthesis in liver and adipose tissues due to the accumulation of activated sterol regulatory element-binding proteins in the nucleus"
+    }
+  ]
+}

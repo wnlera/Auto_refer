@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "These two genes are part of a signal transduction cascade that regulates timing of developmental events during larval development [39].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "That DNA methylation is not critical to the developmental appearance of histone modifications is further supported by recent murine studies showing that differential histone modification of the Xs in early development precede differential developmental appearance of DNA methylation [33,34].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Following the description of mouse embryo development by Theiler [17], the anatomy ontology is organised into 26 developmental stages, referred to as Theiler stages (TS1-TS26).",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The term pervasive developmental disorder (PDD) refers to a range of disorders with onset in childhood characterised by abnormalities in the domains of language development, communication abilities and social interactions and by a rigid, repetitive pattern of behaviours and interests [1].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Intra-rater reliability was established for only one critical appraisal tool as part of its empirical development process [40], whereas inter-rater reliability was reported for two systematic review tools [20,36] (for one of these as part of the developmental process [20]) and seven experimental critical appraisal tools [38,40,45,51,55,56,63] (for two of these as part of the developmental process [40,51]).",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 39,
+      "title": "Temporal pattern formation by heterochronic genes"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 33,
+      "title": "Histone H3 lysine 9 methylation occurs rapidly at the onset of random X chromosome inactivation"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 34,
+      "title": "Methylation of histone H3 at Lys-9 is an early mark on the X chromosome during X inactivation"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 17,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 36,
+      "title": "Guidelines for meta-analyses evaluating diagnostic tests"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 51,
+      "title": "Development of a tool to rate the quality assessment of randomized controlled trials using a Delphi technique"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 38,
+      "title": "Instruments for assessing the quality of drug studies published in the medical literature"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 40,
+      "title": "The feasibility of creating a checklist for the assessment of the methodological quality both of randomised and non-randomised studies of health care interventions"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 55,
+      "title": "Interarter reliability of the modified Jadad quality scale for systematic reviews of Alzheimer's disease drug trials"
+    }
+  ]
+}

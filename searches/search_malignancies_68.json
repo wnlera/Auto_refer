@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "It constitutes 90% of periorbital malignancies [1,2].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Histologic types of endometrial malignancies were characterized according to the WHO classification [12].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Mutations in the FADD gene containing locus are frequently observed in human malignancies [2].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The frequent use of radiotherapy for abdominal and pelvic malignancies results in an increased risk of radiation enteritis [14].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "However, it is the site of only 6–25% of GI neoplasms and only 2% of GI malignancies [2,6].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Several other studies have also found an increased risk of AML [12] and other hematological malignancies associated with hives [6,9,18].",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 2,
+      "title": "Basal cell carcinoma of the skin"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 1,
+      "title": "Factors in the successful surgical management of basal cell carcinoma of the eyelids"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 12,
+      "title": "World Health Organization International Histologic Classification of Tumors."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 2,
+      "title": "FLJ10261 gene, located within the CCND1-EMS1 locus on human chromosome 11q13, encodes the eight-transmembrane protein homologous to C12orf3, C11orf25 and FLJ34272 gene products"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 14,
+      "title": "Radiation enteritis"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 6,
+      "title": "Tumors of small intestine"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "Malignant tumors of small intestine"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 6,
+      "title": "Allergy and risk of cancer. A prospective study using NHANESI followup data"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 9,
+      "title": "Environmental risk factors for non-Hodgkin's lymphoma: a population-based case-control study in Languedoc-Roussillon, France"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 12,
+      "title": "Acute myeloid leukemia in adults: a case-control study in Yorkshire"
+    }
+  ]
+}

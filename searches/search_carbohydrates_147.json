@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Depressed subjects tend to consume more carbohydrates in their diets than non-depressed individuals [15], and they show heightened preference for sweet carbohydrate or fat rich foods during depressive episodes [16].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In the colon, unabsorbed carbohydrates undergo bacterial fermentation to D-lactate, short-chain fatty acids (acetate, propionate and butyrate), which can not be metabolized by D-lactate dehydrogenase; and these small molecules are absorbed from colon, \"carbohydrate salvage\" [21,77].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "None of the comparative low-carbohydrate versus high-carbohydrate studies done in support of the carbohydrate loading hypothesis sustained the low carbohydrate diet for more than 2 weeks [5], and most (including the classic report of Christensen and Hansen [2]) maintained their low-carbohydrate diets for 7 days or less.",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "High GI carbohydrates have been reported to reduce appetite in the short term, whereas low GI carbohydrates possess a more delayed effect on energy intake controls [55].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In a subsequent study, subjects were asked to refrain from intense exercise throughout the study, and a LCD (~3% carbohydrate) was compared to a mixed diet (~55–60% carbohydrate) instead of a high-carbohydrate diet [20].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 15,
+      "title": "Comparison of nutrient intake among depressed and nondepressed individuals"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 16,
+      "title": "The effect of food intake on mood"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 77,
+      "title": "AGA technical review on short bowel syndrome and intestinal transplantation"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 21,
+      "title": "The management of short bowel syndrome"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 5,
+      "title": "Diet, muscle glycogen, and physical performance"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 2,
+      "title": "Zur Methodik der respiratorischen Quotient-Bestimmungen in Ruhe and bei Arbeit"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 55,
+      "title": "Effect of glycemic carbohydrates on short-term satiety and food intake"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 20,
+      "title": "Pyruvate overrides inhibition of PDH during exercise after a low-carbohydrate diet."
+    }
+  ]
+}

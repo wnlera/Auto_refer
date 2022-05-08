@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Our in vivo results strongly support previous in vitro results recapitulating Tat transactivation that showed immunodepletion of hSpt5 significantly inhibited Tat transactivation [29,34].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "As noted before, Tax was initially discovered as a transactivator of the HTLV-1 gene expression [24].",
+      "b_link": [
+        "B_3",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Gal4/Vp16, a fusion of the yeast Gal4 DNA-binding domain with the strong Vp16 transactivation domain of the herpes simplex virus [8] can be used to enhance transactivation efficacy.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "CV-1 cell transactivation assays have been described in detail [17,33].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Finally, there is a Tax transactivator independent site specific for the B cell transcription factors PU.1 and Spi-B [13].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "This fusion protein inhibits both Tat transactivation and Rev mediated nuclear transport [18].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The TxREs are essential for the promoter's responsiveness to the Tax transactivator protein encoded by the 3' end of the proviral genome [5].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 34,
+      "title": "Tat-SF1 protein associates with RAP30 and human SPT5 proteins"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 29,
+      "title": "Role of the human homolog of the yeast transcription factor SPT5 in HIV-1 Tat-activation"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 24,
+      "title": "The pX protein of HTLV-I is a transcriptional activator of its long terminal repeats"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 8,
+      "title": "GAL4-VP16 is an unusually potent transcriptional activator"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 17,
+      "title": "A Conserved Nuclear Receptor Consensus Sequence (DR-4) Mediates Transcriptional Activation of the Chicken CYP2H1 Gene by Phenobarbital in a Hepatoma Cell Line"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 33,
+      "title": "Multiple enhancer units mediate drug induction of cyp2h1 by xenobiotic-sensing orphan nuclear receptor chicken xenobiotic receptor"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 13,
+      "title": "Identification and characterization of a PU.1/Spi-B binding site in the bovine leukemia virus long terminal repeat"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "Gene therapy for infectious diseases"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 5,
+      "title": "Bovine leukemia virus transcription is controlled by a virus-encoded trans-acting factor and by cis-acting response elements"
+    }
+  ]
+}

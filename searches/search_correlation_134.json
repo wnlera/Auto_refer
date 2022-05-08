@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "If correlations are well described by the Pearson correlation and the distribution of data is approximately Gaussian like, the relationship between the mutual information and the Pearson correlation given by [32]",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Indeed, all item-scale correlations were greater than the recommended correlation of 0.40 for adequate item-internal consistency [17].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Even though the MZ twin correlations on response speed were higher than the DZ correlations (as in [25]), the highest correlation was observed for the DOS twins, for which we have no explanation.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Some authors have concluded that no correlation exists [32-35], yet others find significant correlations between diabetes and loss in the low [36], mid [36,37], and high [37] frequency ranges.",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "For the verification of the relation between the population size and the critical mutation rate we used Pearson's correlation coefficient and a significance level of 5% using Bonferroni's correction [34].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In contrast we have not found any correlation of undergraduate or postgraduate academic achievement with personality [15], and although some studies have found correlations of conscientiousness with academic achievement [33], this does seem to vary according to the learning context [34,35].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 32,
+      "title": "Measuring distances between variables by mutual information"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 17,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 25,
+      "title": "Genetic analysis of IQ, processing speed and stimulus-response incongruency effects."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 36,
+      "title": "Diabetes mellitus and hearing loss"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 37,
+      "title": "Hearing Loss in Insulin Dependent Diabetes Mellitus"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 34,
+      "title": "Analyzing tables of statistical tests"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 33,
+      "title": "Factors associated with success in medical school and in a medical career: systematic review of the literature"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 34,
+      "title": "A pilot study of the roles of personality, references and personal statements in relation to performance over the five years of a medical degree"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 15,
+      "title": "A levels and intelligence as predictors of medical careers in UK doctors: 20 year prospective study"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 35,
+      "title": "Commentary: How to derive causes from correlations in educational studies"
+    }
+  ]
+}

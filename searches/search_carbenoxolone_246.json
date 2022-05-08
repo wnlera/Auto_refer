@@ -1,0 +1,51 @@
+{
+  "main_text": [
+    {
+      "sentence": "Other inhibitors include liquorice derivatives carbenoxolone (CBX) and glycyrrhetinic acid (GE) [164].",
+      "b_link": [
+        "B_1",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Effects of inhibition of GJC were evaluated by treating the cultures with carbenoxolone (CBX); controls received its inactive analog, glycyrrhyzic acid (GZA) [23] (both from Sigma, France).",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In agreement with this conclusion, treatment of obese Zucker rats with carbenoxolone slightly improved lipid profile but had no effect on obesity and insulin resistance, because only the hepatic 11β-HSD1 but not that in adipose tissue was inhibited [141].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 164,
+      "title": "Selective inhibition of human type 1 11β-hydroxysteroid dehydrogenase by synthetic steroids and xenobiotics"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 23,
+      "title": "Reversible inhibition of intercellular junctional communication by glycyrrhetinic acid"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 141,
+      "title": "Is 11β-hydroxysteroid dehydrogenase type 1 a therapeutic target? Effects of carbenoxolone in lean and obese Zucker rats"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

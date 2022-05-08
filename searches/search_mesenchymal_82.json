@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Origin of extraabdominal fibromatosis from any mesenchymal tissue is now well recognized [1,2].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In children and adolescents, neoplastic lesions are often benign and are of mesenchymal origin [3,4].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Treatment of the cultures with TGFβ1 at days 3–5 may augment the number of mesenchymal progenitors, as TGFβ1 is thought to inhibit the proliferation of most cells, but to stimulate some mesenchymal cells such as osteoblasts and chondrocytes [8].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Here, the phagocytosis of apoptotic cells during embryogenesis is taken over by 'stand-in' mesenchymal neighbors [47].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "This expression of c-kit distinguishes GIST from true leiomyomas, leiomyosarcomas, and other mesenchymal tumors of the GI tract [1,2].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Epimorphin is a mesenchymal cell surface-associated protein that modulates epithelial morphogenesis in embryonic mouse organs including lungs and skin [15].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In the WHO soft tissue volume, PEComas are defined as \"mesenchymal tumors composed of histologically and immunohistochemically distinctive perivascular epithelioid cells\" [13].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 2,
+      "title": "Aggressive fibromatosis"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 1,
+      "title": "Fibromatosis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Tumours and tumor-like lesions of the oral cavity and related structures in Israel children"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 3,
+      "title": "Paediatric tumours of the jaws in Northern Nigeria"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "The transforming growth factor-betas"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 47,
+      "title": "Mesenchymal cells engulf and clear apoptotic footplate cells in macrophageless PU.1 null mouse embryos"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "Small bowel gastrointestinal stromal tumors and ampullary cancer in Type 1 neurofibromatosis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 1,
+      "title": "Gastrointestinal stromal tumors (GISTs): definition, occurrence, pathology, differential diagnosis and molecular genetics"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 15,
+      "title": "Epimorphin: a mesenchymal protein essential for epithelial morphogenesis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 13,
+      "title": "Neoplasms with perivascular epithelioid cell differentiation (PEComas)"
+    }
+  ]
+}

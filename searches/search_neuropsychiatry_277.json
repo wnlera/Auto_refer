@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "All subjects were interviewed using the Schedules for Clinical Assessment in Neuropsychiatry (SCAN) [15,16].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The MINI International Neuropsychiatric Interview [20] was used to diagnose Axis-I disorders according to DSM-IV.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "In order to evaluate screening scales there is a need for a \"golden standard\" and several studies has used Schedules for Clinical Assessment in Neuropsychiatry (SCAN) [15,16].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "For example, the SCAN (Schedules for Clinical Assessment in Neuropsychiatry) and the computerized version, the SCAN 2.1 system, are systems developed by the WHO (World Health Organization) [40,41].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "One such method, termed MMRM (Mixed Model Repeated Measures [5]), has been studied extensively in the context of neuropsychiatric clinical trials [6-9].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The diagnosis of MDD was confirmed by the Mini International Neuropsychiatric Interview (MINI) [44], a standardized diagnostic interview based on DSM-IV criteria.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Diagnosis was confirmed using the MINI Neuropsychiatric Interview (Version 5.00, 1998) [28] to ensure compatibility with the Diagnostic and Statistical Manual for Mental Disorders, Fourth Edition (DSM-IVTR)[29] criteria for OCD.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 16,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 15,
+      "title": "SCAN: Schedules for Clinical Assessment in Neuropsychiatry"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 20,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "The validity of the Hamilton and Montgomery-Åsberg depression rating scales as screening for depression and diagnostic tools for depression in Parkinson's disease"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 16,
+      "title": "A comparison of self-report and clinical diagnostic interviews for depression"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 41,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 40,
+      "title": "SCAN. Schedules for Clinical Assessment in Neuropsychiatry"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 5,
+      "title": "Assessing response profiles from incomplete longitudinal clinical trial data under regulatory considerations"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 44,
+      "title": "The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 29,
+      "title": "EGGOG"
+    }
+  ]
+}

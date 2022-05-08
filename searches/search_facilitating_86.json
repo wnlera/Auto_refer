@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "In addition, LABA may prime the glucocorticoid receptor facilitating activation by corticosteroids [65,66].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "MMP-7 can enhance tissue repair by facilitating migration of epithelial cells [16].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Reviews suggest that theoretical advances in facilitating behaviour maintenance have not been applied in intervention programmes [27,28].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Hence an impairment of its trophic endothelial activity may be one of several factors facilitating alveolar septal cell apoptosis [4,7].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Such facilitation occurs in the microglial handling of Aβ [45].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 65,
+      "title": "Ligand-independent activation of the glucocorticoid receptor by β2-adrenergic receptor agonists in primary human lung fibroblasts and vascular smooth muscle cells"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 66,
+      "title": "Scientific rationale for inhaled combination therapy with long-acting β2-agonists and corticosteroids"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 16,
+      "title": "Matrix metalloproteinases in lung biology."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 28,
+      "title": "Physical exercise habit: on the conceptualization and formation of habitual health behaviours"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 27,
+      "title": "Does physical activity prevent weight gain - a systematic review"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Inhibition of VEGF receptors causes lung cell apoptosis and emphysema"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 7,
+      "title": "Endothelial cell death and decreased expression of vascular endothelial growth factor and vascular endothelial growth factor receptor 2 in emphysema"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 45,
+      "title": "Microglial activation and amyloid-beta clearance induced by exogenous heat-shock proteins"
+    }
+  ]
+}

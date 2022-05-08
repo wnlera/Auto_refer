@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "On the other hand, scintigraphic perfusion imaging techniques have limited spatial resolution [18].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The scintigraphy [5] has a lower time resolution compared to the magnetic localization, and due to radiation it is not appropriate for examinations with healthy probands.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The addition of early lateral views to the conventional 99mTc sestamibi scintigraphy gives more information to the surgeon, concerning the depth of the lesion in atypical sites [20].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[16] have demonstrated that it is also possible to utilize measurement of left ventricular ejection fraction and stroke volume by myocardial thallium scintigraphy as a means of AV interval optimization.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The combination of 99mTc sestamibi scintigraphy and CT scan of the chest and neck gives important information to proceed with surgery and to minimize the risk of re-operation for recurrent hyperparathyroidism in the future [3,16,18,19].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The American-European Consensus Classification Criteria for pSS include evaluation of salivary gland dysfunction by means of parotid sialography, salivary gland scintigraphy, whole saliva sialometry and labial salivary gland biopsy as well as questionnaire concerning symptoms of oral dryness [13].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "As shown by radiographic and scintigraphic observations, heterotopic bone formation evolves from an early appearance of soft tissue densification and attenuation of the muscle signal to a mineral signal [8].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 18,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "Scintigraphic assessment of esophageal motility: what does it show and how reliable is it?"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 20,
+      "title": "99m-Tc sestamibi scintigraphy in primary hyperparathyroidism. Importance of lateral projections using a pin-hole collimator"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 16,
+      "title": "Radionuclide evaluation of dual chamber pacing: comparison between variable AV intervals and ventricular pacing"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 18,
+      "title": "Technetium-99m sestamibi scintigraphy and helical CT together in patients with primary hyperparathyroidism: a prospective clinical study"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Update on the management of parathyroid tumors"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 3,
+      "title": "Parathyroid imaging with Tc-99m sestamibi planar and SPECT scintigraphy"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 19,
+      "title": "Ectopic parathyroid adenoma localized with sestamibi SPECT and image-fused computed tomography"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 13,
+      "title": "Classification criteria for Sjögren's syndrome: a revised version of the European criteria proposed by the American-European Consensus Group"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "Evaluation of ectopic bone by CT"
+    }
+  ]
+}

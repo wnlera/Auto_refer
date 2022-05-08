@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Another retrospective study using unmodified niacin concluded similar results [7].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Two other retrospective studies found peak sperm concentrations in the spring and winter [4,21].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The DEMETER coupled models and the DEMETER retrospective forecast (hindcast) integrations are described elsewhere [4].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "In a recent study Hoff et al [19] reported the results of a retrospective cohort in Norway.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "[34] Because of the retrospective nature of this study we were not able to systematically review placental pathology.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The effectiveness of RFA has been demonstrated in few retrospective studies but long-term results are awaited [24].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The limitations of these three comparisons [12,16,17] are that they were retrospective and were performed by the same group.",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "Niacin treatment of the atherogenic lipid profile and Lp(a) in diabetes"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 21,
+      "title": "New data confirming a circannual rhythm in spermatogenesis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "Male factors contributing to the seasonality of human reproduction"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 4,
+      "title": "Development of a European Ensemble System for Season to Inter-annual Prediction (DEMETER)"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 19,
+      "title": "Myasthenia gravis: consequences for pregnancy, delivery and the newborn"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 34,
+      "title": "Periventricular leukomalacia, inflammation and white matter lesions within the developing nervous system"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 24,
+      "title": "Percutaneous radiofrequency ablation of liver metastases in potential candidates for resection: the \"test-of-time approach\""
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 16,
+      "title": "Noninvasive prediction of fibrosis in patients with chronic hepatitis C"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 17,
+      "title": "The predictive value of Fibrotest vs. APRI for the diagnosis of fibrosis in chronic hepatitis C"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 12,
+      "title": "Biochemical markers of liver fibrosis in patients infected by Hepatitis C Virus: Longitudinal validation in a randomized trial"
+    }
+  ]
+}

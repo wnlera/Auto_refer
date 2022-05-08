@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "The apoptosis index has been found to be of significant prognostic significance in patients with high-grade astrocytomas [33].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Secondly, microarray data were analyzed using 'Significance of Analysis of Microarrays' (SAM, Stanford) to identify significant changes in gene expression among diet groups [67], using a false discovery rate (FDR) cutoff of 0.5%.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In literature of microarray processing, α = 0.01 is often used as the genome wide significant level, so the gene-specific significance level is: α* = α/(2n) Recently a new modification of the MMM algorithm, Mod2MMM hereafter, was introduced [6].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "In this regression model, the selected predictors (variables which were significant or approached significance in the bivariate analysis) were forced into the model and the squared semi-partial correlation coefficient was calculated to quantify the unique contribution of each predictor to the variance in the dependent measure [23].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Significance level was set at p < 0.05 [23].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "In a recent Cochrane meta-analysis, statistically significant, dose-dependent suppression by budesonide of 24 hour urinary free cortisol excretion and serum cortisol post synthetic ACTH infusion over the dose range 800 – 3200 μg/d were apparent, but the authors concluded that the clinical significance of these findings is unclear [12].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Though these appear to have no function significance [26,27,36].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Statistical significance was determined using the Fisher Exact Test [28].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 33,
+      "title": "Pronostic significance of an apoptotic index and apoptosis/proliferation ratio for patients with high grade astrocytomas"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 67,
+      "title": "Significance analysis of microarrays applied to the ionizing radiation response"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "Modified nonparametric approaches to detecting differentially expressed genes in replicated microarray experiments"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 23,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 23,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 12,
+      "title": "Inhaled budesonide at different doses for chronic asthma (Cochrane Review)"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 36,
+      "title": "Human Growth Hormon and Extracellular Domain of its Receptor: Cristal Structure of the Complex"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 26,
+      "title": "Comparison of a Structural and a Functional Epitope"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 27,
+      "title": "The Functional Binding Epitope of a High Affinity Variant of Human Growth Hormone Mapped by Shotgun Alanin-scanning Mutagenesis: Insights into the Mechanisms Responsible for Improved Affinity"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 28,
+      "title": "EGGOG"
+    }
+  ]
+}

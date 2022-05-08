@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The amide-linked fatty acid function seems to have a profound stabilizing effect on cholesterol-sphingolipid interactions [40].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "We applied variance stabilizing normalization (VSN) [45] using 25% of the genes to normalize all single channels to each other.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "This is consistent with experimental evidence that the sequence divergence between Drosophila melanogaster and Drosophila pseudoobscura involves compensatory mutations and stabilising selection between different binding sites [43].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "To overcome this problem Cressie and Read [13] have explored the use of several variance stabilising transformations, but the results on the transformed scale are difficult to interpret.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Specific RNA-binding proteins are also known to promote RNA folding by either guiding its folding or stabilizing its correct structure [30,31].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Exogenous FGF2 administered before or after the induced ischemia lessened cell death in CA1, probably in part by stabilizing CP functions [28,50,61].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "On the other hand, RUNX1-CBFA2T1 may interfere with p53-dependent cell cycle arrest and apoptosis by suppressing the p53-stabilizing protein p14ARF [17].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 40,
+      "title": "Interaction of cholesterol with sphingomyelin in monolayers and vesicles"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 45,
+      "title": "Variance stabilization applied to microarray data calibration and to the quantification of differential expression"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 43,
+      "title": "Evidence for stabilizing selection in a eukaryotic enhancer element"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 13,
+      "title": "Spatial Data analysis of regional counts"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 31,
+      "title": "A new model for the three-dimensional folding of Escherichia coli 16 S ribosomal RNA. 2. The RNA-protein interaction data"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 30,
+      "title": "The neurospora CYT-18 protein suppresses defects in the phage T4 td intron by stabilizing the catalytically active structure of the intron core"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 61,
+      "title": "The role of FGF-2 in the response to cerebral ischemia: FGF-2 expression in the hippocampus and choroid plexus, and the neuroprotective effects of intraventricular FGF-2 infusion in a rat model of transient forebrain ischemia [abstract]"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 28,
+      "title": "The time-course of DNA fragmentation in the choroid plexus and the CA1 region following transient global ischemia in the rat brain"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 50,
+      "title": "Cell death in the choroid plexus following transient forebrain global ischemia in the rat"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 17,
+      "title": "The t(8;21) fusion protein, AML1 ETO, specifically represses the transcription of the p14(ARF) tumor suppressor in acute myeloid leukemia"
+    }
+  ]
+}

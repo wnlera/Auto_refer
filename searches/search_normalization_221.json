@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "[5] summarized several normalization methods for cDNA microarray data such as global normalization, dye-swap normalization, block-wise normalization, and scale normalization.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[13] compared a number of normalization methods, including global, linear and LOWESS normalization methods.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "quantile normalization [15].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[10] presented subset normalization to adjust for location biases combined with global normalization for intensity biases.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "[9] suggested iterative normalization of cDNA microarray data to estimate normalization coefficients and to identify control gene set.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "[11] proposed an iterative normalization method for cDNA microarray data by estimating a normalization coefficient and identifying control genes.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "We compared three different normalization methods: MAS5.0, RMA [14-16] and dChip [17], to evaluate the effect of normalization methods on interspecies reproducibility.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[14] used a mixed model for normalization.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "[6] summarized a number of normalization methods for dual labeled microarrays such as global normalization and robust locally weighted scatter plot smoothing (LOWESS, Cleveland [7]).",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "Normalization for cDNA microarray"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 13,
+      "title": "Evaluation of normalization methods for microarray data"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 15,
+      "title": "A comparison of normalization methods for high density oligonucleotide array data based on bias and variance"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "Normalization methods for analysis of microarray gene-expression data"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 9,
+      "title": "Iterative normalization of cDNA microarray data"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "Iterative normalization of cDNA microarray data"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 17,
+      "title": "Model-based analysis of oligonucleotides arrays: Expression index computation and outlier detection"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Assessing gene significance from cDNA microarray expression data via mixed models"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 7,
+      "title": "Robust locally weighted regression and smoothing scatterplots"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 6,
+      "title": "Normalization for cDNA microarray data: a robust composite method addressing single and multiple slide systematic variation"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Intracellular localization studies revealed that expression of Vpr induces a relocalization of MOV34 that shifts from a cytoplasmic to a nuclear localization pattern [116,117].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Its nuclear localization is mediated by five independent nuclear localization signals, each of which alone is capable of targeting Ptdsr to the cell nucleus [29].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "This nuclear localization is mediated by CCNF [24].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Two weak bipartite nuclear localization signals (NLS) [14] can be detected.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "by affecting the localization of proteins to the cell pole [9].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 116,
+      "title": "HIV-1 Vpr interacts with a human 34-kDa mov34 homologue, a cellular factor linked to the G2/M phase transition of the mammalian cell cycle"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 117,
+      "title": "Carboxyl terminus of hVIP/mov34 is critical for HIV-1-Vpr interaction and glucocorticoid-mediated signaling"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 29,
+      "title": "Nuclear localization of the phosphatidylserine receptor protein via multiple nuclear localization signals"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 24,
+      "title": "Cyclin F regulates the nuclear localization of cyclin B1 through a cyclin-cyclin interaction"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 14,
+      "title": "Nuclear targeting sequences – a consensus?"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 9,
+      "title": "An actin-like gene can determine cell polarity in bacteria."
+    }
+  ]
+}

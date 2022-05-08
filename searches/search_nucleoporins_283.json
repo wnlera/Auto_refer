@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Initial studies revealed that HIV-1 Vpr bound to the FG-rich region of several nucleoporins including the human p54 and p58 Nups, the rodent POM121, and the yeast NUP1P [71,73,74], but a direct interaction with the human CG1 nucleoporin was more recently reported [70].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Vpr interaction with nucleoporins has been reported before [20].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "A polypeptide profile from purified rat liver NPCs revealed ~50 putative nucleoporins [3].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "NPC corresponds to a 125-MDa structure consisting of 30 distinct nuclear pore proteins, named nucleoporins (Nups) [82].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "These motifs typical for nucleoporins and have been shown to interact with components of the soluble transport machinery [3,9].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In the list of metazoan nucleoporins, there are only two integral membrane proteins, gp210 [4-6] and POM121 [7,8].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 71,
+      "title": "Viral protein R regulates docking of the HIV-1 preintegration complex to the nuclear pore complex"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 74,
+      "title": "Interaction of the human immunodeficiency virus type 1 Vpr protein with the nuclear pore complex"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 70,
+      "title": "Docking of HIV-1 Vpr to the nuclear envelope is mediated by the interaction with the nucleoporin hCG1"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 73,
+      "title": "HIV-1 Vpr interacts with the nuclear transport pathway to promote macrophage infection"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 20,
+      "title": "Interaction of the human immunodeficiency virus type 1 Vpr protein with the nuclear pore complex"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 3,
+      "title": "Proteomic analysis of nucleoporin interacting proteins"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 82,
+      "title": "Proteomic analysis of the mammalian nuclear pore complex"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 9,
+      "title": "Dissecting the interactions between NTF2, RanGDP, and the nucleoporin XFXFG repeats"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 8,
+      "title": "The large C-terminal region of the integral pore membrane protein POM121, is facing the nuclear pore complex"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 7,
+      "title": "An integral membrane protein of the nuclear envelope contains a nucleoporin-like region"
+    }
+  ]
+}

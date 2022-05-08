@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "The ACE polymorphism identified in 1990 by Rigat and co-workers [8] is one of the best-researched polymorphisms.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "While plasma levels of the proinflammatory cytokine TNF-α are regulated by several polymorphisms of the TNF-α gene [39], it is the TNF-α G-308A gene polymorphism which has been most intensely scrutinized as one candidate polymorphism underlying CAD [8].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Furthermore, two polymorphisms close to the Ala455Val polymorphism, Arg385Ser and Pro477Ser, have been shown to influence the expression and function of thrombomodulin in a tissue culture model [23].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "These include DNA sequence surveys from one or a few number of loci [17-21], repetitive element polymorphism-PCR [22,23] and amplified fragment length polymorphisms (AFLP) [24-27].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "RFLP (restriction fragment length polymorphism) and restriction analysis were used to determine the frequencies of the I/D polymorphisms of the ACE gene, and homo-/ heterozygoty of the M235T AGT gene[20,21].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "A few studies have shown that the THBD Ala455Val polymorphism is associated with ischemic heart disease [9,10], but we know of no prior reports examining this polymorphism's association with stroke.",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 8,
+      "title": "An Insertion Deletion Polymorphism in the Angiotensin I-Converting Enzyme Gene Accounting for Half the Variance of Serum Enzyme Levels"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 39,
+      "title": "TNF-alpha gene polymorphism: clinical and biological implications"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 8,
+      "title": "Inflammatory pathways in atherosclerosis and acute coronary syndromes"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 23,
+      "title": "Naturally occurring mutations in the thrombomodulin gene leading to impaired expression and function"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 22,
+      "title": "Genetic relationship in the 'Bacillus cereus group' by rep-PCR fingerprinting and sequencing of a Bacillus anthracis-specific rep-PCR fragment."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 23,
+      "title": "Bacillus anthracis diverges from related clades of the Bacillus cereus group in 16S-23S ribosomal DNA intergenic transcribed spacers containing tRNA genes."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "Rapid detection of the hypertension-associated Met235-->Thr allele of the human angiotensinogen gene"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 20,
+      "title": "Contribution of genetic polymorphism in the renin-angiotensin system to the development of renal complications in insulin-dependent diabetes: Genetique de la Nephropathie Diabetique (GENEDIAB) study group"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 9,
+      "title": "A common thrombomodulin amino acid dimorphism is associated with myocardial infarction"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 10,
+      "title": "Atherosclerosis Risk in Communities Study (ARIC) Investigators. Thrombomodulin Ala455Val polymorphism and risk of coronary heart disease"
+    }
+  ]
+}

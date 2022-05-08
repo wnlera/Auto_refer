@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Metaphase spreads were prepared for immunofluorescence using previously described protocols [29].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Cells were processed for immunoflourescence staining as described earlier [27].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Immunofluorescence of tubulin and reconstruction of microtubules images were carried out as described previously [19].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Sera of all patients and controls were titrated for antibodies directed against EBV antigens by indirect immunofluorescence [27].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The immunofluorescence staining protocol resulted in a significant decrease of inherent intestinal granular autofluorescence previously assigned to secondary lysosomes [32].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "For immunofluorescence, trypanosomes were spread onto poly-L-lysine-coated slides, fixed in cold methanol and processed as described [75].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Historically and indeed currently immunofluorescence [2] and virus culture [3,4] are the main methods used to diagnose acute respiratory virus infections.",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Earlier immunofluorescence studies indicated that maternal and zygotic MVP is located in the cytoplasm, whereas adult MVP is predominantly nuclear [16].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 29,
+      "title": "Identification of centromeric antigens in dicentric Robertsonian translocations: CENP-C and CENP-E are necessary components of functional centromeres."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 27,
+      "title": "Physical and functional interaction between Hck tyrosine kinase and guanine nucleotide exchange factor C3G results in apoptosis, which is independent of C3G catalytic domain"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 19,
+      "title": "The kinase activity of aurora B is required for kinetochore-microtubules interactions during mitosis"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 27,
+      "title": "Differential reactivity of human serums with early antigens induced by Epstein-Barr virus"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 32,
+      "title": "The autofluorescent \"lipofuscin granules\" in the intestinal cells of Caenorhabditis elegans are secondary lysosomes"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 75,
+      "title": "Distinct localization and cell cycle dependence of COOH terminally tyrosinolated alpha-tubulin in the microtubules of Trypanosoma brucei brucei"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 3,
+      "title": "Sensitivity of respiratory virus culture when screening with R-mix fresh cells"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 2,
+      "title": "Comparison of conventional viral cultures with direct fluorescent antibody stains for diagnosis of community-acquired respiratory virus infections in hospitalized children"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 4,
+      "title": "Isolation of viruses from clinical specimens in microtitre plates with cells inoculated in suspension"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 16,
+      "title": "Characterization of the sea urchin major vault protein: a possible role for vault ribonucleoprotein particles in nucleocytoplasmic transport"
+    }
+  ]
+}

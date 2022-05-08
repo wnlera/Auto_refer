@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "For example, the Stanford Microarray Database [5] supports browsing based around organisms and experiments, and more complex Boolean searches based on criteria such as experimenter, organism and category of experiment.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Recently, experimental design features have been suggested to guarantee the rigor of RNAi experiments [32].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Our previous experiments with gabapentin (25 μM) had only identified inhibitory effects using this experimental approach [11,12].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "ArrayExpress [6] supports browsing through experiments, arrays and protocols, and searching based on criteria such as species, experiment type and author.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Since this paper was submitted, these experiments have been done, and indeed confirm our predictions made without the experimental information [65].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Two broad categories of antibody microarray experimental formats have been described: [1] direct labelling, single antibody experiments, and [2] dual antibody, sandwich immunoassays [4].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The encouraging in vitro experiments then prompted us to evaluate the immunotherapeutic potential of PstS1 in a well-established murine model of experimental bladder cancer [20].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "The Stanford Microarray Database: data access and quality assessment tools,"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 32,
+      "title": "Whither RNAi ?"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "Gabapentin inhibits high-threshold calcium channel currents in cultured rat dorsal root ganglion neurones"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 12,
+      "title": "Gabapentin-mediated inhibition of voltage-activated Ca2+ channel currents in cultured sensory neurones is dependent on culture conditions and channel sub-unit expression"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 6,
+      "title": "ArrayExpress – a public repository for microarray gene expression data at the EBI,"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 65,
+      "title": "Human SULT1A3 pharmacogenetics: gene duplication and functional genomic studies"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 1,
+      "title": "Multiplexed protein profiling on antibody-based microarrays by rolling circle amplification"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Methods and applications of antibody microarrays in cancer research"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Measuring proteins on microarrays"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 20,
+      "title": "Optimizing syngeneic orthotopic murine bladder cancer (MB49)"
+    }
+  ]
+}

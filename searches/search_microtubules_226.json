@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Paclitaxel stabilizes the microtubule network by inducing the formation of pseudoasters in mitotic cells and the formation of bundles, structures that correspond to strongly associated microtubules, in interphasic cells [21].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "For example, cleavage furrows, both normal and ectopic, are associated with similar microtubule bundles [2-4], while regions physically blocked from midzone microtubules by micromanipulation are unable to undergo cytokinesis [5].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "De Mareuil and coworkers show that Tat enhances tubulin polymerization into microtubules, an effect similar to that exerted by the MTPAs, and physically associates with the polymerized microtubuli [16].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The initial pathogen-containing endocytic vacuoles co-associate with microtubules, and dynein, and traffic to a perinuclear region, ultimately residing at the microtubule organizing center and in close proximity to the Golgi [4,5].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "[20] have also demonstrated that microtubules containing phosphorylated tubulin are more stable than those containing unphosphorylated tubulin, although it remains unclear whether tubulin phosphorylation is the cause or the result of microtubule stabilization.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Furthermore microtubules have also been implicated in the biogenesis of mitochondria based on the inhibition of mitochondrial mass increase and mtDNA replication caused by the microtubule-destabilizing drug colchicine and the estrogen metabolite 2-methoxyestradiol in mammalian cells [168].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Tub1 is an alpha-tubulin and thus a component of the microtubule itself, whereas Tub4 is a gamma-tubulin involved in the nucleation of the microtubules on both the nuclear and the cytoplasmic sides of the spindle-pole body [17].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "A link between microtubule polymerization and the pro-apoptotic effect of Tat has first been suggested a few years ago in the observation that Tat directly interacts with the αβ-tubulin dimers and polymerized microtubules in the cytoplasm of the cell [12].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 21,
+      "title": "Microtubules as a target for anticancer drugs"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "Signals from the spindle midzone are required for the stimulation of cytokinesis in cultured epithelial cells"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 16,
+      "title": "HIV-1 Tat protein enhances microtubule polymerization"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 4,
+      "title": "Chlamydia trachomatis utilizes the host cell microtubule network during early events of infection"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 5,
+      "title": "The effect of Chlamydia trachomatis infection on the host cell cytoskeleton and membrane compartments"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 20,
+      "title": "Posttranslational modification and microtubule stability"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 168,
+      "title": "Opposite effects of microtubule-stabilizing and microtubule-destabilizing drugs on biogenesis of mitochondria in mammalian cells"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 17,
+      "title": "Review: an overview of the Saccharomyces cerevisiae microtubule and microfilament cytoskeleton."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 12,
+      "title": "HIV-1 Tat targets microtubules to induce apoptosis, a process promoted by the pro-apoptotic Bcl-2 relative Bim"
+    }
+  ]
+}

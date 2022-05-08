@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "We previously observed fish-oil-induced elevation of VLDL-and LDL-cholesterol concentrations and decrease in HDL-cholesterol concentration in F1B hamsters [16].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Routine measurements of serum concentrations of morphine and metabolites are of questionable value because of the large variability of minimum effective serum concentration and the lack of a direct relationship between serum concentrations and adverse effects [19].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The concentrations we report in brain in terms of concentration/gm of tissue are several-fold greater than that shown for effective antiprion activity in ScN2a cells [2].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Morphine sulfate was added to the mast cell solution at clinically attained concentrations of 450 ng/ml (a typical peak in vivo concentration following an intravenous morphine bolus) and 18 ng/ml (a typical steady-state concentration during a 20 μg/kg/hour morphine infusion) [27].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Retinol concentration in bovine follicular fluid was shown to be an indicator of follicular quality and was highest in healthy follicles, lowest in atretic follicles and highly correlated with estradiol concentrations [2,3].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Subsequent elution with the refolding buffer results in a refolded protein in the eluate fraction with a considerably higher concentration compared to concentrations that can be reached by the simple dilution technique [44,56,58].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "When compared with non-melancholic depressed patients, melancholics have also been shown to exhibit lower concentration of nighttime serum melatonin [15], lower plasma serotonin (5-HT) concentrations [16,17], and an impaired in vivo immune response [18,19].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 16,
+      "title": "Hyperlipidaemic effect of fish oil in Bio F1B hamsters"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 19,
+      "title": "Routine drug monitoring of serum concentrations of morphine, morphine-3-glucuronide and morphine-6-glucuronide do not predict clinical observations in cancer patients"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 2,
+      "title": "Acridine and phenothiazine derivatives as pharmacotherapeutics for prion disease"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 27,
+      "title": "Plasma morphine levels produced by continuous infusion in children"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 3,
+      "title": "Expression of retinol-binding protein and cellular retinol-binding protein in the bovine ovary"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 2,
+      "title": "Concentrations of vitamin A, B-carotene and vitamin E in individual bovine follicles of different quality"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 56,
+      "title": "Protein refolding at high concentration using size-exclusion chromatography"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 44,
+      "title": "Renaturation of heterodimeric platelet-derived growth factor from inclusion bodies of recombinant Escherichia coli using size-exclusion chromatography"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 58,
+      "title": "Refolding of low molecular weight urokinase plasminogen activator by dilution and size exclusion chromatography-a comparative study"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 19,
+      "title": "Inflammatory markers in major depression and melancholia"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Compared to VAT, SCAT is the predominant source of leptin [60], yet patients with VAT obesity may tend to have higher leptin levels than normal, lean individuals but lower than those with predominantly SCAT or subcutaneous obesity [29].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "PSG induction of alternative monocyte activation is of particular importance as it implies a PSG-mediated switching of the immune system from a predominantly TH1 response to a predominately TH2 response which is more compatible with a successful pregnancy [32].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Aβ within these plaques is predominantly Aβ40 [146].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In AIH-1, SMA are predominantly directed against F-actin [41].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "This is an alkylating substance with predominantly local carcinogenic effects[175,176].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 60,
+      "title": "Leptin plasma concentrations are dependent on body fat distribution in obese patients"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 29,
+      "title": "Lipid overload and overflow: metabolic trauma and the metabolic syndrome"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 32,
+      "title": "In vivo expression of recombinant pregnancy-specific glycoprotein 1a induces alternative activation of monocytes and enhances Th2-type immune response"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 146,
+      "title": "A beta40 is a major form of beta-amyloid in nonhuman primates"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 41,
+      "title": "Frequency and significance of antibodies to actin in type 1 autoimmune hepatitis"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 175,
+      "title": "<beta>-Propiolacton"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 176,
+      "title": "Beta-Propiolactone"
+    }
+  ]
+}

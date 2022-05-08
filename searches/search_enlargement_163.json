@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Ventricular enlargement was also reported [19].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "One of the common features of plant development is the uneven enlargement of plant cells coupled to somatic endoreduplication, which indicates that the enlargement of plant cells might be the consequence of the increased genome size [9,37].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Enlargement of spleens has often been associated with the level of malaria transmission [4,5].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Clitoromegaly is a frequently seen congenital malformation, but acquired clitoral enlargement is rarely detected [2].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Also, chronic blockage of VEGFR-2 causes alveolar septal cell apoptosis and airspace enlargement [179].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Nolan described a case of adenotonsillar enlargement due to chronic lymphatic leukemia which caused severe OSA [4].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Indeed, high IL-6 provokes an enlargement of the thymus with the appearance of autoimmune phenomena [10].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Kabaalioglu A. et al reported mild splenomegaly and enlargement of the left rectus abdominalis muscle in hepatic fascioliasis [17].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "Quantitative assessment of cerebral ventricular volumes in chronic fatigue syndrome"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 37,
+      "title": "Plant cell-size control: growing by ploidy?"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 9,
+      "title": "Nuclear DNA endoreduplication during petal development in cabbage: relationship between ploidy levels and cell size"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 5,
+      "title": "Risk of malaria attacks in Gambian children is greater away from malaria vector breeding sites"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 4,
+      "title": "Malaria in a rural area of Sierra Leone. II. Parasitological and related results from pre- and post-rains clinical surveys"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 2,
+      "title": "Acquired clitoral enlargement. Diagnosis and treatment"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 179,
+      "title": "Inhibition of VEGF receptors causes lung cell apoptosis and emphysema"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Chronic lymphatic leukemia presenting as severe obstructive sleep apnea"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 10,
+      "title": "Age-related effects in T cell activation and proliferation"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 17,
+      "title": "Fascioliasis: US, CT, and MRI findings with new observations"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "main_text": [
+    {
+      "sentence": "Interestingly, patients with lipodystrophy were shown to have higher levels of subcutaneous adipose 11β-HSD1 expression and higher ratios of urinary cortisol:cortisone metabolites than non-lipodystrophic patients [144].",
+      "b_link": [
+        "B_1",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "However, transplantation of ob/ob adipose tissue (which does not produce leptin) in lipodystrophic rats does not reverse diabetes [173] nor is it beneficial to inject leptin in obese humans with leptin resistance [18].",
+      "b_link": [
+        "B_2",
+        "B_3",
+        "B_5",
+        "B_6"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 144,
+      "title": "In the lipodystrophy associated with highly active antiretroviral therapy, pseudo-Cushing's syndrome is associated with increased regeneration of cortisol by 11beta-hydroxysteroid dehydrogenase type 1 in adipose tissue"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 173,
+      "title": "Transplantation of adipose tissue lacking leptin is unable to reverse the metabolic abnormalities associated with lipoatrophy"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 18,
+      "title": "The metabolic syndrome"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

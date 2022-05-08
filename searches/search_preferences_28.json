@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "The Panel on Cost Effectiveness of Health and Medicine [2] recommended that preference-based measures have a theoretical basis and represent community-based preferences.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The preference of Culicine mosquitoes for turbid water is coherent with their known breeding site preferences, as they breed successfully in rather polluted environments such as blocked drains and septic tanks [36,37].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "We located no references validating and using these sensors, and only one reference that indicated that the Abrams-Gentile sensor was \"difficult to work with\" [12].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "To assess coping we used the Ways of Coping Questionnaire (WCQ), a widely used instrument that measures the relative degree of preference for a number of coping strategies and which is sensitive to the maladaptive coping preferences common to schizophrenia [15].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Most of the algorithms were developed using self-assessed preferences for health status from a general population where severe states are rare, rather increasing the representation of more severe health states by statistical design, as done by Brazier [10,17] and by other developers of preference-based measures [4,7].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The Panel on Cost Effectiveness in Health and Medicine recommended that community preferences for health states collected from a representative sample of the US general population should be \"the most appropriate ones for use in a Reference Case analysis\" for US decision makers [2].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 2,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 37,
+      "title": "Mosquito control in Dar es Salaam. II. Impact of expanded polystyrene beads and pyriproxyfen treatment of breeding sites on Culex quinquefasciatus densities"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 36,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 12,
+      "title": "See labs run: A design-oriented laboratory for teaching dynamic systems"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 15,
+      "title": "Personality dimensions in schizophrenia: associations with symptoms and coping"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 4,
+      "title": "Multiattribute and single-attribute utility functions for the health utilities index mark 3 system"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 7,
+      "title": "Modeling valuations for EuroQol health states"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 10,
+      "title": "The estimation of a preference-based measure of health from the SF-36"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 17,
+      "title": "The estimation of a preference-based measure of health from the SF-12"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 2,
+      "title": "EGGOG"
+    }
+  ]
+}

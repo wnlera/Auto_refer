@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "Occasionally a shotgun blast causes a large defect [3,4].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Such reactions to corticosteroids for asthma therapy do occur occasionally [19].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "N4 motif is occasionally absent in the previously characterized active inteins [14].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "involved in transposition, transduction or conjugative transfer), that are occasionally source of GI instability [16,17].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Although subcutaneous leiomyosarcoma commonly arises in the lower extremities, it occasionally affects the trunk [1,2,4].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Occasionally the tumor mass may transmit the carotid pulse or demonstrate a bruit or thrill [39].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 3,
+      "title": "Blunt diaphragmatic rupture"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 4,
+      "title": "Traumatic injuries of the diaphragm"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 19,
+      "title": "Corticosteroid allergy in asthma"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 14,
+      "title": "Modular organization of inteins and C-terminal autocatalytic domains"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 17,
+      "title": "Genomic islands in pathogenic and environmental microorganisms"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Pathogenicity islands and the evolution of microbes"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 1,
+      "title": "Leiomyosarcoma of the superficial soft tissue"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Cutaneous and subcutaneous sarcomas"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Leiomyosarcoma of the skin and subcutaneous tissue"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 39,
+      "title": "First report of hepatic lobotomy for metastatic carotid body tumor"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Phylogenetic trees were constructed using maximum parsimony (MP): implemented in PHYLIP [61] using ProtPars, Neighbour-joining (NJ): implemented in PHYLIP using ProtDist and Neighbour and maximum likelihood (ML): implemented in Tree-Puzzle [62].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "HC and PAM methods were implemented using the statistical package R [22], while CAST and SA were implemented locally in C++.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[10] and as implemented in CUE [11].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The GOLD.db was implemented in Java technology [4].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In 1997 this still had not been implemented [57].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[4] and implemented in Alternative Splicing Gallery (ASG) [10].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Such a format has been implemented in GenProtEC [16].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 62,
+      "title": "TREE-PUZZLE: maximum likelihood phylogenetic analysis using quartets and parallel computing"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 61,
+      "title": "PHYLIP -- Phylogeny Inference Package (Version 3.2)"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "The R Project for Statistical Computing"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "An analytic solution to single nucleotide polymorphism error-detection rates in nuclear families: implications for study design"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 11,
+      "title": "Calculating Undetected Errors CUE"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 4,
+      "title": "Java Technology"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 57,
+      "title": "The history of health insurance in Greece: the nettle governments failed to grasp"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Splicing graphs and EST assembly problem"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 10,
+      "title": "The Alternative Splicing Gallery (ASG): bridging the gap between genome and transcriptome"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 16,
+      "title": "The bacA gene of Escherichia coli encodes an undecaprenyl pyrophosphate phosphatase activity"
+    }
+  ]
+}

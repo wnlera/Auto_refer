@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The degree of inflammation was graded by on a scale of 0 to ++++ (0, no inflammation; focal interstitial inflammation +; more diffuse interstitial inflammation ++; intense interstitial inflammation or microabscesses +++; more extensive abscess formation with tissue necrosis ++++) [10].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Using molecular and genetic approaches, an increasing range of molecules has been identified that could underlie the pathogenic inflammation of chronic allergic airway inflammation [8].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The proportion of children with serum retinol <0.70 μmol/L was \"adjusted\" using two methods: (1) excluding all children with inflammation and then presenting the proportion of children who had serum retinol <0.70 μmol/L for the remaining children without inflammation, and (2) calculating geometric mean serum retinol concentrations in children with and without inflammation, multiplying the serum retinol concentrations in the group with inflammation by a constant that makes the geometric mean serum retinol in the group with inflammation equivalent to the group without inflammation, and then reporting the proportion of children who had serum retinol <0.70 μmol/L [11].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Since airway inflammation is associated with exacerbations [6] and since inhaled corticosteroids reduce exacerbations [12], they may also have salutary effect on airway inflammation in COPD.",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "In individuals with pre-existing lung disease, inhalation of nanoparticles may induce inflammation and exacerbate respiratory and cardiovascular effects through the induction of oxidative stress and inflammation [4,6,7].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Inflammation is a reaction of living tissues to injury [6].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "This was associated with reduced inflammation and increased apoptosis [159].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 10,
+      "title": "Correlation of histopathologic and bacteriologic changes with cytokine expression in an experimental murine model of bacteremic Staphylococcus aureus infection"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 8,
+      "title": "Cytokines in chronic obstructive pulmonary disease"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "Effects of subclinical infection on plasma retinol concentrations and assessment of prevalence of vitamin A deficiency: meta-analysis"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 6,
+      "title": "Relation of sputum inflammatory markers to symptoms and lung function changes in COPD exacerbations"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 12,
+      "title": "Contemporary management of chronic obstructive pulmonary disease: scientific review"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 7,
+      "title": "Acute health effects of ambient air pollution: The ultrafine particle hypothesis"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 4,
+      "title": "Pulmonary retention of ultrafine and fine particles in rats"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 6,
+      "title": "Particulate air pollution and acute health effects"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 6,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 159,
+      "title": "Severity of elastase-induced emphysema is decreased in tumor necrosis factor-alpha and interleukin-1beta receptor-deficient mice"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "SOCS6 has been shown to downregulate the insulin receptor [51,52].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Evidence presented here and elsewhere indicates that Socs36E and Socs44A can downregulate JAK signaling in the wing [28].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Interestingly, proinflammatory cytokines such as IFN-γ and LPS have been shown to downregulate mannose receptor expression on microglia [48,49].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Such observations suggest that when the IRESc-myc is used, translation is strongly downregulated [30].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "A known function of miRNAs is to downregulate the translation of target mRNAs through base-pairing to the target mRNA [21,24,25].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "This sodium hyperabsorption results from the inability of cystic fibrosis transmembrane regulator (CFTR) in CF cells to downregulate ENaC activity [37,38].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 51,
+      "title": "SOCS-6 binds to insulin receptor substrate 4, and mice lacking the SOCS-6 gene exhibit mild growth retardation"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 52,
+      "title": "Suppressors of cytokine signaling-1 and -6 associate with and inhibit the insulin receptor. A potential mechanism for cytokine-mediated insulin resistance"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 28,
+      "title": "SOCS36E, a novel Drosophila SOCS protein, suppresses JAK/STAT and EGF-R signalling in the imaginal wing disc"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 49,
+      "title": "Functional characterization of mannose receptor expressed by immunocompetent mouse microglia"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 48,
+      "title": "Mannose receptor is present in a functional state in rat microglial cells"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 30,
+      "title": "Translational upregulation of the c-myc oncogene in Bloom's syndrome cell lines"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "The C. elegans hunchback homolog, hbl-1, controls temporal patterning and is a probable microRNA target."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 24,
+      "title": "The Caenorhabditis elegans hunchback-like gene lin-57/hbl-1 controls developmental time and is regulated by microRNAs."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 21,
+      "title": "Control of developmental timing by microRNAs and their targets."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 38,
+      "title": "Cystic fibrosis transmembrane regulator inverts protein kinase A-mediated regulation of epithelial sodium channel single channel kinetics"
+    }
+  ]
+}

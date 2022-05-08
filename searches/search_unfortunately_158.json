@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Unfortunately this is too often not the case [23].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, the rate of complete respectability is only about 53% [10].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, recent work suggests that this is not the case [23].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, community-acquired MRSA also increases during the past decades [15].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, many of these have turned out to be ineffective [4].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, the optimal binding site for DAF-3 is only 5 bp [18].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, this is a hard problem, and existing methods are only partially successful [7].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, up to two thirds will present at diagnosis with advanced disease, requiring chemotherapy (CT) [1].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Unfortunately, leiomyosarcomas are notoriously radioresistant and attempts at using adjunctive radiotherapy and chemotherapy have failed [12,13].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 23,
+      "title": "PRIME PRocess modelling in ImpleMEntation research: selecting a theoretical basis for interventions to change clinical practice."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 10,
+      "title": "Prognostic factors in primary retroperitoneal soft tissue sarcomas"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 23,
+      "title": "Homologs of the Brugia malayi diagnostic antigen BmR1 are present in other filarial parasites, but induce different humoral immune response"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "Increase in community-acquired methicillin-resistant Staphylococcus aureus at a Naval Medical Center"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 4,
+      "title": "Interventions for preventing falls in elderly people"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 18,
+      "title": "The DAF-3 Smad binds DNA and represses gene expression in the Caenorhabditis elegans pharynx"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 7,
+      "title": "CASP"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 1,
+      "title": "Clinical factors and prognosis in non-small cell lung cancer"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 13,
+      "title": "Doxorubicin, dacarbazine, vincristine and Cyclophosphamide in the treatment of advanced gastrointestinal leiomyosarcoma"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 12,
+      "title": "Leiomyosarcoma of the gastrointestinal tract: general pattern of metastasis and recurrence"
+    }
+  ]
+}

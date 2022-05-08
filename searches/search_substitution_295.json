@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The detailed impact of structural information for correct prediction of substitution probabilities can be approached by comparing the EvDTree substitution profiles with the evolutionary substitutions matrices GONNET [20] and BLOSUM62 [35].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Among-site substitution rate heterogeneity was corrected using an invariable and eight gamma-distributed substitution rate categories and the WAG model for amino acid substitutions [81], abbreviated herein as WAG+I+8Γ.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Standard structure-dependent substitution matrices report the probability of 20 × 20 or 21 × 21 possible substitutions in a given structural environment [15].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Indeed, it has been shown that amino acid substitutions are constrained by the structural environment, each environment displaying a distinct substitution pattern [18,19].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Individual criteria are not sufficient to identify pseudogenes unambiguously [17] and different criteria were chosen: GC content, secondary structure of ITS 2, rate of substitution, pattern of substitution at methylated cytosine sites and substitutions at highly conserved sites of the 5.8S rDNA.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "For mammals, some studies found R significantly above one for both synonymous and non-synonymous substitutions [8], while others found only the non-synonymous substitution process to be overdispersed [30].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Our estimated the daily substitution rate of SARS-CoV to be 0.1722 nucleotides, or 5.7 × 10-6 nucleotide substitutions per site, a mutation rate similar to other RNA viruses [13,14].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 20,
+      "title": "Exhaustive matching of the entire protein sequence database"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 35,
+      "title": "Structure-derived substitution matrices for alignment of distantly related sequences"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 81,
+      "title": "A general empirical model of protein evolution derived from multiple protein families using a maximum-likelihood approach"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 15,
+      "title": "FUGUE: sequence-structure homology recognition using environment-specific substitution tables and structure-dependent gap penalties"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 19,
+      "title": "Fragment ranking in modelling of protein structure. Conformationally constrained environmental amino acid substitution tables"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 18,
+      "title": "Prediction of the stability of protein mutants based on structural environment-dependent amino acid substitution and propensity tables"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 17,
+      "title": "Divergent and reticulate species relationships in Leucaena (Fabaceae) inferred from multiple data sources: insights into polyploid origins and nrDNA polymorphism"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 8,
+      "title": "Synonymous and non-synonymous substitutions in mammalian genes and the nearly neutral theory"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 30,
+      "title": "Partitioning the variation in mammalian substitution rates"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 14,
+      "title": "Rates and Dates of Divergence Between AIDS Virus Nucleotide Sequences"
+    }
+  ]
+}

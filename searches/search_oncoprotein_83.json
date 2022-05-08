@@ -1,0 +1,86 @@
+{
+  "main_text": [
+    {
+      "sentence": "SV40 large T is a powerful oncoprotein capable of transforming a variety of cell types [42].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Peculiarity of cervical carcinomas is due to the ability of HPV oncoprotein E7 to interact with pRb and inactivate it [19].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Accordingly, we explain the non-immunogenicity of tumor-associated-antigens as due to high level of similarity of oncoprotein sequences to self-proteome [8,9,12].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Prominent among them are the early adenoviral E1A antigen [10,11], Epstein-Barr virus protein EBNA-2 [12], and human T-cell leukemia virus oncoprotein Tax [13,14].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 42,
+      "title": "Cellular transformation by sv40 large t antigen: Interaction with host proteins"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 19,
+      "title": "The human papilloma virus-16 E7 oncoprotein is able to bind to the retinoblastoma gene product"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 9,
+      "title": "Computer-assisted analysis of molecular mimicry between HPV16 E7 oncoprotein and human protein sequences"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 12,
+      "title": "Non-self-discrimination as a driving concept in the identification of an immunodominant HMW-MAA epitopic peptide sequence by autoantibodies from melanoma cancer patients"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "Molecular mimicry of phage displayed peptides mimicking GD3 ganglioside"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 12,
+      "title": "Epstein-Barr virus nuclear protein 2 interacts with p300, CBP, and PCAF histone acetyltransferases in activation of the LMP1 promoter"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 14,
+      "title": "Tax recruitment of CBP/p300 via the KIX domain, reveals a potent requirement for acetyltransferase activity that is chromatin dependent and histone tail independent"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 10,
+      "title": "A p300/CBP-associated factor that competes with the adenoviral oncoprotein E1A"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 13,
+      "title": "Control of cAMP-regulated enhancers by the trans-activator Tax through CREB and the co-activator CBP"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 11,
+      "title": "Characterization of an E1A-CBP interaction defines a novel transcriptional adapter motif, (TRAM) in CBP/p300"
+    }
+  ]
+}

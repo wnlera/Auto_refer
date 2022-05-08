@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Kim and colleagues similarly failed to identify JC virus in 15 medulloblastomas, 5 sPNET and 2 medulloblastoma cell lines [46].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Global gene expression profiles also suggest that medulloblastoma, sPNET and ATRT are distinct entities [4].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Transgenic mice containing JC virus early region sequences also develop medulloblastomas [44].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Hayashi and colleagues failed to identify JC viral sequences in 13 medulloblastomas [45].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Second, inactivation of p53 accelerates the formation of medulloblastomas in transgenic mouse models [19].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Thymidilate synthetase and Topoisomarese 2A were over-expressed in glioblastoma as well as in our previous study of medulloblastoma [1].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Classic, desmoplastic/nodular and large cell/anaplastic medulloblastomas were classified using World Health Organization guidelines [1].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "It was shown decades ago that inoculation of JC virus into rodents resulted in formation of medulloblastoma-like cerebellar tumors [20,22,42,43].",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 46,
+      "title": "Medulloblastomas and primitive neuroectodermal tumors rarely contain polyomavirus DNA sequences"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 4,
+      "title": "Prediction of central nervous system embryonal tumour outcome based on gene expression"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 44,
+      "title": "Human ubiquitous JCV(CY) T-antigen gene induces brain tumors in experimental animals"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 45,
+      "title": "JC virus large T protein transforms rodent cells but is not involved in human medulloblastoma"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 19,
+      "title": "Loss of p53 but not ARF accelerates medulloblastoma in mice heterozygous for patched"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Comparison of medulloblastoma and normal neural transcriptomes identifies a restricted set of activated genes"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 1,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 22,
+      "title": "Studies of JC virus-induced nervous system tumors in the Syrian hamster: a review"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 20,
+      "title": "Induction of brain tumors by a newly isolated JC virus (Tokyo-1 strain)"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 42,
+      "title": "Differential neurooncogenicity of strains of JC virus, a human polyoma virus, in newborn Syrian hamsters"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "However, during peak replication virus production may 102–3 times the basal rate [11,12], indicating enormous reserve replicative capacity.",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "In an effort to improve selectivity of these vectors for malignant cells, replication selective or conditionally replicating adenoviruses were created[2].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Stable, homeostatic replicative equilibria will result in chronic infection with episodic fluctuations in viral replication and host responses (eg ALT; [65]) typical of chronic hepatitis or HIV.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The tree for the β'-subunit strongly excludes Fusobacterium from Gracilicutes [82], thus clearly supporting convergent duplication, not shared ancestry for this triplication.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "In the absence of a mechanism to compensate for this 'end-replication problem', progressive telomere shortening leads to replicative senescence, which in yeast is characterized by chromosome instability and low cell viability [4,5].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The envelope/polymerase interactions of replicative homeostasis suggested herein are obvious therapeutic targets, and a site of interferon action: Heterologous envelope proteins from different viruses or genotypes of the same virus, or their structural homologues, are likely to inhibit viral replication, as suppression of HIV replication during measles [50] and Dengue [85] co-infection suggests.",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Previous studies also showed that the 21-bp triplication in the FeLV-945 LTR confers a replicative advantage to the virus that contains it, preferentially in hematopoietic cells [8].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 11,
+      "title": "HIV population dynamics in vivo: implications for genetic variation, pathogenesis, and therapy"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 12,
+      "title": "Transient high levels of viremia in patients with primary human immunodeficiency virus type 1 infection"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 2,
+      "title": "Oncolytic viruses as therapeutic agents"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 65,
+      "title": "Dynamics of alanine aminotransferase during hepatitis C virus treatment"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 4,
+      "title": "A mutant with a defect in telomere elongation leads to senescence in yeast."
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 5,
+      "title": "Cap-prevented recombination between terminal telomeric repeat arrays (telomere CPR) maintains telomeres in Kluyveromyces lactis lacking telomerase."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 50,
+      "title": "Suppression of human immunodeficiency virus replication during acute measles"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 85,
+      "title": "Decrease in human immunodeficiency virus type 1 load during acute dengue fever"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "The FeLV-945 LTR confers a replicative advantage dependent on the presence of a tandem triplication"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "The constraint-based modelling approach is based on the assumption that organisms have developed control structures to ensure optimal growth in response to environmental constraints [35].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The constraint-based hydrophobic core construction method (CHCC) by Yue and Dill [26] is complete, i.e., always guaranteed to find a global optimum; it attempts to find the hydrophobic core with the minimal possible surface area by systematically introducing geometric constraints and by pruning branches of a conformational search tree.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "While these lengths are reasonable, they are somewhat arbitrary, and it is known that some regulatory elements are constrained to be within specific distances (often shorter than 1 kb) from the start of transcription, reflecting mechanistic constraints for transcription factor-transcription factor or transcription factor-RNA polymerase interactions [11].",
+      "b_link": [
+        "B_3",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The fourth constraint for the origin of cyanobacteria was set at 2.7 Ga (minimum constraint) based on biomarker evidence for the presence of 2α-methylhopanes [86].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "As the fossil record constrains the date of divergence of these two lineages to be 60 ± 5 Ma [25-27], and the codon biases in modern Sus scrofa and Bos taurus project an equilibrium value for f2 = 0.54 [24], the rate constants for transitions at the TREx silent sites were estimated to be ca.",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Again, the complexity may be reduced by the use of \"banding\" [20,21] or other [18] constraints.",
+      "b_link": [
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 35,
+      "title": "Metabolic Flux Balance Analysis"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 26,
+      "title": "Forces of Tertiary Structural Organization in Globular Proteins"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "Predicting gene expression from sequence."
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 86,
+      "title": "2-methylhopanoids as biomarkers for cyanobacterial oxygenic photosynthesis"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 24,
+      "title": "Interpretive proteomics. Finding biological meaning in genome and proteome databases"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 18,
+      "title": "Pairwise RNA structure comparison using stochastic context-free grammars"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 20,
+      "title": "Finding the most significant common sequence and structure motifs in a set of RNA sequences"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 21,
+      "title": "Dynalign: an algorithm for finding the secondary structure common to two RNA sequences"
+    }
+  ]
+}

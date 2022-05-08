@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Information regarding individual QTL boundaries was gathered through the Mouse Genome Informatics site (MGI) [23].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "CompareLinkage removes all non-informative markers and calls the PedCheck software [18] to detect genotype incompatibilities using the pedigree information.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The first possibility could reflect low level information and/or physicians' insufficient suspicion [2,24], despite the world-wide durable informative campaigns and preventive efforts on this issue.",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Also, because of the extremely fast rate of lineage formation in cichlids, nuclear and even some mitochondrial genes [1] are too slowly evolving to contain phylogenetic information (reviewed in [6]).",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "An analogous mechanism, involving deformation and nipple formation of the viral and cellular membranes caused by rearrangements of the viral fusion proteins (six helix bundle formation) has been proposed for class I viral fusion proteins [54].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "While some physicians provide full information from the outset, others provide no information at all, even withholding basic diagnosis information [14].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Glutamate neurotransmission is crucial in information intake and information processing within the brain [see [10]].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "[17] generalized a method of creating \"meta profiles\" by combining sequence information with predicted secondary structure information.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 23,
+      "title": "Mouse Genome Informatics"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "PedCheck: a program for identification of genotype incompatibilities in linkage analysis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 2,
+      "title": "HIV infection in patients over 55 years of age"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 24,
+      "title": "Unrecognized Human Immunodeficiency Virus infection in the elderly"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 6,
+      "title": "The species flocks of East African cichlid fishes: recent advances in molecular phylogenetics and population genetics"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Monophyletic origin of Lake Victoria cichlid fishes suggested by mitochondrial DNA sequences"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 54,
+      "title": "Virology: a class act"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Nagoya District Court Decision on May 29, 1989"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 10,
+      "title": "AMPA receptor modulators as cognitive enhancers"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 17,
+      "title": "ORFeus: detection of distant homology using sequence profiles and predicted secondary structure"
+    }
+  ]
+}

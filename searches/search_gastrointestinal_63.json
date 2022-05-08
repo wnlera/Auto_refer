@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Gastrointestinal stromal tumors (GIST) are the most common form of mesenchymal tumors arising from the gastrointestinal (GI) wall, mesentery, omentum or retroperitoneum that express the c-kit proto-oncogene protein [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Duodenal Neuroendocrine tumors constitute 5% of all gastrointestinal neuroendocrine tumors [1,2].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Among them, carboplatin has reduced renal and gastrointestinal side effects than cisplatin [7].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Among others, neuropeptide Y plays a role in the CNS control of gastrointestinal function [1,18].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "After unexpectedly high early death rates, due to gastrointestinal toxicity and thromboembolic events, which were reported in two subsequent trials due to gastrointestinal toxicity and thromboembolic events, the safety of the Saltz regimen became a subject of considerable debate [18,19].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The patients passed the Gastrointestinal Symptoms Rating Scale (GSRS) test [11] in a validated Estonian translation.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The Gastrointestinal Cancer DSG pooled the three-year mortality data for two trials [39,40] (Figure 5).",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "Gastrointestinal stromal tumors (GISTs): definition, occurrence, pathology, differential diagnosis and molecular genetics"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 1,
+      "title": "Ampullary somatostatinoma"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 2,
+      "title": "Neuroendocrine carcinoma of the ampulla of Vater. A case of absence of somatostatin in a vasoactive intestinal polypeptide-, bombesin-, and cholecystokinin-producing tumor"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 7,
+      "title": "Preclinical antitumor and toxicologic profile of carboplatin"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "Neuropeptide Y in the paraventricular nucleus of the hypothalamus stimulates colonic transit by peripheral cholinergic and central CRF pathways"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 18,
+      "title": "Stimulation of neurons in rat ARC inhibits gastric acid secretion via hypothalamic CRF 1/2- and NPY-Y1 receptors"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 19,
+      "title": "Recommendation for caution with irinotecan, fluorouracil, and leucovorin for colorectal cancer."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 18,
+      "title": "Mortality associated with irinotecan plus bolus fluorouracil/leucovorin: summary findings of an independent panel."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 11,
+      "title": "GSRS--a clinical rating scale for gastrointestinal symptoms in patients with irritable bowel syndrome and peptic ulcer disease"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 39,
+      "title": "5-Fluorouracil and cisplatin therapy after palliative surgical resection of squamous cell carcinoma of the esophagus. A multicenter randomized trial. French Associations for Surgical Research"
+    }
+  ]
+}

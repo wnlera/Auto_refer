@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "However, lesions of the AcbC cause rats to prefer small immediate rewards (a single food pellet delivered immediately) to large delayed rewards (four pellets delivered after a delay); that is, AcbC-lesioned rats exhibit impulsive choice [22,23].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "placed immediately in a medium containing progesterone [19].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Agglutination tests were read by eye immediately after incubation as described [3].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Immediately following a stroke about 38% of the affected population experience aphasia [1].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Coagulation of tissue is immediately apparent and always indicates lethal thermal effect [4].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Catheterization studies have shown that the beneficial effects of BVP begin almost immediately [37,38].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Gastric juice with pH less than 4.0 is bactericidal for most organisms, although not immediately [28].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 23,
+      "title": "Emotion and motivation: the role of the amygdala, ventral striatum, and prefrontal cortex"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 22,
+      "title": "Impulsive choice induced in rats by lesions of the nucleus accumbens core"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 19,
+      "title": "Unexpected stimulatory effect of progesterone on human myometrial contractile activity in vitro"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 3,
+      "title": "Serotyping of Escherichia coli"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 1,
+      "title": "Aphasia in acute stroke: incidence, determinants, and recovery"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 4,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 38,
+      "title": "Improved left ventricular mechanics from acute VDD pacing in patients with dilated cardiomyopathy and ventricular conduction delay"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 37,
+      "title": "Left ventricular or biventricular pacing improves cardiac function at diminished energy cost in patients with dilated cardiomyopathy and left bundle-branch block"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 28,
+      "title": "Bacterial overgrowth"
+    }
+  ]
+}

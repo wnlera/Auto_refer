@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Epidemiological studies showed that this condition predominates in females [7].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "We endorse Dickersin's suggestion of an international collaborative effort to establish an 'epidemiological Cochrane-like database' to identify all relevant studies and to begin systematically reviewing available data for important epidemiological questions [3].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "[20] suggest to consider ICR effects for the evaluation of epidemiological childhood leukaemia studies.",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "To assess depression, we used the Center for Epidemiological Studies-Depression Scale (CESD) [48].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "This is consistent with epidemiological survey results using a variety of mental health measures [27].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Another US epidemiological study, the Whickham survey, showed the prevalence of spontaneous hypothyroidism to be 1.5% in females and less than 0.1% in males [5].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Detection of anti-filarial IgG4 antibodies has also been used for epidemiological assessment of filariasis [13,18,19].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Norovirus outbreaks can often be diagnosed presumptively on clinical grounds from their characteristic epidemiological features [2].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "Umbilical cutaneous metastasis (or Sister Mary Joseph's nodule) disclosing an ovarian adenocarcinoma"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 3,
+      "title": "Systematic reviews in epidemiology: why are we so far behind?"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 20,
+      "title": "Power lines and the geomagnetic field"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 48,
+      "title": "A self-report depression scale for research in the general population"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 27,
+      "title": "Symptoms of depression and anxiety during adult life: evidence for a decline in prevalence with age"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 19,
+      "title": "Comparison of Brugia-Elisa and thick blood smear examination in a prevalence study of brugian filariasis in Setiu, Terengganu, Malaysia"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 13,
+      "title": "Anti-filarial IgG4 in men and women living in Brugia malayi endemic areas"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 18,
+      "title": "Short communication: use of a recombinant antigen-based ELISA to determine prevalence of brugian filariasis among Malaysian schoolchildren near Pasir Mas, Kelantan-Thailand border"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 2,
+      "title": "Reassessment of Kaplan's criteria in identifying foodborn norovirus outbreaks – United States, 1998–2000"
+    }
+  ]
+}

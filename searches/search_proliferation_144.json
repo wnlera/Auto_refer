@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Immunoassaying for proliferating nuclear cell antigen (PCNA) can also be used in paraffin-embedded tissue, but it may overestimate the proliferation rate given the long half-life of this antigen [25].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The proliferative activity of CRC cells has been investigated in several studies either by immunohistochemical determination of cell proliferation index using antibodies to some types of cyclins or by flowcytometric determination of the SPF of the cell cycle [8].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "This proliferation factor, induced by several growth factors, is responsible for proliferation in many cell types [20].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Scheepens et al [17] found an increase in proliferation of hippocampal cells following global asphyxia in the newborn rat, much as we found in the model we used, but these investigators did not assess maturation of the proliferating cells into neurons and other cell types.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Interestingly, ethanol was also observed to inhibit serum- and growth factor-mediated astroglial proliferation more effectively than phorbol ester-induced proliferation [6,16].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The proliferation data in young mice agree with testing TECs proliferation in pure murine TECs cell line (IT-45RI), as previously shown [21].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Given the role of Tpl2/Cot in T-cell proliferation via activation of E2F transcription [8], overexpression of this kinase may contribute to neoplastic cell proliferation.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Cell proliferation was assayed using the CellTiter 96 non-radioactive cell proliferation assay kit (Promega, Madison, WI) according to the manufacturer's instructions and as described previously [4].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Indeed, zinc also affects cell cycle and, therefore, cellular proliferation [35].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 25,
+      "title": "Clinical application of morphologic and immunocytochemical assessments of cell proliferation"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 8,
+      "title": "Expression of the cell cycle markers in colorectal carcinoma: Superiority of cyclin A as an indicator of poor prognosis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 20,
+      "title": "Involvement of polyamines in apoptosis. Facts and controversies: effectors or protectors?"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 17,
+      "title": "A delayed increase in hippocampal proliferation following global asphyxia in the neonatal rat"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 16,
+      "title": "Ethanol inhibits astroglial cell proliferation by disruption of phospholipase D-mediated signaling"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 6,
+      "title": "Inhibition of astroglial cell proliferation by alcohols: interference with the protein kinase C-phospholipase D signaling pathway"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "Neuroendocrine-thymus interactions. I. In vitro modulation of thymic factor secretion by thyroid hormones"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 8,
+      "title": "p27kip protein levels and E2F activity are targets of Cot kinase during G1 phase progression in T cells"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 4,
+      "title": "Molecular cloning and characterization of the tumor transforming gene (TUTR1): a novel gene in human tumorigenesis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 35,
+      "title": "The role of zinc in growth and cell proliferation"
+    }
+  ]
+}

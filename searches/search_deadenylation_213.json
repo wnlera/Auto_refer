@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "FCA may be a multifunctional protein involved in mRNA processing, as human CUG-BP can function in both alternative splicing and deadenylation [83].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Following completion of the histone octamer by histone H2A/H2B addition, mature chromatin is formed following the deacetylation of histones H3 and H4 [33,34].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Coffee [26] showed that histone deacetylation (and methylation of CpG bases) leading to lower expression at the FMR1 locus in fragile X was a consequence of CCG repeat expansion.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Post-translational modifications of histones, like acetylation by histone acetylase (HAT) and deacetylation by histone deacetylase (HDAC), within the context of chromatin has been shown to regulate gene expression [6,7].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Various experimental data suggest that the DNA methylation causes multiple changes in local nucleosomes, such as deacetylation of histones H3 and H4, prevents H3/K4 methylation and induces H3/K9 methylation [6].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Another explanation for at least part of the missing transcript matches is variability in poly-adenylation and splicing, which seems to account for substantial variety in the human transcriptome [12].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "PF11_0156 clearly is an orthologue of human PRP4, a kinase that is associated with mRNA splicing and histone deacetylation and that is conserved in most eukaryotic genomes (including Schizosaccharomyces pombe, but not Saccharomyces cerevisiae) [56,57].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 83,
+      "title": "A functional deadenylation assay identifies human CUG-BP as a deadenylation factor."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 33,
+      "title": "Histone deacetylation is required for the maturation of newly replicated chromatin"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 34,
+      "title": "Modifications to histones immediately after synthesis"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 26,
+      "title": "Histone modifications depict an aberrantly heterochromatinized FMR1 gene in fragile x syndrome"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 7,
+      "title": "Translating the histone code"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "The language of covalent histone modifications"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 6,
+      "title": "The role of DNA methylation in setting up chromatin structure during development"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 12,
+      "title": "Assessment of SAGE in transcript identification"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 56,
+      "title": "Functional analysis of the fission yeast Prp4 protein kinase involved in pre-mRNA splicing and isolation of a putative mammalian homologue"
+    }
+  ]
+}

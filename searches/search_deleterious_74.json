@@ -1,0 +1,116 @@
+{
+  "main_text": [
+    {
+      "sentence": "The probability of fixation pfix of deleterious mutants drops exponentially with the population size, pfix = [1 - exp(2s)]/ [1 - exp(2sNe)], where s is the selective disadvantage of the deleterious mutation [31].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Hence lesions in the mtDNA can prove to be more deleterious [6].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "These dead bacteria were previously shown to have lost their deleterious effects on C. elegans [22].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Note that changes caused by IS6110 can be not only beneficial, but also neutral or deleterious [31].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The fixation of even a deleterious mutation is possible if the population undergoes an extreme bottleneck [5].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Recent studies suggest that carriers of deleterious mutations of the BRCA2 gene have an increased prostate cancer risk [10].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Kristal and Yu [16] have suggested that aging \"...results in deleterious changes in cellular, intercellular, tissue and organismic functions.\"",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In general the ω values are usually below 0.5 due to the deleterious effects of most amino acid mutations [28].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The term lipotoxicity describes the deleterious effect of chronic FFA elevation on insulin secretion from the pancreatic β-cell [34].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Under aerobic conditions, generation of highly toxic and reactive oxygen species such as superoxide anion, hydrogen peroxide and the hydroxyl radical leads to oxidative stress with deleterious effects [40].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 31,
+      "title": "On the probability of fixation of mutant genes in a population"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 6,
+      "title": "Mitochondrial diseases in man and mouse"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "Virulence factors of the human opportunistic pathogen Serratia marcescens identified by in vivo screening"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 31,
+      "title": "The control of copy number of IS 6110 in Mycobacterium tuberculosis."
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 5,
+      "title": "Evolution of immunoglobulin VH pseudogenes in chickens"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 10,
+      "title": "Two Percent of Men with Early-Onset Prostate Cancer Harbor Germline Mutations in the BRCA2 Gene"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 28,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 34,
+      "title": "Lipotoxic diseases"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

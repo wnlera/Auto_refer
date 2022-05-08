@@ -1,0 +1,34 @@
+{
+  "main_text": [
+    {
+      "sentence": "The endocochlear potential and the endolymphatic [K+] were measured with double-barreled microelectrodes [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "It is still not clear if the amount of NO produced by platelets, estimated at about 5 × 10-17 mole NO/platelet (determined by microelectrode in PRP for 2 minutes following addition of 5 μM ADP), is sufficient to alter platelet function [1,2].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "KCNJ10 (Kir4.1) potassium channel knockout abolishes endocochlear potential"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 2,
+      "title": "Nitric oxide released from activated platelets inhibits platelet recruitment"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 1,
+      "title": "Deficient platelet-derived nitric oxide and enhanced hemostasis in mice lacking the NOSIII gene"
+    }
+  ]
+}

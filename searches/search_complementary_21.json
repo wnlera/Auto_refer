@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "Complementary medicine is available in approximately 40% of general practice surgeries and general practitioners and physiotherapists are the largest providers of complementary medicine within the NHS [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[18] Here again it is complementary to routine USI.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "[11] complementary to the pNQ705 vector was utilized (Table 2).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "A complementary approach to estimate the seed sensitivity is proposed in [11].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Note that this proportion is the complementary false-discovery rate 1-FDR [32].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The database is very complementary to some existing resources, in particular the LGICdb [14,15].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Existing literature suggests that around 40% of patients in the UK have access to complementary therapy [17].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "DNA polymerase then forms duplex DNA by synthesizing the complementary C-rich strand of the telomere [8].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "One likely mode of evolution is gene duplications with subsequent complementary losses of function in both copies [16,17].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "Tissue Doppler imaging differentiates transmural from nontransmural acute myocardial infarction after reperfusion therapy."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 11,
+      "title": "Cloning of a metalloprotease gene involved in the virulence mechanism of Vibrio anguillarum"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 11,
+      "title": "Estimating seed sensitivity on homogeneous alignments"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 32,
+      "title": "Controlling the false discovery rate: a practical and powerful approach to multiple testing."
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 14,
+      "title": "LGICdb:  The ligand-gated ion channel database"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 15,
+      "title": "LGICdb: the ligand-gated ion channel database."
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 17,
+      "title": "Access to complementary medicine via general practice"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 8,
+      "title": "Synthesis of the telomeric C-strand. A review."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 16,
+      "title": "Selection after gene duplication: a view from the genome"
+    }
+  ]
+}

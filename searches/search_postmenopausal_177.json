@@ -1,0 +1,116 @@
+{
+  "main_text": [
+    {
+      "sentence": "[56] recently reported that supplementing postmenopausal women with soy isoflavones (40 and 80 mg/d) for one year resulted in favorable increases in BMC of the hip in women who are at least four years postmenopausal and are of low body weight or have low levels of dietary calcium.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Women who had smoked at least ten cigarettes per day during the five postmenopausal years were classified as smokers [25].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Similarly, in overweight, postmenopausal women, exercise may lead to improved metabolic profiles and VAT loss without total weight loss [212].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Another trial has demonstrated that continuous dietary intake of isoflavones (37.3 mg/day) for ten weeks may inhibit postmenopausal osteoporosis [29].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "And indeed a possible association between endometrial polyps and endometrial malignancy in postmenopausal women has been suggested couple of decades ago [4].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Adipose tissue aromatizes androgens to estrogens, and thus high body mass index (BMI) is linked to elevated estrogen levels in postmenopausal women [18].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "A reanalysis of nine prospective studies shows that levels of endogenous sex hormones are strongly associated with breast cancer risk in postmenopausal women [5].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "These findings corroborate similar findings by the same group who followed 316 postmenopausal women for 7.7 years and monitored progression of aortic calcifications [120].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "We have previously reported that 40 g of soy protein providing 90 mg of isoflavones/day reduced Dpd in postmenopausal women not on HRT [62].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Brochu et al extensively studied 43 sedentary, obese, postmenopausal women and found that 17 were MNO, while 26 had reduced insulin sensitivity (estimated by clamp) [201].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 56,
+      "title": "Beneficial effect of soy isoflavones on bone mineral content was modified by years since menopause, body weight, and calcium intake: a double-blind, randomized, controlled trial"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 25,
+      "title": "The relation between tooth loss and bone mass in postmenopausal osteoporotic women in Turkey: a multicenter study"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 212,
+      "title": "Effect of exercise on total and intra-abdominal body fat in postmenopausal women: a randomized controlled trial"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 29,
+      "title": "Soybean isoflavones reduce postmenopausal bone resorption in female Japanese immigrants in Brazil: a ten-week study"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 4,
+      "title": "Endometrial polyps and hyperplasia as risk factors for endometrial carcinoma. A case-control study of curettage specimens"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 18,
+      "title": "Adiposity and sex hormones in postmenopausal breast cancer survivors"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 5,
+      "title": "The Endogenous Hormones and Breast Cancer Collaborative Group. Endogenous sex hormones and breast cancer in postmenopausal women: Reanalysis of nine prospective studies"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 120,
+      "title": "Central and peripheral fat mass have contrasting effect on the progression of aortic calcification in postmenopausal women"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 62,
+      "title": "Soy protein has a greater effect on bone in postmenopausal women not on hormone replacement therapy, as evidenced by reducing bone resorption and urinary calcium excretion"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 201,
+      "title": "What are the physical characteristics associated with a normal metabolic profile despite a high level of obesity in postmenopausal women?"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "For instance, the growth of estrogen-dependent and estrogen-independent cells, is inhibited by controlling mitochondrial biogenesis [8].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "In addition, anti-apoptotic effects of RA were mediated by both nuclear receptor-dependent and independent pathways [37].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Subsequent activation of caspases-3/7 (in a mitochondria-dependent or independent fashion) leads to execution of apoptosis [4].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "In addition, protein processes that are ATP-dependent include formation of the ribosomal initiation complex, translation and folding of the protein, and protein degradation (both ubiquitin-dependent and -independent pathways) [23].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "It has been reported that Taxotere is able to induce apoptosis by caspase-3 dependent or independent cell death mechanism [30].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Promoter sequences for the serum inducible MKL-dependent or -independent genes were extracted from the Database of Transcription Start Sites (DBTSS) [32].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Endonuclease G is one such effector of apoptosis, a mitochondrial DNase released by a Bcl-2-dependent but caspase-independent mechanism [27].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Resulting loss of mitochondrial transmembrane potential then induces the release of apoptogenic proteins, leading to caspase-dependent (37,55,48) or caspase-independent [55] cell killing.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 37,
+      "title": "Selective roles of retinoic acid receptor and retinoid X receptor in the suppression of apoptosis by all-trans-retinoic acid"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 8,
+      "title": "Modulation of nuclear cell cycle gene expression by arresting mitochondrial function"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 4,
+      "title": "TRAIL-induced signalling and apoptosis"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 23,
+      "title": "Whole Body Energy and Nitrogen (Protein) Reationships"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 30,
+      "title": "Variation in the kinetics of caspase-3 activation, Bcl-2 phosphorylation and apoptotic morphology in unselected human ovarian cancer cell lines as a response to docetaxel"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 32,
+      "title": "DBTSS: DataBase of human Transcriptional Start Sites and full-length cDNAs"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 27,
+      "title": "Endonuclease G is an apoptotic DNase when released from mitochondria"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 55,
+      "title": "The C-terminal moiety of HIV-1 Vpr induces cell death via a caspase-independent mitochondrial pathway"
+    }
+  ]
+}

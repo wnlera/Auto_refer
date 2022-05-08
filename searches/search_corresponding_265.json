@@ -1,0 +1,111 @@
+{
+  "main_text": [
+    {
+      "sentence": "[30] and the corresponding classic skyline plot.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "For corresponding Editorial, please see Leiman, 2005 [25]",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "All genes were first mapped to corresponding UniGene clusters [26].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The hierarchy of terms are the corresponding anatomy ontologies [22,23].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Identity of the 344 bp product corresponding to mouse S100A7/psoriasin and the 330 bp product corresponding to β-actin were confirmed by subcloning and sequencing as described previously [13].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The corresponding data for Ghana are 0.7 and 1.0, respectively [29].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "For corresponding research article please see Arian et al, 2005 [15]",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "We used BLASTZ [70]) to automatically identify inversions, and when necessary inverted the corresponding D. pseudoobscura sequence.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The corresponding clones are distributed by the RZPD German Resource Centre [18].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 30,
+      "title": "Using HIV-1 sequences to infer historical features of the AIDS epidemic and HIV evolution"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 25,
+      "title": "Anal sreening cytology"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 26,
+      "title": "UniGene"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 22,
+      "title": "An internet-accessible database of mouse developmental anatomy based on a systematic nomenclature"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 23,
+      "title": "An Ontology of Human Developmental Anatomy"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 13,
+      "title": "Estrogen receptor variants in normal human mammary tissue"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 29,
+      "title": "Sexual activity before marriage in Sub-Saharan Africa"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 15,
+      "title": "The Anal Pap Smear: Cytomorphology of squamous intraepithelial lesions"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 18,
+      "title": "German Resource Centre (RZPD)"
+    }
+  ]
+}

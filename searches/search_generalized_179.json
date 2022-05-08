@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "More recently it has been demonstrated that prostate cancer cells and melanoma cells directly degrade mineralized bone matrix and that the degradation was reduced by generalized inhibition of MMP activity [19,20].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Kazlauskaite et al reported a case diagnosed as congenital generalized lipodystrophy (CGL) presenting with generalized body-fat loss, prominent musculature, hepatomegaly, clitoromegaly and mild hirsutism [13].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[4] proposed smoothing splines with generalized cross-validation (GCVSS).",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The generalized conjugate residue method is used to solve this formulation [38,40].",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Still others say that they occur only in generalized pustular psoriasis (GPP) [4,5].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Disseminated BCG infection usually presents as generalized lymphadenopathy, skin rash and hepatosplenomegaly [2].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "A comparison with the generalized skyline plot [17] is shown in Figure 3d.",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 19,
+      "title": "Direct osteolysis induced by metastatic murine melanoma cells: role of matrix metalloproteinases"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 20,
+      "title": "Human Metastatic Prostate PC3 Cell Lines Degrade Bone Using Matrix Metalloproteinases"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 13,
+      "title": "A case of congenital generalized lipodystrophy: metabolic effects of four dietary regimens. Lack of association of CGL with polymorphism in the lamin A/C Gene"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 4,
+      "title": "Feature extraction and normalization algorithms for high-density oligonucleotide gene expression array data"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 40,
+      "title": "Numerical Recipes in C++"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 38,
+      "title": "SAM5211: Introduction to simulation"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 4,
+      "title": "Dermal psoriasis involving the oral cavity"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 5,
+      "title": "Oral mucositis with features of psoriasis: Report of a case and review of the literature"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 2,
+      "title": "Clinical presentation of bacillus Calmette-Guerin infections in patients with immunodeficiency syndromes"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 17,
+      "title": "Exploring the demographic history of a sample of DNA sequences using the generalized skyline plot"
+    }
+  ]
+}

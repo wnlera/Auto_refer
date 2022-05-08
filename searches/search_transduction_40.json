@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "The protocol for P1 transduction has been described elsewhere [37].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Examples include transcription control [1], signal transduction, and metabolic pathways [2].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The transduction efficacy for lymphocytes from healthy donors and HIV-seropositive patients has also been found to be similar [10], indicating that chronic infection does not affect the retroviral transduction of lymphocytes.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "CD31 also exhibits signal transduction; its dimerization appears to upregulate integrin function [71].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Lymphoma cells are relatively resistant to transduction with most currently available vector systems [20,21].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "involved in transposition, transduction or conjugative transfer), that are occasionally source of GI instability [16,17].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Culture and transfection of LMH cells with FUGENE 6 Transfection Reagent (Roche Molecular Biochemicals, Rotkreuz, Switzerland) were performed as published [17,33].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 37,
+      "title": "Genetic location of certain mutations conferring recombination deficiency in Escherichia coli"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 1,
+      "title": "See, e.g"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 2,
+      "title": "See, e.g"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "Interferon beta transduction of peripheral blood lymphocytes from HIV-infected donors increases Th1-type cytokine production and improves the proliferative response to recall antigens"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 71,
+      "title": "Roles of platelet/endothelial cell adhesion molecule-1 (PECAM-1, CD31) in natural killer cell transendothelial migration and beta 2 integrin activation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 21,
+      "title": "Adenovirus vector infection of chronic lymphocytic leukemia B cells"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 20,
+      "title": "Efficient adenovirus-mediated gene expression in malignant human plasma cells: relative lymphoid cell resistance"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 17,
+      "title": "Genomic islands in pathogenic and environmental microorganisms"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 16,
+      "title": "Pathogenicity islands and the evolution of microbes"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 17,
+      "title": "A Conserved Nuclear Receptor Consensus Sequence (DR-4) Mediates Transcriptional Activation of the Chicken CYP2H1 Gene by Phenobarbital in a Hepatoma Cell Line"
+    }
+  ]
+}

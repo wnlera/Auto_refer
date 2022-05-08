@@ -1,0 +1,86 @@
+{
+  "main_text": [
+    {
+      "sentence": "Good sensitivity and specificity for detecting depression in geriatric psychiatric and medical outpatients has been demonstrated (84–100% sensitivity; 73–96% specificity) [60,61].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "These data include evidence for splice variation effecting calcium and voltage sensitivity, surface expression, and sensitivity to protein phosphorylation of the maxi-K channel [16,17]; [18].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "In 4 cases however (ARC18, PDE2, PEX6 and SPF1), we found a wild type sensitivity for mutants that had previously shown altered Calcofluor white sensitivity [22,42,58,59].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The sensitivity of the questionnaire has been established [21].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 61,
+      "title": "The Geriatric Depression Scale and the Beck Depression Inventory as screening instruments in an older adult outpatient population"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 60,
+      "title": "Depression in Alzheimer's disease patients: caregivers as surrogate reporters"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 17,
+      "title": "A novel MaxiK splice variant exhibits dominant-negative properties for surface expression"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 16,
+      "title": "Cloning, expression, and distribution of functionally distinct Ca2+-activated K+ channel isoforms from human brain"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 18,
+      "title": "Alternative splicing switches potassium channel sensitivity to protein phosphorylation"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 59,
+      "title": "A Saccharomyces cerevisiae genome-wide mutant screen for altered sensitivity to K1 killer toxin"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 22,
+      "title": "Large scale identification of genes involved in cell surface biosynthesis and architecture in Saccharomyces cerevisiae"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 58,
+      "title": "P-type ATPase spf1 mutants show a novel resistance mechanism for the killer toxin SMKT"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 42,
+      "title": "Transcriptome profiling of a Saccharomyces cerevisiae mutant with a constitutively activated Ras/cAMP pathway"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 21,
+      "title": "The Knee injury and Osteoarthritis Outcome Score (KOOS): from joint injury to osteoarthritis"
+    }
+  ]
+}

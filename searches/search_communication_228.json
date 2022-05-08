@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "The literature from English-speaking countries indicates that teaching communication skills is effective in improving learners' communication skills with patients [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "[45], and James Goedert, personal communication].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "To guide the teaching of communication skills, we created a conceptual model for patient-physician communication referring to 3 existing models [2,10,11].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Citizens increasingly use email in personal communication [1].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "However, besides skills in communication [21,24,25], this requires time.",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Spirituality/positivity has also been related to communication outcomes [26].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "BEME Guide No. 2: Teaching and learning communication skills in medicine – a review with quality grading of articles"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 45,
+      "title": "Risk factors for Kaposi's sarcoma-associated herpesvirus infection among HIV-1-infected pregnant woman in the USA"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 10,
+      "title": "The SEGUE Framework for teaching and assessing communication skills"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 2,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 11,
+      "title": "Effect of communications training on medical student performance"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Use of Internet in Finland 2002–2003"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "Effect of communications training on medical student performance"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 21,
+      "title": "Narrative medicine. A model for empathy, reflection, profession, and trust"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 24,
+      "title": "Key communication skills and how to acquire them"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 26,
+      "title": "Communication in end-of-life cancer care: a comparison of team assessments in three European countries"
+    }
+  ]
+}

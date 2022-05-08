@@ -1,0 +1,116 @@
+{
+  "main_text": [
+    {
+      "sentence": "Graziosi [16] showed that separate populations of cells in SI provide callosal projections to SI and SII in the opposite hemisphere and ipsilateral projections to SII.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "A study [16] shows the superiority of the wavelet projection matching over the Gaussian filtered projection matching.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Corticostriatal and thalamocortical connections use excitatory glutamatergic projections [25].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Similar observations have been made using [3H] ouabain to mark Na+/K+ ATPase distribution in brain [16] Another striking observation from images of the hippocampus in non-transgenic mice (Figure 3C) demonstrate a decreased intensity of staining along the dentate granule cell projection pathways within the hilus and along the mossy fiber projections to CA3 (Figure 3A).",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "[49] the long-loop projections to the VTA are indeed intact.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This consists of grouping projections into classes of similar orientations [30].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Adult sheep have abundant arachnoid projections in the superior sagittal sinus which are visible when stained with Evans blue dye but, in the neonatal lamb, arachnoid projections are few or absent [2].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The third ventricle divides the hypothalamus and lies in close proximity to hypothalamic projections [66].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "These studies suggest that PKC is involved in protection against ultra-violet radiation, since blocking PKC abrogates FGF2-mediated protection [31].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Initial orientation determination is based on model-based projection matching approach [3].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 16,
+      "title": "Cortico-cortical neurones of somesthetic area SI as studied in the cat with fluorescent retrograde double-labelling"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 16,
+      "title": "Wavelets filtering for classification of very noisy electron microscopic single particles images- Application on structure determination of VP5-VP19C recombinant"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 25,
+      "title": "Frontal-subcortical neuronal circuits and clinical neuropsychiatry: an update"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 16,
+      "title": "Cytoarchitectural relationships between [3H]ouabain binding and mRNA for isoforms of the sodium pump catalytic subunit in rat brain"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 49,
+      "title": "In vivo modulation of ventral tegmental area dopamine and glutamate efflux by local GABAB receptors is altered after repeated amphetamine treatment"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 30,
+      "title": "FCM: the Fuzzy C-Means clustering algorithm"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 2,
+      "title": "Reassessment of the pathways responsible for cerebrospinal fluid absorption in the neonate"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 66,
+      "title": "The Hypothalamus"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 31,
+      "title": "Protein kinase C mediates basic fibroblast growth factor protection of endothelial cells against radiation-induced apoptosis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 3,
+      "title": "A model-based approach for determining orientations of biological macromolecules imaged by cryo-electron microscopy"
+    }
+  ]
+}

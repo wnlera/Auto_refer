@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "This array represents 5081 microarray spots, from which there are 2825 genes as represented by unique FlyBase [14] accession numbers.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The Gene Ontology (GO) [5] is a description of biology represented as a directed acyclic graph (DAG) where each node represents a clearly defined biological concept.",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "A semantic network is a method to represent information or knowledge by nodes and edges in a graphic form, where a node represents a concept and an edge represents a relationship [22].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "NMDS geometrically represents dissimilarities in a graphical, low-dimensional space, and is a robust method to represent ecological distance [18,19].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "More recent publications of fossil Charadriiformes were not included because they either represent specimens that are younger or have not been assigned to families that are represented amongst the extant Charadriiformes (such as Turnipacidae [72]).",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "The similarities between the patients who presented with advanced disease and the patients who presented with initial stage disease, suggested that serous carcinoma involving endometrial polyps may represent one aspect of a multicentric disease in which, the entire female genital tract and the abdominal peritoneal surfaces would be at high risk for concurrent or subsequent involvement by serous carcinoma even in the absence of myometrial invasion [17] or the extrauterine disease may represent transtubal metastasis [18,19].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "[17] data, from [58] (54,005 sequences represented on the array).",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 14,
+      "title": "FlyBase"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 5,
+      "title": "Gene Ontology: Tool for the Unification of Biology"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 22,
+      "title": "Three principles of representation for semantic networks"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 18,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 19,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 72,
+      "title": "Charadriiform birds from the early Oligocene of Céreste (France) and the Middle Eocene of Messel (Hessn, Germany)"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 18,
+      "title": "Ovarian, peritoneal and endometrial serous carcinoma: clonal origin of multifocal disease"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 17,
+      "title": "Serous carcinoma in endometrial polyps"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 19,
+      "title": "Endometrial intraepithelial carcinoma with associated peritoneal carcinomatosis"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 58,
+      "title": "Additional data files from Bono et al. [17]"
+    }
+  ]
+}

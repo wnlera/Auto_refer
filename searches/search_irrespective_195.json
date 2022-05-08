@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "However, cigarette smoking, irrespective of dose or duration, had negative effects on antioxidant status in the Korean study [12].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "A study on US women aged over 25 years found that knowledge about osteoporosis was limited, irrespective of age [11].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Irrespective of the health system, general practitioners/family doctors should care for individuals in the context of their family [1].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Irrespective of this debate, it is an intriguing phenomenon that heart rate and respiratory frequency show a 4:1-ratio on average during night-time sleep [35,60].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "We defined aggregate country categories as the composite of reports from respective countries [17].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Details about the individual snRNAs and the respective sequence alignments are displayed at [30].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Irrespective of clinical response, splenectomy seems to affect the natural history of the disease and to enhance the response of ITP patients to other treatments that follow [19].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Based on previous work [22,32] we expected activation in the fusiform gyrus to be dependent on stimulus changes irrespective of whether emotional expression, facial identity, or both were varied.",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 12,
+      "title": "An 18-month follow-up study on the influence of smoking on blood antioxidant status of teenage girls in comparison with adult male smokers in Korea"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 11,
+      "title": "Osteoporosis knowledge, calcium intake, and weight-bearing physical activity in three age groups of women"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 1,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 35,
+      "title": "Detecting cardiorespiratory synchronization by respiratory pattern analysis of heart period dynamics: the musical rhythm approach"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 60,
+      "title": "Reactive modifications of the autonomous time structure in the human organism"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 17,
+      "title": "Countries of ancestry reported by hemochromatosis probands and control subjects in central Alabama"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 30,
+      "title": "ASRG snRNAs"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 19,
+      "title": "Long-term observation of 208 adults with chronic idiopathic thrombocytopenic purpura"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 32,
+      "title": "Multiple levels of visual object constancy revealed by event-related fMRI of repetition priming"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 22,
+      "title": "Distinct spatial frequency sensitivities for processing faces and emotional expressions"
+    }
+  ]
+}

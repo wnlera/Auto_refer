@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Additionally, cigarette smoke may reduce histone deacetylase activity and its expression in alveolar macrophages, making these cells relatively resistant to corticosteroids since one of the principal targets of corticosteroid action is by switching off gene expression of inflammatory genes through the recruitment of histone deacetylases [41].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Most were stable on maintenance corticosteroids [8].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "There was compensatory adrenal hyperplasia, increased secretion of corticosterone and exaggerated ACTH and corticosterone response to stress [145,149].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Failure to observe these changes in mice with sub-physiological concentrations of corticosterone would suggest either that thymus-derived corticosterone [8] is sufficient to compensate for loss of systemic (adrenal-derived) corticosterone or that corticosterone is not directly involved in these processes under physiological, non-stress conditions.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Such reactions to corticosteroids for asthma therapy do occur occasionally [19].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Many experiments have shown that eosinophils are exquisitely sensitive to corticosteroids [29,30].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Furthermore, corticosteroids may inhibit the synthesis of NO [31], thus causing vasoconstriction.",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Compared with their lean littermates, ob/ob mice have reduced hepatic 11β-HSD1 activity but higher corticosterone level in liver due to their elevated plasma corticosterone [127].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 41,
+      "title": "Corticosteroid resistance in chronic obstructive pulmonary disease: inactivation of histone deacetylase"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 8,
+      "title": "Management and control of asthma as assessed by actual/best function and corticosteroid usage between 1980 and 1993/4"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 145,
+      "title": "11β-hydroxysteroid dehydrogenase type 1 knockout mice show attenuated glucocorticoid-inducible responses and resist hyperglycemia on obesity or stress"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 149,
+      "title": "Intracellular regeneration of glucocorticoids by 11β-hydroxysteroid dehydrogenase (11β-HSD)-1 plays a key role in regulation of the hypothalamic-pituitary-adrenal axis: analysis of 11β-HSD-1-deficient mice"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "Steroid production in the thymus: implications for thymocyte selection"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 19,
+      "title": "Corticosteroid allergy in asthma"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 29,
+      "title": "Non-invasive markers of airway inflammation as predictors of oral steroid responsiveness in asthma"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 30,
+      "title": "The effects of glucocorticoids on human eosinophils"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 31,
+      "title": "Increased expression of inducible nitric oxide synthase and cyclo-oxygenase-2 in the airway epithelium of asthmatic subjects and regulation by corticosteroid treatment"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 127,
+      "title": "Leptin activation of corticosterone production in hepatocytes may contribute to the reversal of obesity and hyperglycemia in leptin-deficient ob/ob mice"
+    }
+  ]
+}

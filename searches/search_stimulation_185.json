@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Macrophage-colony stimulating factor (MCSF), a proinflammatory mediator for microglial proliferation and activation, has been shown to be expressed by neurons upon Aβ stimulation [41].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Upon stimulation, these cells secrete a variety of products including interleukin (IL)-6 stimulating the liver to produce the acute phase reactant C-reactive protein (CRP) [3].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Second, the antigenic stimulation hypothesis states that immune-stimulating conditions lead to an increased risk of malignancy, which for hematological malignancies is supported by some studies [5,6].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Additionally, high doses of iodine were shown to directly affect macrophages, dendritic cells, B and T lymphocytes, resulting in stimulation of macrophage myeloperoxidase activity, acceleration of the maturation of dendritic cells, increasing the number of circulating T cells and stimulating B cell immunoglobulin production [25].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "[4], the responses of cells to bilateral stimulation were found to exceed the stronger of the responses to unilateral stimulation by, on average, 230%.",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "For example, neurons in area 3a are responsive to deep receptor and proprioceptive stimulation and in one study punctate tactile stimulation did not activate area 3a [13].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Stimulation of α1A-ARs promotes hypertrophy of cardiac myocytes [6].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 41,
+      "title": "Amyloid-β peptide-receptor for advanced glycation endproduct interaction elicits neuronal expression of macrophage-colony stimulating factor: a proinflammatory pathway in Alzheimer disease"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 3,
+      "title": "Inflammatory markers of coronary risk"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 6,
+      "title": "Allergy and risk of cancer. A prospective study using NHANESI followup data"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 5,
+      "title": "Allergies and agricultural exposure as risk factors for multiple myeloma"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "The effect of iodide ingestion on the development of spontaneous lympholytic thyroiditis in the diabetesprone BB/W rat"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 4,
+      "title": "Bilateral interaction in the second somatosensory area (SII) of the cat and contribution of the corpus callosum"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 13,
+      "title": "Segregation of somatosensory activation in the human rolandic cortex using fMRI"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 6,
+      "title": "The alpha 1A-adrenergic receptor subtype mediates biochemical, molecular, and morphologic features of cultured myocardial cell hypertrophy"
+    }
+  ]
+}

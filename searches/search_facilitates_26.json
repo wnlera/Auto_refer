@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "TinyOS support for the selected sensor platform facilitates rapid application development [18].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Specialized compartments within lymphoid tissues facilitate these interactions [3].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "ATLAS.ti software facilitated the iterative coding and sorting process[15].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "This link to the community facilitates the application of research findings on a local level [39,42].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This replication facilitates adjustments for the sources of variability that lead to ambiguous concentration estimates [16,17].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "It is assumed that this facilitates visual processing, which involves wiring local to the termination zone [5].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "To facilitate this task, a new EstSet module was added to FOUNTAIN [32].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "\"PEPI facilitates a ready understanding of important epidemiologic concepts, unfettered by the complexities of statistical programming\", says a reviewer [6].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 18,
+      "title": "TinyOS"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 3,
+      "title": "B cell development pathways"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 15,
+      "title": "ATLAS.ti Berlin: Scientific Software Development"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 42,
+      "title": "Institutional constraints to building social science capability in public health research: a case study from Indonesia"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 39,
+      "title": "Developing health research capability in Tanzania: from a Swiss Tropical Institute field laboratory to the Ifakara Centre of the Tanzanian National Institute of Medical Research"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Optimal design for ELISA and other forms of immunoassay"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 17,
+      "title": "Application of experimental design Techniques to optimize a competitive ELISA"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 5,
+      "title": "Cortical maps and visual perception: the Grindley Memorial Lecture"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 32,
+      "title": "FOUNTAIN: a JAVA open-source package to assist large sequencing projects."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 6,
+      "title": "Computer programs for epidemiologists: PEPI Version 4.0"
+    }
+  ]
+}

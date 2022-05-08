@@ -1,0 +1,34 @@
+{
+  "main_text": [
+    {
+      "sentence": "The fourth randomized trial randomized non-patients, relatives of gastroenterology patients, to be offered either FS or C and measured differential participation, which was equal in the two groups [20].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Both the recent America College of Gastroenterology (ACG) publications [8] and Centers for Disease Control and Prevention (CDC) [7] clearly state that a new diagnosis and past history of duodenal ulcer disease is a definite indication for testing and, if positive, for treatment.",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 20,
+      "title": "Assessment of the usefulness of a diagnostic test: Patient p preference in diagnostic tests of colonic inflammation"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 7,
+      "title": "Helicobacter pylori and Peptic Ulcer Disease-Fact Sheet for Health Care Providers."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 8,
+      "title": "Guidelines for the management of Helicobacter pylori infection. Ad Hoc Committee on Practice Parameters of the American College of Gastroenterology"
+    }
+  ]
+}

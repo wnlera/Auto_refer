@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Many persons with schizophrenia report chronically disturbed sleep [1,2].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "a synthetic phosphorothioate oligodeoxynucleotide targeting Rev mRNA has antiviral activity in chronically infected cells [25].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The following hypothesis is suggested from classic studies of starvation done in chronically fasted obese individuals [27,28].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Consistent with previous PedsQL™ 4.0 findings, [19] chronically ill children had lower HRQL scores than healthy children (Table 2).",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "found that older caregivers tended to assume the role of primary caregiver in attending to their chronically ill relatives [28].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "However, there remain limitations with current pediatric healthcare cost prediction methods, including the underestimation of healthcare costs for chronically ill children [14].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Balancing acidosis in chronically uremic rats with increased corticosterone secretion inhibited protein degradation, but had no effect on the defective protein synthesis[21].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The data used to construct the model were collected in the same laboratory using a conscious chronically instrumented sheep preparation and have been published previously [8,9].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 2,
+      "title": "Sleep in schizophrenia: a preliminary study using the Pittsburgh Sleep Quality Index"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 1,
+      "title": "Psychometric assessment of subjective sleep quality using the Japanese version of the Pittsburgh Sleep Quality Index (PSQI-J) in psychiatric disordered and control subjects"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 25,
+      "title": "Inhibition of the HIV Rev transactivator: A new target for therapeutic intervention"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 27,
+      "title": "Brain metabolism during fasting"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 28,
+      "title": "Starvation in man"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 19,
+      "title": "PedsQL 4.0: Reliability and Validity of the Pediatric Quality of Life Inventory Version 4.0 Generic Core Scales in Healthy and Patient Populations"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 28,
+      "title": "Caregivers of the frail elderly: a national profile"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Capitation adjustment for pediatric populations"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 21,
+      "title": "Glucocorticoids and acidosis stimulate protein and amino acid catabolism in vivo"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 9,
+      "title": "Acute cardiovascular effects of magnesium and their relationship to systemic and myocardial magnesium concentrations after short infusion in awake sheep"
+    }
+  ]
+}

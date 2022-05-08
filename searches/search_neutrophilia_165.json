@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "We have recently revealed the functional importance of neutrophils in brain abscess development using antibody-mediated neutrophil depletion and CXCR2 KO mice where neutrophils lack the high-affinity receptor for the neutrophil chemoattractants MIP-2/CXCL2 and KC/CXCL2 [5].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "They may stimulate neutrophils to release oxygen free radicals and augment the free radical response to other neutrophil activators [19].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Additionally, the α4-integrin/VCAM-1-dependent neutrophil adhesion under flow conditions has been shown in neutrophils isolated from critically ill septic patients [35].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The rise in neutrophils is in line with two studies on acute effects of smoking in humans, showing increased neutrophils in bronchoalveolar lavage fluid 1 hour after smoking [18] and increased neutrophil retention in the lung during smoke exposure [19].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Other studies reveal that neutrophils stimulate tumour cell attachment to endothelial monolayers [6,7] and neutrophil-released cytokines, growth and angiogenic factors enhance tumour growth and spread [8].",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "We found that the C-36 peptide displays striking concentration-dependent pro-inflammatory effects on human neutrophils, including induction of neutrophil chemotaxis, adhesion, degranulation and superoxide generation [31].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Current knowledge of the degranulation process of neutrophils in vitro suggests that the chemokine IL-8 promotes rapid release of all neutrophil granular stores after cell exposure to cytoskeleton-disrupting agents [61].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 5,
+      "title": "CXC chemokine receptor-2 ligands are required for neutrophil-mediated host defense in experimental brain abscesses"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 19,
+      "title": "Sulfite-induced propofol oxidation: a cause for radical concern"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 35,
+      "title": "Functional alpha4-integrin: a newly identified pathway of neutrophil recruitment in critically ill septic patients"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 18,
+      "title": "Neutrophil chemokines in bronchoalveolar lavage fluid and leukocyte- conditioned medium from nonsmokers and smokers"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 19,
+      "title": "The effect of cigarette smoking on neutrophil kinetics in human lungs"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 8,
+      "title": "Tumor progression: defining the soil round the tumor seed"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 6,
+      "title": "Contribution of cytokines on the suppression of lung metastasis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 7,
+      "title": "Influence of migratory blood cells on the attachment of tumor cells to vascular endothelium"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 31,
+      "title": "Divergent effects of alpha1-antitrypsin on neutrophil activation, in vitro"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 61,
+      "title": "The role of CXC chemokines in the regulation of angiogenesis in non-small cell lung cancer"
+    }
+  ]
+}

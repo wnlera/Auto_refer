@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "By fusing target proteins with chloramphenicol acetyl transferase (CAT) more soluble fusion protein mutants were selected on media containing progressively higher levels of chloramphenicol [74].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "The MIC of chloramphenicol for S. gordonii was determined following standard procedures [26].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The library of PCR amplified VH/κ sequences were inserted into pORFES [14] and an aliquot compared for number of functional inserts by selecting in the presence of either chloramphenicol (total transformation events) or chloramphenicol and carbenicillin (functional inserts).",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Although the synthesis and cell surface expression of MTFs was inhibited by the mitochondria specific protein synthesis inhibitor chloramphenicol, it is not clear whether post-translational modifications of mitochondria proteins are also responsible for MTFs; given that chloramphenicol is also an inhibitor of proteolysis in rat liver mitochondria [174].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Three reporter enzymes have been used to date, the green fluorescent protein (GFP [19]), the chloramphenicol acetyl transferase (CAT [20]) and the β-galactosidase (βgal [21]).",
+      "b_link": [
+        "B_6",
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Molyneux reported fatal outcome for 58% of children with meningitis caused by nontyphoidal salmonellae despite routine treatment with chloramphenicol, to which all bacterial isolates were sensitive in vitro [4].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "In HepG2 cells a glucose-6-phosphatase promoter/chloramphenicol acetyltransferase reporter gene showed a 2 to 3-fold enhancement in transcription following stimulation of the cells with dibutyryl cAMP [8].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 74,
+      "title": "A simple in vivo assay for increased protein solubility"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 26,
+      "title": "In vitro susceptibility studies of vancomycin-resistant Enterococcus faecalis"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 14,
+      "title": "Modulation of polypeptide display on modified filamentous phage use:"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 174,
+      "title": "Inhibition of proteolysis of cytosol proteins by lysosomal proteases and of mitochondria of rat liver by antibiotics"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 19,
+      "title": "Rapid protein-folding assay using green fluorescent protein"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 21,
+      "title": "Protein solubility and folding monitored in vivo by structural complementation of a genetic marker protein"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 20,
+      "title": "A simple in vivo assay for increased protein solubility"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 4,
+      "title": "Salmonella meningitis in children in Blantyre, Malawi, 1996-1999"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 8,
+      "title": "The role of HNF1α, HNF3γ, and cyclic AMP in glucose-6-phosphatase gene activation"
+    }
+  ]
+}

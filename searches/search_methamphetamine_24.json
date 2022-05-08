@@ -1,0 +1,76 @@
+{
+  "main_text": [
+    {
+      "sentence": "Neurotoxic effects of methamphetamine and cocaine appear to be due to induction of inflammatory genes in small vessel endothelial cells [122,137], thus explaining the vascular damage seen in amphetamine and cocaine abuse that was previously attributed to contaminants of injected drugs [122,138-140].",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    },
+    {
+      "sentence": "On the other hand, •NO is able to react with O2 •- to produce ONOO-, which is a powerful oxidant more, reactive than its precursors, and has been implicated in an increasing list of diseases: hyperlipidemia [32], Alzheimer [20], acute renal ischemia [25], neurotoxicity induced by methamphetamine [33], and diabetes [23].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 137,
+      "title": "Methamphetamine induces AP-1 and NF-kappaB binding and transactivation in human brain endothelial cells"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 122,
+      "title": "Cerebral vasculitis associated with cocaine abuse"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 33,
+      "title": "Prevention of dopaminergic neurotoxicity by targeting nitric oxide and peroxynitrite: implications for the prevention of methamphetamine-induced neurotoxic damage"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 25,
+      "title": "Oxidative and nitrosative stress in acute renal ischemia"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 32,
+      "title": "Hyperlipidemia induced by a cholesterol-rich diet leads to enhanced peroxynitrite formation in rat hearts"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 23,
+      "title": "Part I: pathogenetic role of peroxynitrite in the development of diabetes and diabetic vascular complications: studies with FP15, a novel potent peroxynitrite decomposition catalyst"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 20,
+      "title": "Proteomic identification of nitrated proteins in Alzheimer's disease brain"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

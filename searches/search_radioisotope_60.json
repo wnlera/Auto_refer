@@ -1,0 +1,28 @@
+{
+  "main_text": [
+    {
+      "sentence": "In this accident, a variety of radioisotopes including iodine (131I), cesium (137Cs, 134Cs), and strontium (90Sr), were released from the damaged reactor vessel contaminating soil, vegetation, and groundwater [1].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "In nylon membrane microarrays using radioactive probes acquisition of phosphor-representations of radioactive hybridizations is performed with a high resolution digital autoradiography system displaying in real time the quantitative image of radioisotopes deposited on biological samples [18].",
+      "b_link": [
+        "B_2"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 1,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 18,
+      "title": "Sensitivity issues in DNA array-based expression measurements and performance of nylon microarrays for small samples"
+    }
+  ]
+}

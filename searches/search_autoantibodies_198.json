@@ -1,0 +1,81 @@
+{
+  "main_text": [
+    {
+      "sentence": "Interestingly, anti-CYP2A6 autoantibodies were not detected in patients with AIH-2 who exhibit high titers of anti-LKM-1 autoantibodies [134].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Moreover, thyroid autoantibodies are rare in healthy centenarians [39].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Three types of anti-LKM autoantibodies have been identified [3,5,14,15,18,30,63,72,85].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6",
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 134,
+      "title": "Cytochrome P450 2A6: A new hepatic autoantigen in patients with chronic hepatitis C virus infection"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 39,
+      "title": "Thyroid autoimmunity and aging"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 3,
+      "title": "Autoimmune hepatitis: clinical challenges"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 18,
+      "title": "Chronic active hepatitis associated with anti-liver kidney microsome antibody type I: A second type of \"autoimmune hepatitis\""
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 63,
+      "title": "Autoantibodies in liver disease"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 30,
+      "title": "The validity and importance of subtypes in autoimmune hepatitis: A point of view"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 5,
+      "title": "Autoimmune hepatitis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 14,
+      "title": "Autoantibodies and defined target autoantigens in autoimmune hepatitis: an overview"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 72,
+      "title": "Cytoplasmic autoantigens in autoimmune hepatitis: Molecular analysis and clinical relevance"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 85,
+      "title": "Human antiendoplasmic reticulum autoantibodies appearing in a drug-induced hepatitis directed against a human liver cytochrome P450 that hydroxylates the drug"
+    }
+  ]
+}

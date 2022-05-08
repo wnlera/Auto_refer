@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "The questionnaire was administrated in person by specially trained dieticians and has been validated [15].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "This self-administrated questionnaire has been documented as a reliable instrument for monitoring the progress of rehabilitation [3,7].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "No correlation between changes of mechanical properties of the material and specific chemotherapy administrated through the port has been established so far [7,8].",
+      "b_link": [
+        "B_4",
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The Knee injury and Osteoarthritis Outcome Score (KOOS) is also a self-administrated instrument measuring outcome after knee injury at impairment, disability, and handicap level with five subscales [16].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "\"The Tier 2 tests are longer in duration than Tier 1 tests and are designed to encompass critical life stages and processes as well as a broad range of doses, and are intended to be administrated by a relevant route of exposure\" [16].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "If such an effect is discovered, \"the [EPA] Administrator shall, as appropriate, take action under such statutory authority as is available...as is necessary to ensure the protection of public health\" [2].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In a multicenter study carried out in Europe, LGG was administrated in a hypotonic oral rehydration solution to children with acute diarrhea, showing that it was safe and resulted in shorter duration of diarrhea, less chance of a protracted course, and faster discharge from the hospital [8].",
+      "b_link": [
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "[D]evelop a screening program, using appropriate validated test systems and other scientifically relevant  information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effects as the [EPA] Administrator may designate [2].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 15,
+      "title": "Reproducibility and relative validity of an extensive semi-quantitative food frequency questionnaire using dietary records and biochemical markers among Greek schoolteachers"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 3,
+      "title": "Patellar tendinopathy: some aspects of basic science and clinical management"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 7,
+      "title": "Conservative treatment of patellar tendinopathy"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 7,
+      "title": "Infectious and other complications in totally implantable venous access port catheters"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 8,
+      "title": "Experience with subcutaneous infusion ports in three hundred patients"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Knee injury and Osteoarthritis Outcome Score (KOOS)--validation of a Swedish version"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 16,
+      "title": "Endocrine Disruptor Screening Program Components"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 2,
+      "title": "Food Quality Protection Act of 1996"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 8,
+      "title": "Lactobacillus GG administered in oral rehydration solution to children with acute diarrhea: A multicenter European trial"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 2,
+      "title": "Food Quality Protection Act of 1996"
+    }
+  ]
+}

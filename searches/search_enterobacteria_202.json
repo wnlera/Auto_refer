@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "This signal has the same structure as in enterobacteria (an inverted repeat of 27-28 bp), but its consensus (GTGTTAC-[N13/14]-GTAACAC) differs significantly from the consensus of NikR binding signal of enterobacteria (GTATGAT-[N13/14]-ATCATAC) [37].",
+      "b_link": [
+        "B_1",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Gram negative enterobacteria and Pseudomonas aeruginosa are more frequently isolated in patients with severe underlying disease [10].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Liberal use of the 3GC antibiotics has resulted in the ESBLs conferring resistance among Enterobacter[3] and Enterobacteriacae worldwide [4-6] compromising their clinical use.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "In Belgium, as well as in other countries, a shift occurred from Klebsiella pneumoniae isolates as the predominant ESBL-producers [3] to predominance of Enterobacter aerogenes.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Our sequencing results (unpublished) and those of others [6] confirm that the genus Enterobacter is polyphyletic and that E. aerogenes should be placed within the genus Klebsiella.",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "A multilocus approach has recently been applied to small numbers of isolates of several relatively distantly related named species of enterobacteria [10], and other bacteria [11], and to larger numbers of isolates of related bacteria that are believed to have relatively low rates of recombination [12-14].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "The most common organism is E. coli [2], but other organisms reported to produce emphysematous cystitis include Enterobacter aerogenes, Klebsiella pneumonia, Proteus mirabilis, Staphylococcus aureus, streptococci, Clostridium perfringens [8], and Candida albicans [9].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 37,
+      "title": "Nickel uptake and utilization by microorganisms."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 10,
+      "title": "Infectious exacerbations of chronic bronchitis: diagnosis and management"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 3,
+      "title": "Emergence of third-generation cephalosporin resistance in Enterobacter species"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 3,
+      "title": "Klebsiella spp. as nosocomial pathogens: epidemiology, taxonomy, typing methods, and pathogenicity factors"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 6,
+      "title": "Sequencing of the 16S rDNA of Klebsiella: taxonomic relations within the genus and to other Enterobacteriaceae"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 11,
+      "title": "A Species Definition for the Modern Synthesis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 10,
+      "title": "When does a clone deserve a name? A perspective on bacterial species based on population genetics"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 9,
+      "title": "Emphysematous prostatitis and cystitis secondary to Candida albicans"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 2,
+      "title": "Cystitis emphysematosa: 19 cases with intraluminal and interstitial collections of gas"
+    }
+  ]
+}

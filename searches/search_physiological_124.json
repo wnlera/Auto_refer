@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "They develop chronic stress – like autonomic and physiological alterations [17].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Some systems use physiological signals to improve context identification [31].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Under physiological conditions, the macromolecular complex plays an important physiological role in vitamin A homeostasis because it binds the specific transport protein for retinol, the lipocalin retinol-binding protein (RBP) [4,5].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "[94], deviations from Kleiber's law indicate inefficiency or some physiological compensation process.",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "physiological rhythms are rarely strictly periodic but fluctuate irregularly over time) [34].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Certain physiologic risk factors (e.g., insulin resistance, dyslipidemia) may be linked to early-life SES through latent physiologic effects of negative childhood exposures, continuous exposure to negative physiologic stimuli, or other physiologic or life course pathway mechanisms [14,63,70,74].",
+      "b_link": [
+        "B_7",
+        "B_8",
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "Overexpression of corticotropin-releasing hormone in transgenic mice and chronic stress-like autonomic and physiological alterations"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 31,
+      "title": "Unsupervised, Dynamic Identification of Physiological and Activity Context in Wearable Computing"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 4,
+      "title": "The transthyretin-retinol-binding protein complex"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 5,
+      "title": "Hepatic synthesis, maturation and complex formation between retinol-binding protein and transthyretin"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 94,
+      "title": "Size and form in efficient transportation networks"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 34,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 14,
+      "title": "Social and biological pathways linking early life and adult disease"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 70,
+      "title": "A lifecourse study of risk for hyperinsulinaemia, dyslipidaemia and obesity (the central metabolic syndrome) at age 49-51 years"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 74,
+      "title": "Childhood social circumstances and psychosocial and behavioural factors as determinants of plasma fibrinogen"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 63,
+      "title": "Does childhood socioeconomic status influence adult health through behavioural factors?"
+    }
+  ]
+}

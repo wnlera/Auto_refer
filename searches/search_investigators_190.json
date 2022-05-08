@@ -1,0 +1,96 @@
+{
+  "main_text": [
+    {
+      "sentence": "This finding was inconsistently reported by other investigators [24,25].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "This finding has not been confirmed by all investigators[9,10].",
+      "b_link": [
+        "B_3",
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "However, other investigators have identified only hematopoeitic chimerism by HSCs [32].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "This is consistent with what has been reported by other investigators [1,3].",
+      "b_link": [
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Stokes' two books are excellent resources for investigators new to validation [2,3].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Some investigators have used identification of barriers as an intervention in itself [19,38,39].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 24,
+      "title": "Transient hypogammaglobulinemia, elevated immunoglobulin E levels, and food allergy"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 25,
+      "title": "Transient hypogammaglobulinemia of infancy: clinical and immunologic features of 40 new cases"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 9,
+      "title": "Evaluation of the angiotensinogen locus in human essential hypertension: a European study"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 10,
+      "title": "Association between the angiotensinogen 235T-variant and essential hypertension in whites: a systematic review and methodological appraisal"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 32,
+      "title": "Little evidence for developmental plasticity of adult hematopoietic stem cells"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 1,
+      "title": "Weight gain among women in the late reproductive years"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 3,
+      "title": "Prevalence and Correlates of Overweight and Obesity Among Older Adults: Findings From the Canadian National Population Health Survey"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 2,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 3,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 38,
+      "title": "Randomised controlled trial of tailored strategies to implement guidelines for the management of patients with depression in general practice"
+    }
+  ]
+}

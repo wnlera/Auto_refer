@@ -1,0 +1,35 @@
+{
+  "main_text": [
+    {
+      "sentence": "The finished genomes include sulfate-reducing Desulfovibrio vulgaris [16], D. desulfuricans G20, and Desulfotalea psychrophila, as well as the sulfur-reducing G. sulfurreducens [17], while the G. metallireducens genome has been completed to draft quality.",
+      "b_link": [
+        "B_1",
+        "B_2",
+        "B_3",
+        "B_4"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 17,
+      "title": "Genome of Geobacter sulfurreducens: metal reduction in subsurface environments."
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 16,
+      "title": "The genome sequence of the anaerobic, sulfate-reducing bacterium Desulfovibrio vulgaris Hildenborough."
+    },
+    {
+      "b_link": "B_3",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    }
+  ]
+}

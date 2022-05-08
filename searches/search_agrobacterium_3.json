@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "For the generation of transgenic plants pC1G-1097 and pC2G-2998 were directly transformed into Agrobacterium tumefaciens strain GV2260 [39].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Another ORF in HP26695, HP0017 was found to be homologous to the virB4 gene in Agrobacterium tumifaciens type IV secretory apparatus and was named as comB4 [50].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Rhizobium (Agrobacterium) vitis is not a symbiont, but rather causes a tumorigenic disease of grapevine through the action of a number of A. tumefaciens-like genes [32].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The AML1 ORF was separately cloned into the pCambia1302 35S::GFP plant transformation vector both 5' and 3' of the GFP ORF, and the construct was transformed into Arabidopsis via Agrobacterium-mediated floral dip [27].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Indeed, Rhizobiales have transmissible chromosomal elements and some, like Agrobacterium, are able to integrate their plasmid genes into plant genome [35] or even transform animal cells [36], a situation that would be ideally suited for a horizontal gene transfer to occur.",
+      "b_link": [
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "It is not known why phytochrome proteins are retained in non-photosynthetic bacteria but it has been suggested that the phytochrome-like sensor kinases in Agrobacterium may play a role in detecting depth in soil strata as a means of optimising interactions with roots [39].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "In the alpha-proteobacteria group, a non homologous end joining appears to be important for the integration of inserting elements in the genome of host plants, as occurs with Agrobacterium sp T-DNA [28] or for the amplification of Rhizobium species amplicons present in pNGR234 plasmid [29].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "The resulting test constructs were generated as part of a modified pPZP211 [46] binary plant transformation vector (Figure 2) and were introduced into the Agrobacteria tumefaciens strain, EHA105 [47] by electroporation [48].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 39,
+      "title": "Binary Ti vectors for plant transformation and promoter analysis"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 50,
+      "title": "Topology and membrane interaction of Helicobacter pylori ComB proteins involved in natural transformation competence"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 32,
+      "title": "Novel domains of the prokaryotic two-component signal transduction systems"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 27,
+      "title": "Floral dip: a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 36,
+      "title": "Genetic transformation of HeLa cells by Agrobacterium"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 35,
+      "title": "Agrobacterium tumefaciens as an agent of disease"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 39,
+      "title": "Bacteriophytochrome controls photosystem synthesis in anoxygenic bacteria"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 28,
+      "title": "Non-homologous end-joining proteins are required for Agrobacterium T-DNA integration."
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 29,
+      "title": "Genetic snapshots of the Rhizobium species NGR234 genome."
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 46,
+      "title": "The small, versatile pPZP family of Agrobacterium binary vectors for plant transformation"
+    }
+  ]
+}

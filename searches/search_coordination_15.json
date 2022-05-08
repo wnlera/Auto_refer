@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "This requires coordination between the CP-CSF and periventricular regions [46,48].",
+      "b_link": [
+        "B_1",
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "Learning a new motor coordination skill can be divided into 3 phases: cognitive, associative, and autonomous [54].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "[17] used a haptic device for the assessment and training of motor coordination, and Jack et al.",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Furthermore, a preliminary study has shown the loss of cardiorespiratory coordination in patients after acute myocardial infarction [61,62].",
+      "b_link": [
+        "B_5",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "They have been mainly used in early studies on cardiorespiratory coordination and are not common at present [44,45].",
+      "b_link": [
+        "B_6",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "In fact, physiologists had already investigated cardiorespiratory coordination in the human organism as early as the 1960ies [25].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Important informal factors – for example, staff commitment – have \"become the prime means of direction, motivation, coordination and control\" [22].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 48,
+      "title": "FGF-2 immunoreactivity in adult rat ependyma and choroid plexus: responses to global forebrain ischemia and intraventricular FGF-2"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 46,
+      "title": "Defective cell cycle control underlies abnormal cortical development in the hydrocephalic Texas rat"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 54,
+      "title": "Neurophysiologic, motor control, and motor learning basis of closed kinetic chain exercise"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 17,
+      "title": "Virtual reality and haptics as an assessment devise in the postacute phase after stroke"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 61,
+      "title": "Cardiorespiratory desynchronisation after acute myocardial infarction"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 45,
+      "title": "Inspiratory timing during anaesthesia: a model of cardioventilatory coupling"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 25,
+      "title": "Untersuchungen über die Koordination von Herzschlag und Atmung beim Menschen"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 44,
+      "title": "The determination of cardioventilatory coupling from heart rate and ventilatory time series"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 62,
+      "title": "Mutual information and phase dependencies: measures of reduced nonlinear cardiorespiratory interactions after myocardial infarction"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 22,
+      "title": "Public sector modernisation: a new agenda"
+    }
+  ]
+}

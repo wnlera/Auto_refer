@@ -1,0 +1,91 @@
+{
+  "main_text": [
+    {
+      "sentence": "Cross-hybridizations that may arise due to poly(A)-tail of mRNA or repetitive elements may be reduced or eliminated using hybridization blocking reagents like poly(A) oligonucleotides [6] or Cot1 DNA.",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Embryonic whole-mount in situ RNA hybridizations were performed as previously described [21].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "The expression measurement xij can be the ratio of the two fluorescent dye hybridization intensities for the spotted cDNA arrays[10,12] and the Intjek oligonucleotide array [11], or averaged difference between the perfect match and mismatch probe hybridizations for the Affymetrix gene chip [13].",
+      "b_link": [
+        "B_3",
+        "B_4",
+        "B_5",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "In addition, the level of cross hybridisation between genes with high sequence identity is also of interest because arrays are not always available for mammalian species other than human and rodents so cross-species hybridisations are often carried out [19,20].",
+      "b_link": [
+        "B_7",
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Chromosome preparation, probe hybridization and post hybridization washes were performed as described previously [35,36].",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 6,
+      "title": "Outliers involving the Poly(A) effect among highly-expressed genes in microarrays"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 10,
+      "title": "Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 13,
+      "title": "Gene expression predictors of breast cancer outcomes"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 11,
+      "title": "Gene expression profiling predicts clinical outcome of breast cancer"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 12,
+      "title": "Breast cancer classification and prognosis based on gene expression profiles from a population-based study"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 20,
+      "title": "Cross-hybridization of closely related genes on high-density macroarrays"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 19,
+      "title": "Hybridization cross-reactivity within orthologous gene families on glass microarrays"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 36,
+      "title": "The DAPI banded karyotype of the domestic dog (Canis familiaris) generated using chromosome-specific paint probes"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 35,
+      "title": "Chromosome-specific single-locus FISH probes allow anchorage of an 1800-marker integrated radiation-hybrid/linkage map of the domestic dog genome to all chromosomes"
+    }
+  ]
+}

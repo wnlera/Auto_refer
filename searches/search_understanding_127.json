@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Understanding the complexity of this \"regulatory patch work\" is essential [7].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "According to this understanding, Europe, too, was to develop its own HFA policy [21].",
+      "b_link": [
+        "B_2"
+      ]
+    },
+    {
+      "sentence": "According to Hussey, however, simply receiving a message hardly correlates with understanding it [17].",
+      "b_link": [
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "Despite a better understanding of pathophysiology and management of malaria, childhood mortality remains unacceptably high [6].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "Non-linear techniques have been proven to be major cornerstones for understanding the ECG signals [13,16,17].",
+      "b_link": [
+        "B_5",
+        "B_6",
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "Studies have demonstrated a systematic progression of children's understanding of illness that corresponds to Piaget's framework [30,31].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "Maturity and an increase in age generate a more sophisticated understanding and perceptions about health and illness [29].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 7,
+      "title": "A regulatory patchwork – human ES cell research oversight"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 21,
+      "title": "Forty Years of WHO in Europe. The development of a common health policy"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 17,
+      "title": "Strengthening the Effectiveness of Patient Education: Applying Principles of Adult Education"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 6,
+      "title": "The pathogenic basis of malaria"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 13,
+      "title": "Investigating the dynamics of atrioventricular delay"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 16,
+      "title": "Applying non-linear dynamics to ECG signal processing"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 17,
+      "title": "Applying continuous chaotic modeling to cardiac signal analysis"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 31,
+      "title": "There's a demon in your belly: Children's understanding of illness"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 30,
+      "title": "Conceptions of illness by children with juvenile rheumatoid arthritis: A cognitive developmental approach"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 29,
+      "title": "Conceptions of illness by children with juvenile rheumatoid arthritis: a cognitive developmental approach"
+    }
+  ]
+}

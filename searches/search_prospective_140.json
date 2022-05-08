@@ -1,0 +1,101 @@
+{
+  "main_text": [
+    {
+      "sentence": "Many of the recent reports from prospective population-based studies of diet and cancer have not found the same protective effects of fruits and vegetables that were reported earlier in the epidemiological and case-control studies [reviewed in [85]].",
+      "b_link": [
+        "B_1",
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "It has been evaluated in two prospective randomized trials [80,81].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The value of peritoneal cytology is supported by prospective studies [34].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The study population consisted of the established KNHIC prospective cohort [13].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "Most prospective studies combined the injury rates for males and females [e.g., [8]].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "conducted a large open prospective study including 19 children suffering from LS [43,44].",
+      "b_link": [
+        "B_8",
+        "B_9"
+      ]
+    },
+    {
+      "sentence": "A similar association was found in a prospective study involving patients with SLE [37].",
+      "b_link": [
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 85,
+      "title": "Epidemiologic evidence of the protective effect of fruit and vegetables on cancer risk"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 80,
+      "title": "The effect of debulking surgery after induction chemotherapy on the prognosis in advanced epithelial ovarian cancer"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 81,
+      "title": "A phase III randomized study of interval secondary cytoreduction in patients with advanced stage ovarian carcinoma with suboptimal residual disease: a Gynecologic Oncology Group study"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 34,
+      "title": "The prognostic value of peritoneal cytology in ovarian cancer"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 13,
+      "title": "The relationship between modifiable health risks and future medical care expenditures: The Korea Medical Insurance Corporation(KMIC) study"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": "EGGOG",
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 8,
+      "title": "Non contact karate injuries"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 43,
+      "title": "Rapid clearance of progressive localized scleroderma in a child by treatment with UVA1 and calcipotriol"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 44,
+      "title": "Combined treatment with calcipotriol ointment and low-dose ultraviolet A1 phototherapy in childhood morphea"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 37,
+      "title": "Risk factors for Pneumocystis carinii pneumonia in patients with polymyositis/dermatomyositis or systemic lupus erythematosus [abstract]"
+    }
+  ]
+}

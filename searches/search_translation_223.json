@@ -1,0 +1,106 @@
+{
+  "main_text": [
+    {
+      "sentence": "Potential mechanisms for this inhibition of apoptosis include the alteration of protein transcription and translation, or post-translational control of protein function [9].",
+      "b_link": [
+        "B_1"
+      ]
+    },
+    {
+      "sentence": "Codon bias resulting from selection for translational power (or for any other translation-dependent benefit) is correlated with gene expression level because the benefit accrues during each instance of translation, so the selective pressure for preferred codons is stronger in more highly expressed genes [7,8].",
+      "b_link": [
+        "B_2",
+        "B_3"
+      ]
+    },
+    {
+      "sentence": "The protein binds to a specific target (translational operator) in the 5' leader segment of the mRNA from gene 32, and represses translation of this RNA [7].",
+      "b_link": [
+        "B_4"
+      ]
+    },
+    {
+      "sentence": "The secY-containing operon, which is similar to the streptomycine operon spc from B. subtilis and other bacteria, involves the genes required for protein translation and translocation [20].",
+      "b_link": [
+        "B_5"
+      ]
+    },
+    {
+      "sentence": "The translation process set by the international quality of life assessment (IQOLA) project was built on lessons from cross-cultural psychology and other health survey projects to develop protocols for translating, validating, and norming health status questionnaires, entails forward translation by at least two translators who were native speakers of the target language, rating of translation equality by two other bilinguals, and back translation by two translators who were native speakers of American-English or British-English [11].",
+      "b_link": [
+        "B_6"
+      ]
+    },
+    {
+      "sentence": "Translational power reflects both the average translation rate and the fraction of active ribosomes in a cell or culture, which we demonstrate as follows, using the approach of chapter 6 of reference [34].",
+      "b_link": [
+        "B_7"
+      ]
+    },
+    {
+      "sentence": "The empirical translation rate data used in Scenarios 1–4 reflect ternary complex selection at the ribosomal A-site, but not translocation of the newly-formed peptidyl-tRNA from the A-site to the P-site [45].",
+      "b_link": [
+        "B_8"
+      ]
+    },
+    {
+      "sentence": "Translation rate (a synonym of 'protein chain growth rate' [3,34], meaning the rate of amino acid polymerization per active ribosome) is one component of translational power, but translational power reflects other properties of the protein synthesis system as well, most notably the fraction of ribosomes that are active (see Methods, also chapter 6 of reference [34]).",
+      "b_link": [
+        "B_9",
+        "B_10"
+      ]
+    }
+  ],
+  "source_text": [
+    {
+      "b_link": "B_1",
+      "old_link": 9,
+      "title": "Nitric oxide: NO apoptosis or turning it ON?"
+    },
+    {
+      "b_link": "B_2",
+      "old_link": 7,
+      "title": "Codon preferences in free-living microorganisms"
+    },
+    {
+      "b_link": "B_3",
+      "old_link": 8,
+      "title": "Codon usage – mutational bias, translational selection, or both?"
+    },
+    {
+      "b_link": "B_4",
+      "old_link": 7,
+      "title": "in Control of Translation Initiation: mRNA Structure and Protein Repressors"
+    },
+    {
+      "b_link": "B_5",
+      "old_link": 20,
+      "title": "Genetic and transcriptional organization of the Bacillus subtilis spc-alpha region"
+    },
+    {
+      "b_link": "B_6",
+      "old_link": 11,
+      "title": "Translation health status questionnaire and evaluating their quality: The IQOLA Project Approach"
+    },
+    {
+      "b_link": "B_7",
+      "old_link": 34,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_8",
+      "old_link": 45,
+      "title": "Rates of aminoacyl-tRNA selection at 29 sense codons in vivo"
+    },
+    {
+      "b_link": "B_9",
+      "old_link": 34,
+      "title": "EGGOG"
+    },
+    {
+      "b_link": "B_10",
+      "old_link": 3,
+      "title": "Modulation of chemical composition and other parameters of the cell by growth rate"
+    }
+  ]
+}
