@@ -23,6 +23,18 @@ def search_elastic(value: str):
     return response
 
 
+def create_reference_string(path, ref_id):
+    # path = "../files/PMC2605581.xml"
+    # ref_id = "B15"
+    df_ref = pd.read_csv("big_files/references.csv")
+    result = df_ref.loc[(df_ref["file_name"] == path) & (df_ref["ref_id"] == ref_id)]
+    result_str = f"{result.iloc[0]['author']}. " \
+                 f"{result.iloc[0]['article_title']}. " \
+                 f"{result.iloc[0]['source']}. " \
+                 f"{int(result.iloc[0]['year'])}."
+    return result_str
+
+
 # Create review in json
 def create_review(response: dict):
     sentence_list = []
@@ -33,10 +45,12 @@ def create_review(response: dict):
     for hits in hits_list:
         if hits['_score'] > 4:
             hits_sentence = hits['_source']['sentence']
-            hits_citation_number = hits['_source'].get('citation_number_from_sentence', "EGGOG")
-            hits_citation_title = hits['_source'].get('citation_title', "EGGOG")
-            if not hits_citation_title:
-                continue
+            hits_citation_number = hits['_source'].get('citation_number_from_sentence', "oops! Not found")
+            # hits_citation_title = hits['_source'].get('citation_title', "EGGOG")
+            # if not hits_citation_title:
+            #     continue
+            hits_file_name = hits['_source'].get('file_name', "oops! Not found")
+            hits_citation_title = create_reference_string(hits_file_name, "B" + hits_citation_number)
             if hits_sentence not in sentence_list:
                 sentence_list.append(hits['_source']['sentence'])
                 b_ind += 1

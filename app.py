@@ -1,9 +1,6 @@
-from flask import Flask, url_for, render_template
+from flask import Flask, render_template
 from urllib.parse import unquote
 import client_elastic
-import json
-import os
-import re
 
 app = Flask(__name__, static_folder="static", static_url_path="")
 

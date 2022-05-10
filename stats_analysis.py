@@ -12,7 +12,7 @@ print(f"Words with zero sentence: {df1_uniq.loc[df1_uniq['found_sentences'] == 0
 print("Head of words:")
 print(df1_uniq.sort_values(by=['found_sentences'], ascending=False).head(15))
 print()
-df2 = pd.read_csv('citation2.csv')
+df2 = pd.read_csv('big_files/citation2.csv')
 print("citation2.csv")
 print(f"Title count: {df2['source_title'].drop_duplicates().count()}")
 print(f"Sentence count: {df2['sentence'].drop_duplicates().count()}")
