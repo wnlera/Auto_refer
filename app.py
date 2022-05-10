@@ -5,6 +5,7 @@ import client_elastic
 app = Flask(__name__, static_folder="static", static_url_path="")
 
 
+
 search_stats = {"key": [], "found_sentences": []}
 n = 0
 
