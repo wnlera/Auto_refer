@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /data/
-/citation.csv
+/big_files/
