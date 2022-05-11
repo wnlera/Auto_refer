@@ -6,7 +6,7 @@ function create_link_text(link_number, jsonData) {
     for (let i = 0; i < jsonData.source_text.length; i++) {
         if (jsonData.source_text[i].b_link === link_number) {
             let link_title = jsonData.source_text[i]["title"];
-            let link_text = `[<a href="#${link_number}" data-title="${link_title}">${link_number}</a>]`
+            let link_text = `[<a href="#${link_number}" data-title="${link_title}" style="font-weight: bold">${link_number}</a>]`
             return link_text
         }
     }
@@ -16,7 +16,7 @@ function create_text(jsonData) {
     let mainContainer = document.getElementById("myData");
     clear_text()
     let h3 = document.createElement("h3");
-    h3.innerHTML = "Suitable sentence"
+    h3.innerHTML = "Suitable sentences"
     mainContainer.appendChild(h3);
     for (let i = 0; i < jsonData.main_text.length; i++) {
         let p = document.createElement("p");
@@ -62,15 +62,20 @@ function clear_text(){
 searchButton.addEventListener('click', () => {
     const inputValue = searchInput.value;
     let infoDiv = document.getElementById("myInfo");
-    infoDiv.textContent = "Showing results as requested: " + inputValue;
+    infoDiv.textContent = "Searching: " + inputValue;
+    clear_text()
     get_review(inputValue).then((data) => {
         if (data.main_text.length > 0) {
+            infoDiv.textContent = "Results for: " + inputValue;
             create_text(data)
             create_ref(data)
         } else {
             clear_text()
-            infoDiv.textContent = "Nothing found for your search: " + inputValue;
+            infoDiv.textContent = "Nothing found for: " + inputValue;
         }
+    }).catch(() => {
+        clear_text()
+        infoDiv.textContent = "Server error or timeout 😔";
     });
 });
 

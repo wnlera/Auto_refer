@@ -1,9 +1,5 @@
 from elasticsearch import Elasticsearch
-import json
-import re
-import os
 import pandas as pd
-import find_keywords
 
 es = Elasticsearch('https://localhost:9200')
 
@@ -15,6 +11,7 @@ client = Elasticsearch(
     ca_certs="ca.crt",
     basic_auth=("elastic", ELASTIC_PASSWORD)
 )
+df_ref = pd.read_csv("big_files/references.csv")
 
 
 # Post search response with value
@@ -23,52 +20,70 @@ def search_elastic(value: str):
     return response
 
 
+
 def create_reference_string(path, ref_id):
     # path = "../files/PMC2605581.xml"
     # ref_id = "B15"
-    df_ref = pd.read_csv("big_files/references.csv")
-    result = df_ref.loc[(df_ref["file_name"] == path) & (df_ref["ref_id"] == ref_id)]
-    result_str = f"{result.iloc[0]['author']}. " \
-                 f"{result.iloc[0]['article_title']}. " \
-                 f"{result.iloc[0]['source']}. " \
-                 f"{int(result.iloc[0]['year'])}."
+    ref_number = str(ref_id)
+    file_name = "C:/good_test/" + path
+    info = df_ref.loc[(df_ref["file_name"] == file_name) & (df_ref["ref_id"] == ref_number)]
+    info = info.fillna("-")
+
+    tokens = ["author", "article_title", "source", "year"]
+    entries = dict()
+    for token in tokens:
+        entries[token] = "-"
+    if len(info):
+        info = info.iloc[0]
+        for token in tokens:
+            try:
+                result = info[token]
+                entries[token] = result
+            except Exception as e:
+                print(e)
+        try:
+            entries["year"] = int(entries["year"])
+        except:
+            pass
+
+    parts = [str(entries[token]) for token in tokens]
+    parts = [elem for elem in parts if elem != "-"]
+    if not parts:
+        parts = ["No information found"]
+
+    result_str = ". ".join(parts) + "."
     return result_str
 
 
 # Create review in json
 def create_review(response: dict):
-    sentence_list = []
     source_text = []
     main_text = []
     hits_list = response['hits']['hits']
     b_ind = 0
     for hits in hits_list:
         if hits['_score'] > 4:
+            link_names = []
             hits_sentence = hits['_source']['sentence']
-            hits_citation_number = hits['_source'].get('citation_number_from_sentence', "oops! Not found")
-            # hits_citation_title = hits['_source'].get('citation_title', "EGGOG")
-            # if not hits_citation_title:
-            #     continue
+            hits_citation_numbers = hits['_source'].get('links', "oops! Not found")
             hits_file_name = hits['_source'].get('file_name', "oops! Not found")
-            hits_citation_title = create_reference_string(hits_file_name, "B" + hits_citation_number)
-            if hits_sentence not in sentence_list:
-                sentence_list.append(hits['_source']['sentence'])
+            hits_citation_numbers = hits_citation_numbers.replace("[", "")
+            hits_citation_numbers = hits_citation_numbers.replace("]", "")
+            hits_citation_numbers = hits_citation_numbers.replace(" ", "")
+            hits_citation_numbers = hits_citation_numbers.split(',')
+            for number in hits_citation_numbers:
+                hits_citation_title = create_reference_string(hits_file_name, "B" + number)
                 b_ind += 1
                 link_name = f'B_{b_ind}'
+                link_names.append(link_name)
                 source_text.append(
-                    {'b_link': link_name, 'old_link': hits_citation_number, 'title': hits_citation_title})
-                main_text.append({'sentence': hits_sentence, 'b_link': [link_name]})
-            else:
-                b_ind += 1
-                link_name = f'B_{b_ind}'
-                sentence_ind = sentence_list.index(hits_sentence)
-                main_text[sentence_ind]['b_link'].append(link_name)
-                source_text.append(
-                    {'b_link': link_name, 'old_link': hits_citation_number, 'title': hits_citation_title})
+                    {'b_link': link_name, 'old_link': number, 'title': hits_citation_title})
+            main_text.append({'sentence': hits_sentence, 'b_link': link_names})
     result_test = {'main_text': main_text,
                    'source_text': source_text}
     return result_test
 
+# print(create_reference_string("PMC1064111.xml", str(6)))
 
 # n = 0
 # dir = "searches/"
@@ -131,4 +146,3 @@ def create_review(response: dict):
 # search_stats_filename = os.path.join(dir, search_stats_filename)
 # df = pd.DataFrame.from_dict(search_stats)
 # df.to_csv(search_stats_filename, mode="a", header=not os.path.exists(search_stats_filename))
-

@@ -118,6 +118,5 @@ if __name__ == "__main__":
 
     df = pd.DataFrame().from_dict(result)
 
-
     df_file_name = '../big_files/references.csv'
     df.to_csv(df_file_name, encoding='utf-8', index=False)

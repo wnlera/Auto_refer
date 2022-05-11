@@ -45,6 +45,14 @@ p {
     visibility: visible;
 }
 [data-title]:after {
+    /*overflow-wrap: break-word;*/
+    /*word-break: break-word;*/
+    /*-moz-hyphens: auto;*/
+    /*-webkit-hyphens: auto;*/
+    /*-ms-hyphens: auto;*/
+    /*width: 300px;*/
+    /*height: 300px;*/
+    font-weight: normal;
     content: attr(data-title);
     background-color: lightgray;
     color: #111;

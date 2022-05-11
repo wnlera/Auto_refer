@@ -1,5 +1,5 @@
 import pandas as pd
-df1 = pd.read_csv('searches/search_stats.csv')
+df1 = pd.read_csv('../searches/search_stats.csv')
 print("search_stats.csv")
 print(f"Words count: {df1['key'].count()}")
 print(f"Uniq words count: {df1['key'].drop_duplicates().count()}")
