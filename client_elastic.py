@@ -24,6 +24,18 @@ def search_elastic(value: str):
                     "query": value,
                     "fields": ["sentence"],
                 }
+            },
+            "highlight": {
+                "pre_tags": [
+                    "@kibana-highlighted-field@"
+                ],
+                "post_tags": [
+                    "@/kibana-highlighted-field@"
+                ],
+                "fields": {
+                    "*": {}
+                },
+                "fragment_size": 2147483647
             }
         },
         size=100
@@ -70,14 +82,14 @@ def create_reference_string(path, ref_id):
 def create_review(response: dict):
     source_text = []
     main_text = []
-    max_score = response['hits']['max_score']
+    max_score = response['hits']['max_score'] or 0
     limit_score = max_score * 0.75
     hits_list = response['hits']['hits']
     b_ind = 0
     for hits in hits_list:
         if hits['_score'] > limit_score:
             link_names = []
-            hits_sentence = hits['_source']['sentence']
+            hits_sentence = hits['highlight']['sentence']
             hits_citation_numbers = hits['_source'].get('links', "oops! Not found")
             hits_file_name = hits['_source'].get('file_name', "oops! Not found")
             hits_citation_numbers = hits_citation_numbers.replace("[", "")
@@ -97,9 +109,11 @@ def create_review(response: dict):
                    'max_score': max_score}
     return result_test
 
+
 # print(create_reference_string("PMC1064111.xml", str(6)))
 # resp = search_elastic("MicroRNA is a Major Regulator")
-# print(resp)
+# import json
+# print(json.dumps(resp.body, indent=2))
 # print(resp['hits']['max_score'])
 # n = 0
 # dir = "searches/"
