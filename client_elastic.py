@@ -16,9 +16,20 @@ df_ref = pd.read_csv("big_files/references.csv")
 
 # Post search response with value
 def search_elastic(value: str):
-    response = client.search(query={"fuzzy": {"sentence": {"value": value}}})
-    return response
-
+    resp = client.search(
+        index="library-book-text-phrase",
+        body={
+            "query": {
+                "multi_match": {
+                    "query": value,
+                    "fields": ["sentence"],
+                }
+            }
+        },
+        size=100
+    )
+    # response = client.search(query={"fuzzy": {"sentence": {"value": value}}})
+    return resp
 
 
 def create_reference_string(path, ref_id):
@@ -59,10 +70,12 @@ def create_reference_string(path, ref_id):
 def create_review(response: dict):
     source_text = []
     main_text = []
+    max_score = response['hits']['max_score']
+    limit_score = max_score * 0.75
     hits_list = response['hits']['hits']
     b_ind = 0
     for hits in hits_list:
-        if hits['_score'] > 4:
+        if hits['_score'] > limit_score:
             link_names = []
             hits_sentence = hits['_source']['sentence']
             hits_citation_numbers = hits['_source'].get('links', "oops! Not found")
@@ -80,11 +93,14 @@ def create_review(response: dict):
                     {'b_link': link_name, 'old_link': number, 'title': hits_citation_title})
             main_text.append({'sentence': hits_sentence, 'b_link': link_names})
     result_test = {'main_text': main_text,
-                   'source_text': source_text}
+                   'source_text': source_text,
+                   'max_score': max_score}
     return result_test
 
 # print(create_reference_string("PMC1064111.xml", str(6)))
-
+# resp = search_elastic("MicroRNA is a Major Regulator")
+# print(resp)
+# print(resp['hits']['max_score'])
 # n = 0
 # dir = "searches/"
 # if not os.path.isdir(dir):

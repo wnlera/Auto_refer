@@ -1,0 +1,88 @@
+###
+
+# curl --request PUT
+#  --url http://localhost:9200/library-book-text-phrase
+#  --header 'Content-Type: application/json'
+#  --data '
+#{
+#  "settings": {
+#      "analysis": {
+#        "analyzer": {
+#          "english_analyzer": {
+#          "tokenizer": "standard",
+#          "filter": ["lowercase", "english_stop_filter"]
+#        }
+#      },
+#      "filter": {
+#        "english_stop_filter": {
+#            "type": "stop",
+#            "stopwords": "_english_"
+#        }
+#      }
+#    }
+#  },
+#  "mappings": {
+#    "_doc": {
+#      "properties": {
+#        "title": {
+#          "type": "text",
+#          "analyzer": "english_analyzer"
+#        },
+#        "description": {
+#          "type": "text",
+#          "analyzer": "english_analyzer"
+#        },
+#        "publicationPlace": {
+#          "type": "text",
+#          "analyzer": "keyword"
+#        }
+#      }
+#    }
+#  }
+#}'
+PUT http://localhost:9200/library-book-text-phrase
+Content-Type: application/json
+
+
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "english_analyzer": {
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "english_stop_filter"
+          ]
+        }
+      },
+      "filter": {
+        "english_stop_filter": {
+          "type": "stop",
+          "stopwords": "_english_"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "_doc": {
+      "properties": {
+        "title": {
+          "type": "text",
+          "analyzer": "english_analyzer"
+        },
+        "description": {
+          "type": "text",
+          "analyzer": "english_analyzer"
+        },
+        "publicationPlace": {
+          "type": "text",
+          "analyzer": "keyword"
+        }
+      }
+    }
+  }
+}
+
+###
+

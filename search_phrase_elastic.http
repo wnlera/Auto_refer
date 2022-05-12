@@ -1,0 +1,33 @@
+###
+
+# curl --request POST
+#  --url http://localhost:9200/library-book-text-phrase/_search
+#  --header 'Content-Type: application/json'
+#  --data '{
+#    "query": {
+#        "multi_match": {
+#            "query": "Recipes Of A Delicious And Tasty Meal",
+#            "fields": [
+#                "title",
+#                "publicationPlace"
+#            ]
+#        }
+#    }
+#}'
+POST http://localhost:9200/library-book-text-phrase/_search
+Content-Type: application/json
+
+{
+  "query": {
+    "multi_match": {
+      "query": "Recipes Of A Delicious And Tasty Meal",
+      "fields": [
+        "title",
+        "publicationPlace"
+      ]
+    }
+  }
+}
+
+###
+

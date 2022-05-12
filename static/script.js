@@ -42,6 +42,11 @@ function create_ref(jsonData) {
     }
 }
 
+function show_max_score (jsonData) {
+    let maxScore = document.getElementById("maxScore");
+    maxScore.textContent = "Max score: " + jsonData.max_score;
+}
+
 
 async function get_review(inputValue) {
     let url = 'http://localhost:5000/search/' + encodeURI(inputValue);
@@ -67,6 +72,7 @@ searchButton.addEventListener('click', () => {
     get_review(inputValue).then((data) => {
         if (data.main_text.length > 0) {
             infoDiv.textContent = "Results for: " + inputValue;
+            show_max_score(data)
             create_text(data)
             create_ref(data)
         } else {

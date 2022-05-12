@@ -1,0 +1,17 @@
+curl --request POST
+  --url http://localhost:9200/_reindex
+  --header 'Content-Type: application/json'
+  --data '{
+  "source": {
+    "index": "library-book"
+  },
+  "dest": {
+    "index": "library-book-text-phrase"
+  }
+}'
+
+{
+  "acknowledged" : true,
+  "shards_acknowledged" : true,
+  "index" : "library-book-text-phrase"
+}
